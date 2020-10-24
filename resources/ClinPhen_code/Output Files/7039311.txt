@@ -1,0 +1,21 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001371	Flexion contracture	12	2	 799 818 hp 0005684 distal contractures
+HP:0002803	Congenital contracture	12	2	 799 818 hp 0005684 distal contractures
+HP:0002804	Arthrogryposis multiplex congenita	5	11	 890 911 hp 0005684 distal arthrogryposis
+HP:0003121	Limb joint contracture	3	2	 76 111 hp 0002803 congenital distal limb contractures
+HP:0012385	Camptodactyly	3	22	 1544 1557 hp 0012385 camptodactyly
+HP:0005684	Distal arthrogryposis	2	12	 890 911 hp 0005684 distal arthrogryposis
+HP:0010557	Overlapping fingers	2	19	 474 502 hp 0010557 medially overlapping fingers
+HP:0001760	Abnormality of the foot	2	23	 565 581 hp 0001760 foot deformities
+HP:0000211	Trismus	2	39	 1452 1459 hp 0000211 trismus
+HP:0001166	Arachnodactyly	2	54	 1502 1529 hp 0001166 contractural arachnodactyly
+HP:0005656	Positional foot deformity	1	23	 554 581 hp 0005656 positional foot deformities
+HP:0000175	Cleft palate	1	36	 949 961 hp 0000175 cleft palate
+HP:0410030	Cleft lip	1	37	 963 972 hp 0100333 cleft lip
+HP:0000171	Microglossia	1	38	 974 986 hp 0000171 small tongue
+HP:0000508	Ptosis	1	40	 997 1003 hp 0000508 ptosis
+HP:0007970	Congenital ptosis	1	40	 997 1003 hp 0000508 ptosis
+HP:0000286	Epicanthus	1	41	 1005 1021 hp 0000286 epicanthal folds
+HP:0000563	Keratoconus	1	42	 1023 1034 hp 0000563 keratoconus
+HP:0004322	Short stature	1	43	 1036 1049 hp 0004322 short stature
+HP:0002650	Scoliosis	1	44	 1051 1060 hp 0002650 scoliosis

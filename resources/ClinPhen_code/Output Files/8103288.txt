@@ -1,0 +1,2 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001249	Intellectual disability	2	0	 204 220 hp 0001999 dysmorphogenesis 228 246 hp 0001249 mental retardation 235 246 hp 0001249 retardation 588 595 hp 0003745 de novo

@@ -1,0 +1,7 @@
+1) pip install ClinPhen
+2) In the cmd prompt, execute the command : clinphen "inputfile". Reference: https://github.com/kingmanzhang/clinphen). 
+The input files were the GSC files obtained from "https://github.com/lasigeBioTM/IHP" GSC+.rar folder
+
+Sample Code: for File in *; do clinphen $File > $File.txt; done;
+
+3) The individual output files were then concatenated as .csv file which is uploaded in this folder as : 'ClinPhen_Output.csv'. the output HPO IDs can be obtained from the column : "HPO ID"

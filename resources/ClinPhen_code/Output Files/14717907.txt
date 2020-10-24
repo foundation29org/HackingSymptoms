@@ -1,0 +1,4 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000077	Abnormality of the kidney	3	1	 24 48 hp 0000598 ear and kidney anomalies 32 48 hp 0000077 kidney anomalies 378 411 hp 0000598 ear and kidney clinical syndromes 386 411 hp 0000077 kidney clinical syndromes
+HP:0000356	Abnormality of the outer ear	1	1	 24 48 hp 0000598 ear and kidney anomalies 32 48 hp 0000077 kidney anomalies 378 411 hp 0000598 ear and kidney clinical syndromes 386 411 hp 0000077 kidney clinical syndromes
+HP:0000598	Abnormality of the ear	1	1	 24 48 hp 0000598 ear and kidney anomalies 32 48 hp 0000077 kidney anomalies 378 411 hp 0000598 ear and kidney clinical syndromes 386 411 hp 0000077 kidney clinical syndromes

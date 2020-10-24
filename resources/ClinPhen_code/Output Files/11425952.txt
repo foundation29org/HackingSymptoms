@@ -1,0 +1,4 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001067	Neurofibromas	2	0	 34 51 hp 0006746 neurofibromatosis 84 115 hp 0009831 axonal mononeuropathy multiplex 169 194 hp 0100008 schwann cells transformed 289 320 hp 0100008 defective schwann cell function 452 473 hp 0000764 degeneration of axons
+HP:0009831	Mononeuropathy	2	0	 34 51 hp 0006746 neurofibromatosis 84 115 hp 0009831 axonal mononeuropathy multiplex 169 194 hp 0100008 schwann cells transformed 289 320 hp 0100008 defective schwann cell function 452 473 hp 0000764 degeneration of axons
+HP:0040078	Axonal degeneration	1	0	 34 51 hp 0006746 neurofibromatosis 84 115 hp 0009831 axonal mononeuropathy multiplex 169 194 hp 0100008 schwann cells transformed 289 320 hp 0100008 defective schwann cell function 452 473 hp 0000764 degeneration of axons

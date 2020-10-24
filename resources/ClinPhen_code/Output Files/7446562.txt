@@ -1,0 +1,12 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001371	Flexion contracture	5	1	 109 138 hp 0002803 congenital joint contractures
+HP:0002803	Congenital contracture	5	1	 109 138 hp 0002803 congenital joint contractures
+HP:0001762	Talipes equinovarus	2	8	 240 258 hp 0001776 bilateral clubfeet
+HP:0002804	Arthrogryposis multiplex congenita	2	15	 540 554 hp 0001390 arthrogryposis
+HP:0004097	Deviation of finger	1	4	 156 182 hp 0009465 ulnar deviation of fingers
+HP:0009465	Ulnar deviation of finger	1	4	 156 182 hp 0009465 ulnar deviation of fingers
+HP:0009473	Joint contracture of the hand	1	6	 199 225 hp 0006096 contractures of both hands
+HP:0001776	Bilateral talipes equinovarus	1	8	 240 258 hp 0001776 bilateral clubfeet
+HP:0004322	Short stature	1	10	 283 299 hp 0001509 short in stature
+HP:0001216	Delayed ossification of carpal bones	1	11	 336 363 hp 0001216 delayed carpal ossification
+HP:0005684	Distal arthrogryposis	1	15	 531 554 hp 0005684 distal arthrogryposis

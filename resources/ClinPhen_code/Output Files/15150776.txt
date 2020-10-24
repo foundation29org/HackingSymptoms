@@ -1,0 +1,5 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001257	Spasticity	2	0	 243 251 hp 0003745 sporadic 656 666 hp 0001257 spasticity 705 719 hp 0100021 cerebral palsy 752 768 hp 0002059 cerebral atrophy 871 889 hp 0007319 brain malformation
+HP:0002059	Cerebral atrophy	2	0	 243 251 hp 0003745 sporadic 656 666 hp 0001257 spasticity 705 719 hp 0100021 cerebral palsy 752 768 hp 0002059 cerebral atrophy 871 889 hp 0007319 brain malformation
+HP:0100021	Cerebral palsy	2	0	 243 251 hp 0003745 sporadic 656 666 hp 0001257 spasticity 705 719 hp 0100021 cerebral palsy 752 768 hp 0002059 cerebral atrophy 871 889 hp 0007319 brain malformation
+HP:0012444	Brain atrophy	1	0	 243 251 hp 0003745 sporadic 656 666 hp 0001257 spasticity 705 719 hp 0100021 cerebral palsy 752 768 hp 0002059 cerebral atrophy 871 889 hp 0007319 brain malformation

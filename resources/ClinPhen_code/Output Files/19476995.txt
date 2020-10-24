@@ -1,0 +1,14 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0002664	Neoplasm	7	4	 50 68 hp 0003008 multiple neoplasia
+HP:0001067	Neurofibromas	4	1	 503 516 hp 0001067 neurofibromas
+HP:0009830	Peripheral neuropathy	2	17	 519 540 hp 0009830 peripheral neuropathy
+HP:0100008	Schwannoma	1	12	 446 457 hp 0100008 schwannomas
+HP:0002858	Meningioma	1	13	 459 470 hp 0002858 meningiomas
+HP:0002888	Ependymoma	1	14	 472 483 hp 0002888 ependymomas
+HP:0009592	Astrocytoma	1	15	 485 497 hp 0009592 astrocytomas
+HP:0006903	Congenital peripheral neuropathy	1	17	 519 540 hp 0009830 peripheral neuropathy
+HP:0000518	Cataract	1	20	 568 577 hp 0000518 cataracts
+HP:0000519	Developmental cataract	1	20	 568 577 hp 0000518 cataracts
+HP:0100014	Epiretinal membrane	1	21	 579 599 hp 0100014 epiretinal membranes
+HP:0009594	Retinal hamartoma	1	22	 605 623 hp 0009594 retinal hamartomas
+HP:0010566	Hamartoma	1	22	 605 623 hp 0009594 retinal hamartomas

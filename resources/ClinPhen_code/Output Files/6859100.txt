@@ -1,0 +1,7 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000365	Hearing impairment	3	1	 53 89 hp 0008619 bilateral sensorineural hearing loss
+HP:0000407	Sensorineural hearing impairment	2	1	 53 89 hp 0008619 bilateral sensorineural hearing loss
+HP:0008527	Congenital sensorineural hearing impairment	2	1	 53 89 hp 0008619 bilateral sensorineural hearing loss
+HP:0004467	Preauricular pit	2	4	 93 116 hp 0000384 preauricular pit or tag
+HP:0008619	Bilateral sensorineural hearing impairment	1	1	 53 89 hp 0008619 bilateral sensorineural hearing loss
+HP:0000384	Preauricular skin tag	1	4	 93 116 hp 0000384 preauricular pit or tag

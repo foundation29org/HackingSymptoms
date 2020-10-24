@@ -1,0 +1,9 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0002671	Basal cell carcinoma	4	1	 11 31 hp 0002671 basal cell carcinoma
+HP:0030731	Carcinoma	4	1	 11 31 hp 0002671 basal cell carcinoma
+HP:0010612	Plantar pits	2	8	 500 526 hp 0010612 palmar and or plantar pits
+HP:0002664	Neoplasm	2	14	 774 785 hp 0008069 skin tumors
+HP:0010610	Palmar pits	1	8	 500 526 hp 0010612 palmar and or plantar pits
+HP:0005462	Calcification of falx cerebri	1	11	 532 565 hp 0005462 calcification of the falx cerebri
+HP:0008069	Neoplasm of the skin	1	14	 774 785 hp 0008069 skin tumors
+HP:0000953	Hyperpigmentation of the skin	1	16	 871 898 hp 0000953 increased skin pigmentation

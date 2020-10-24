@@ -1,0 +1,9 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000077	Abnormality of the kidney	3	33	 327 362 hp 0009794 branchial otic and renal anomalies
+HP:0000365	Hearing impairment	2	13	 81 93 hp 0000365 hearing loss
+HP:0030025	Auricular pit	2	43	 966 984 hp 0004467 pre auricular pits
+HP:0000175	Cleft palate	1	39	 581 593 hp 0000175 cleft palate
+HP:0000545	Myopia	1	40	 638 644 hp 0000545 myopia
+HP:0012368	Flat face	1	42	 696 705 hp 0000272 flat face
+HP:0009795	Branchial fistula	1	47	 986 1004 hp 0009795 branchial fistulae
+HP:0000104	Renal agenesis	1	48	 1009 1023 hp 0000104 renal agenesis

@@ -1,0 +1,4 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001156	Brachydactyly	5	0	 0 13 hp 0004322 short stature 40 55 hp 0009373 brachydactyly c 40 53 hp 0001156 brachydactyly 116 131 hp 0009373 brachydactyly c 116 129 hp 0001156 brachydactyly 133 146 hp 0004322 short stature 152 165 hp 0001385 hip dysplasia
+HP:0004322	Short stature	3	0	 0 13 hp 0004322 short stature 40 55 hp 0009373 brachydactyly c 40 53 hp 0001156 brachydactyly 116 131 hp 0009373 brachydactyly c 116 129 hp 0001156 brachydactyly 133 146 hp 0004322 short stature 152 165 hp 0001385 hip dysplasia
+HP:0001385	Hip dysplasia	2	0	 0 13 hp 0004322 short stature 40 55 hp 0009373 brachydactyly c 40 53 hp 0001156 brachydactyly 116 131 hp 0009373 brachydactyly c 116 129 hp 0001156 brachydactyly 133 146 hp 0004322 short stature 152 165 hp 0001385 hip dysplasia

@@ -1,0 +1,6 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0004467	Preauricular pit	1	1	 101 109 hp 0004467 ear pits
+HP:0009796	Branchial cyst	1	4	 111 132 hp 0009796 branchial cleft cysts
+HP:0000365	Hearing impairment	1	6	 134 142 hp 0000404 deafness
+HP:0000077	Abnormality of the kidney	1	7	 147 162 hp 0000077 renal anomalies
+HP:0100274	Gustatory lacrimation	1	12	 288 309 hp 0100274 gustatory lacrimation

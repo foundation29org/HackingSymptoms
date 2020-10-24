@@ -1,0 +1,3 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001067	Neurofibromas	2	0	 28 45 hp 0006746 neurofibromatosis 673 680 hp 0100242 sarcoma
+HP:0100242	Sarcoma	2	0	 28 45 hp 0006746 neurofibromatosis 673 680 hp 0100242 sarcoma

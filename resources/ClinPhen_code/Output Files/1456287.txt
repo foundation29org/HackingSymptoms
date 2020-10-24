@@ -1,0 +1,2 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001611	Nasal speech	2	0	 189 206 hp 0001611 hypernasal speech 212 252 hp 0004322 continued growth along the third centile

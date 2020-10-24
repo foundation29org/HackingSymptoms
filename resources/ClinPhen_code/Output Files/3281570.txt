@@ -1,0 +1,5 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001156	Brachydactyly	3	0	 12 32 hp 0009373 type c brachydactyly 19 32 hp 0001156 brachydactyly 76 97 hp 0003829 incomplete penetrance 102 120 hp 0001760 feet abnormalities
+HP:0001760	Abnormality of the foot	2	0	 12 32 hp 0009373 type c brachydactyly 19 32 hp 0001156 brachydactyly 76 97 hp 0003829 incomplete penetrance 102 120 hp 0001760 feet abnormalities
+HP:0009373	Type C brachydactyly	2	0	 12 32 hp 0009373 type c brachydactyly 19 32 hp 0001156 brachydactyly 76 97 hp 0003829 incomplete penetrance 102 120 hp 0001760 feet abnormalities
+HP:0001831	Short toe	1	0	 12 32 hp 0009373 type c brachydactyly 19 32 hp 0001156 brachydactyly 76 97 hp 0003829 incomplete penetrance 102 120 hp 0001760 feet abnormalities

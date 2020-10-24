@@ -1,0 +1,6 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0002671	Basal cell carcinoma	5	2	 4 29 hp 0002671 basal cell nevus syndrome
+HP:0003764	Nevus	4	2	 4 29 hp 0002671 basal cell nevus syndrome
+HP:0000772	Abnormality of the ribs	2	8	 119 136 hp 0000772 anomalies of ribs
+HP:0030731	Carcinoma	1	6	 79 99 hp 0002671 basal cell carcinoma
+HP:0000271	Abnormality of the face	1	12	 188 211 hp 0000271 anomalies of the facial

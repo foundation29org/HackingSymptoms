@@ -1,0 +1,6 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001010	Hypopigmentation of the skin	3	3	 140 156 hp 0007513 hypopigmentation
+HP:0000486	Strabismus	2	3	 547 557 hp 0000486 strabismus
+HP:0000639	Nystagmus	2	3	 531 540 hp 0000639 nystagmus
+HP:0001022	Albinism	2	3	 416 424 hp 0001022 albinism
+HP:0006934	Congenital nystagmus	2	3	 531 540 hp 0000639 nystagmus

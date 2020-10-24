@@ -1,0 +1,3 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0002671	Basal cell carcinoma	2	7	 298 314 hp 0002671 basal cell nevus
+HP:0003764	Nevus	2	7	 298 314 hp 0002671 basal cell nevus

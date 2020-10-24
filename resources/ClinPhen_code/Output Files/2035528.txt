@@ -1,0 +1,2 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001263	Global developmental delay	1	0	 13 30 hp 0001249 mentally retarded 970 990 hp 0001263 abnormal development

@@ -1,0 +1,2 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0004322	Short stature	2	0	 34 47 hp 0004322 short stature

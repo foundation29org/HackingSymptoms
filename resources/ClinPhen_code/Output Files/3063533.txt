@@ -1,0 +1,5 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001250	Seizures	2	0	 67 90 hp 0001255 psychomotor retardation 79 90 hp 0001249 retardation 91 118 hp 0003576 during the 1st year of life 120 128 hp 0001250 seizures 201 229 hp 0002283 diffuse atrophy of the brain
+HP:0002283	Global brain atrophy	2	0	 67 90 hp 0001255 psychomotor retardation 79 90 hp 0001249 retardation 91 118 hp 0003576 during the 1st year of life 120 128 hp 0001250 seizures 201 229 hp 0002283 diffuse atrophy of the brain
+HP:0012444	Brain atrophy	2	0	 67 90 hp 0001255 psychomotor retardation 79 90 hp 0001249 retardation 91 118 hp 0003576 during the 1st year of life 120 128 hp 0001250 seizures 201 229 hp 0002283 diffuse atrophy of the brain
+HP:0025356	Psychomotor retardation	2	0	 67 90 hp 0001255 psychomotor retardation 79 90 hp 0001249 retardation 91 118 hp 0003576 during the 1st year of life 120 128 hp 0001250 seizures 201 229 hp 0002283 diffuse atrophy of the brain

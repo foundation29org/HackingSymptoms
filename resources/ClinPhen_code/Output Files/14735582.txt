@@ -1,0 +1,4 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001156	Brachydactyly	1	8	 0 20 hp 0009373 brachydactyly type c
+HP:0009373	Type C brachydactyly	1	8	 0 20 hp 0009373 brachydactyly type c
+HP:0010049	Short metacarpal	1	23	 750 788 hp 0010047 shortening of the metacarpals iv and v

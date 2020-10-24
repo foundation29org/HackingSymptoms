@@ -1,0 +1,3 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001290	Generalized hypotonia	2	0	 591 609 hp 0008935 hypotonic at birth
+HP:0001319	Neonatal hypotonia	2	0	 591 609 hp 0008935 hypotonic at birth

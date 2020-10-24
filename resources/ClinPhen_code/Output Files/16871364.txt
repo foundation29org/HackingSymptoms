@@ -1,0 +1,3 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001156	Brachydactyly	2	0	 0 21 hp 0009371 brachydactyly type a1 23 27 hp 0009371 bda1 248 281 hp 0003813 significant homogeneous phenotype
+HP:0009371	Type A1 brachydactyly	2	0	 0 21 hp 0009371 brachydactyly type a1 23 27 hp 0009371 bda1 248 281 hp 0003813 significant homogeneous phenotype

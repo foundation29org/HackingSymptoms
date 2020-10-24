@@ -1,0 +1,6 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0100008	Schwannoma	3	6	 913 924 hp 0100008 schwannomas
+HP:0009588	Vestibular Schwannoma	2	6	 892 924 hp 0009589 bilateral vestibular schwannomas
+HP:0001067	Neurofibromas	1	1	 39 56 hp 0006746 neurofibromatosis
+HP:0009589	Bilateral vestibular Schwannoma	1	6	 892 924 hp 0009589 bilateral vestibular schwannomas
+HP:0002664	Neoplasm	1	9	 1004 1011 hp 0002664 tumours

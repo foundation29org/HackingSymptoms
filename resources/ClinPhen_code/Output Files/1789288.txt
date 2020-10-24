@@ -1,0 +1,3 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0009588	Vestibular Schwannoma	4	0	 186 203 hp 0009588 acoustic neuromas 458 475 hp 0009588 acoustic neuromas 490 499 hp 0003593 early age 565 582 hp 0009588 acoustic neuromas
+HP:0030430	Neuroma	4	0	 186 203 hp 0009588 acoustic neuromas 458 475 hp 0009588 acoustic neuromas 490 499 hp 0003593 early age 565 582 hp 0009588 acoustic neuromas

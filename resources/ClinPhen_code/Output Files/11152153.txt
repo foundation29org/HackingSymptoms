@@ -1,0 +1,4 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0010442	Polydactyly	3	0	 68 87 hp 0100258 preaxial polydatyly 94 108 hp 0002211 white forelock 167 187 hp 0001177 preaxial polydactyly 176 187 hp 0010442 polydactyly
+HP:0002211	White forelock	2	0	 68 87 hp 0100258 preaxial polydatyly 94 108 hp 0002211 white forelock 167 187 hp 0001177 preaxial polydactyly 176 187 hp 0010442 polydactyly
+HP:0100258	Preaxial polydactyly	2	0	 68 87 hp 0100258 preaxial polydatyly 94 108 hp 0002211 white forelock 167 187 hp 0001177 preaxial polydactyly 176 187 hp 0010442 polydactyly

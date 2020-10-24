@@ -1,0 +1,9 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000110	Renal dysplasia	3	1	 720 736 hp 0000110 renal adysplasia
+HP:0000365	Hearing impairment	3	5	 372 384 hp 0000365 hearing loss
+HP:0000356	Abnormality of the outer ear	2	2	 156 182 hp 0000356 external ear malformations
+HP:0008572	External ear malformation	2	2	 156 182 hp 0000356 external ear malformations
+HP:0000077	Abnormality of the kidney	2	7	 312 327 hp 0000077 renal anomalies
+HP:0000410	Mixed hearing impairment	1	5	 203 221 hp 0000410 mixed hearing loss
+HP:0002009	Potter facies	1	19	 895 908 hp 0002009 potter facies
+HP:0000377	Abnormality of the pinna	1	20	 929 951 hp 0000356 auricular malformation

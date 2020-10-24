@@ -1,0 +1,10 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0100008	Schwannoma	6	5	 101 123 hp 0009588 vestibular schwannomas
+HP:0009588	Vestibular Schwannoma	3	5	 252 284 hp 0009589 bilateral vestibular schwannomas
+HP:0002664	Neoplasm	3	7	 134 140 hp 0002664 tumors
+HP:0002858	Meningioma	3	11	 174 204 hp 0100009 cranial and spinal meningiomas
+HP:0001067	Neurofibromas	2	2	 0 17 hp 0006746 neurofibromatosis
+HP:0100010	Spinal meningioma	2	11	 174 204 hp 0100009 cranial and spinal meningiomas
+HP:0004375	Neoplasm of the nervous system	1	9	 134 162 hp 0004375 tumors of the nervous system
+HP:0002888	Ependymoma	1	15	 223 234 hp 0002888 ependymomas
+HP:0009589	Bilateral vestibular Schwannoma	1	16	 252 284 hp 0009589 bilateral vestibular schwannomas

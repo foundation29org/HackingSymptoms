@@ -1,0 +1,8 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0010442	Polydactyly	4	4	 377 397 hp 0001177 preaxial polydactyly
+HP:0000356	Abnormality of the outer ear	2	2	 155 177 hp 0000356 external ear anomalies
+HP:0000598	Abnormality of the ear	2	2	 155 177 hp 0000356 external ear anomalies
+HP:0100258	Preaxial polydactyly	2	4	 377 397 hp 0001177 preaxial polydactyly
+HP:0001140	Limbal dermoid	2	11	 412 429 hp 0001140 epibulbar dermoid
+HP:0001545	Anteriorly placed anus	1	6	 205 227 hp 0001545 anteriorly placed anus
+HP:0000347	Micrognathia	1	8	 344 365 hp 0000347 mandibular hypoplasia

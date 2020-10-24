@@ -1,0 +1,7 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000365	Hearing impairment	3	10	 146 158 hp 0000365 hearing loss
+HP:0000356	Abnormality of the outer ear	2	6	 118 144 hp 0000356 external ear malformations
+HP:0008572	External ear malformation	2	6	 118 144 hp 0000356 external ear malformations
+HP:0000077	Abnormality of the kidney	1	11	 164 179 hp 0000077 renal anomalies
+HP:0004467	Preauricular pit	1	12	 207 215 hp 0004467 ear pits
+HP:0009795	Branchial fistula	1	17	 242 260 hp 0009795 branchial fistulae

@@ -1,0 +1,6 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000365	Hearing impairment	1	6	 133 151 hp 0000365 hearing impairment
+HP:0000394	Lop ear	1	7	 178 195 hp 0000394 lop ear deformity
+HP:0004467	Preauricular pit	1	8	 197 214 hp 0004467 preauricular pits
+HP:0100272	Branchial sinus	1	11	 216 244 hp 0100272 branchial cleft sinus tracts
+HP:0000077	Abnormality of the kidney	1	12	 250 265 hp 0000077 renal anomalies

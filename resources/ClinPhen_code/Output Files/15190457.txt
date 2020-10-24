@@ -1,0 +1,8 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0002664	Neoplasm	20	4	 84 90 hp 0002664 tumors
+HP:0002858	Meningioma	6	13	 806 830 hp 0100009 intracranial meningiomas
+HP:0030430	Neuroma	5	6	 84 141 hp 0009591 tumors on the vestibular branch of the viii cranial nerve
+HP:0100009	Intracranial meningioma	3	13	 1366 1390 hp 0100009 intracranial meningiomas
+HP:0010302	Spinal cord tumor	3	15	 1392 1405 hp 0010302 spinal tumors
+HP:0001067	Neurofibromas	1	1	 0 17 hp 0006746 neurofibromatosis
+HP:0004375	Neoplasm of the nervous system	1	7	 162 183 hp 0004375 nervous system tumors

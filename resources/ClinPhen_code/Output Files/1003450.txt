@@ -1,0 +1,6 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001792	Small nail	2	4	 74 103 hp 0001798 aplastic or hypoplastic nails
+HP:0001156	Brachydactyly	1	2	 14 27 hp 0001156 brachydactyly
+HP:0001798	Anonychia	1	4	 74 103 hp 0001798 aplastic or hypoplastic nails
+HP:0009702	Carpal synostosis	1	8	 166 208 hp 0009702 synostosis of some carpal and tarsal bones
+HP:0001363	Craniosynostosis	1	10	 210 226 hp 0001363 craniosynostosis

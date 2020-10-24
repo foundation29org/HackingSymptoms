@@ -1,0 +1,6 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0002671	Basal cell carcinoma	3	1	 7 27 hp 0002671 basal cell carcinoma
+HP:0030731	Carcinoma	3	1	 7 27 hp 0002671 basal cell carcinoma
+HP:0010609	Skin tags	2	7	 793 801 hp 0010609 skin tags
+HP:0200034	Papule	1	9	 470 490 hp 0200034 pedunculated papules
+HP:0002664	Neoplasm	1	14	 1003 1009 hp 0002664 tumors

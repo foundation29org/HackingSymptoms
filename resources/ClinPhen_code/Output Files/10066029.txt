@@ -1,0 +1,9 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0010612	Plantar pits	4	11	 543 562 hp 0010610 palmar plantar pits
+HP:0002671	Basal cell carcinoma	2	1	 208 229 hp 0002671 basal cell carcinomas
+HP:0030731	Carcinoma	2	1	 208 229 hp 0002671 basal cell carcinomas
+HP:0010610	Palmar pits	2	11	 275 301 hp 0010612 palmar and or plantar pits
+HP:0010603	Odontogenic keratocysts of the jaw	1	10	 250 273 hp 0010603 keratocysts of the jaws
+HP:0000924	Abnormality of the skeletal system	1	14	 303 325 hp 0000924 skeletal abnormalities
+HP:0002514	Cerebral calcification	1	15	 330 357 hp 0002514 intracranial calcifications
+HP:0005462	Calcification of falx cerebri	1	17	 447 476 hp 0005462 calcification of falx cerebri

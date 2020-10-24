@@ -1,0 +1,15 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000365	Hearing impairment	4	27	 501 513 hp 0000365 hearing loss
+HP:0000407	Sensorineural hearing impairment	2	27	 385 411 hp 0000407 sensorineural hearing loss
+HP:0008527	Congenital sensorineural hearing impairment	2	27	 385 411 hp 0000407 sensorineural hearing loss
+HP:0002023	Anal atresia	1	18	 197 213 hp 0002023 imperforate anus
+HP:0003246	Prominent scrotal raphe	1	19	 215 239 hp 0003246 prominent perineal raphe
+HP:0004792	Rectoperineal fistula	1	20	 241 262 hp 0004792 rectoperineal fistula
+HP:0001199	Triphalangeal thumb	1	21	 264 283 hp 0001199 triphalangeal thumb
+HP:0001159	Syndactyly	1	23	 307 317 hp 0001159 syndactyly
+HP:0030084	Clinodactyly	1	24	 319 331 hp 0030084 clinodactyly
+HP:0008551	Microtia	1	26	 361 383 hp 0000377 hypoplastic satyr ears
+HP:0030676	Satyr ear	1	26	 361 383 hp 0000377 hypoplastic satyr ears
+HP:0002813	Abnormality of limb bone morphology	1	30	 471 485 hp 0002813 limb anomalies
+HP:0040064	Abnormality of limbs	1	30	 471 485 hp 0002813 limb anomalies
+HP:0000077	Abnormality of the kidney	1	33	 518 533 hp 0000077 renal anomalies

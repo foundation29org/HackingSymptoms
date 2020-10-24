@@ -1,0 +1,3 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0009794	Branchial anomaly	1	4	 117 145 hp 0009794 branchial arch abnormalities
+HP:0000365	Hearing impairment	1	5	 147 159 hp 0000365 hearing loss

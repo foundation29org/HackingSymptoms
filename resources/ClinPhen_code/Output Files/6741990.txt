@@ -1,0 +1,10 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000365	Hearing impairment	2	1	 33 55 hp 0000407 sensorineural deafness
+HP:0001627	Abnormal heart morphology	2	6	 124 147 hp 0002564 congenital heart defect
+HP:0030680	Abnormality of cardiovascular system morphology	2	6	 124 147 hp 0002564 congenital heart defect
+HP:0000407	Sensorineural hearing impairment	1	1	 33 55 hp 0000407 sensorineural deafness
+HP:0008527	Congenital sensorineural hearing impairment	1	1	 33 55 hp 0000407 sensorineural deafness
+HP:0002023	Anal atresia	1	3	 57 73 hp 0002023 imperforate anus
+HP:0000143	Rectovaginal fistula	1	4	 79 99 hp 0000143 rectovaginal fistula
+HP:0009778	Short thumb	1	5	 101 118 hp 0009778 hypoplastic thumb
+HP:0000118	Phenotypic abnormality	1	9	 575 590 hp 0000118 anomalies of other internal organs

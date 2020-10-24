@@ -1,0 +1,11 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0410030	Cleft lip	4	4	 57 77 hp 0000175 cleft lip and palate
+HP:0000271	Abnormality of the face	4	15	 217 233 hp 0000271 facial anomalies
+HP:0000579	Nasolacrimal duct obstruction	4	18	 436 465 hp 0000579 nasolacrimal duct obstruction
+HP:0100336	Bilateral cleft lip	2	4	 47 66 hp 0100336 bilateral cleft lip
+HP:0000568	Microphthalmia	2	10	 79 103 hp 0007633 bilateral microphthalmos
+HP:0007633	Bilateral microphthalmos	1	10	 79 103 hp 0007633 bilateral microphthalmos
+HP:0000589	Coloboma	1	12	 108 125 hp 0007995 ocular colobomata
+HP:0000288	Abnormality of the philtrum	1	17	 249 276 hp 0000288 abnormality of the philtrum
+HP:0000322	Short philtrum	1	22	 396 410 hp 0000322 short philtrum
+HP:0000478	Abnormality of the eye	1	28	 717 741 hp 0000478 abnormalities of the eye

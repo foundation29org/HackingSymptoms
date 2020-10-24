@@ -1,0 +1,5 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0100008	Schwannoma	6	4	 119 130 hp 0100008 schwannomas
+HP:0002858	Meningioma	6	5	 135 146 hp 0002858 meningiomas
+HP:0001067	Neurofibromas	4	1	 1248 1265 hp 0006746 neurofibromatosis
+HP:0002664	Neoplasm	3	11	 968 974 hp 0002664 tumour

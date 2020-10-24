@@ -1,0 +1,666 @@
+ID,Disease,HPO ID,Symptoms
+202110,"Isolated 17,20-lyase deficiency","['0000138', '0000837', '0100879']","['Ovarian cyst', 'Increased circulating gonadotropin level', 'Enlarged ovaries']"
+300438,17-beta-hydroxysteroid dehydrogenase X deficiency,"['0000061', '0000062']","['Ambiguous genitalia, female', 'Ambiguous genitalia']"
+610006,2-methylbutyrylglycinuria,['0001941'],['Acidosis']
+231530,3-hydroxyacyl-coa dehydrogenase deficiency,"['0004396', '0002013', '0002014', '0001254', '0001943', '0001290', '0001319', '0000842', '0005364', '0031691', '0032169']","['Poor appetite', 'Vomiting', 'Diarrhea', 'Lethargy', 'Hypoglycemia', 'Generalized hypotonia', 'Neonatal hypotonia', 'Hyperinsulinemia', 'Severe viral infections', 'Severe viral infection', 'Severe infection']"
+273750,3-M syndrome,[],[]
+250950,3-Methylglutaconic aciduria type I,[],[]
+258501,3-Methylglutaconic aciduria type III,[],[]
+610198,3-Methylglutaconic aciduria type V,[],[]
+400045,46XX true hermaphroditism,[],[]
+305400,Aarskog–Scott syndrome,"['0000316', '0003196', '0003189', '0000349', '0003502', '0004322', '0008848', '0001155', '0001156', '0009381', '0004095', '0004209', '0030084', '0040019', '0001159', '0006101', '0010554', '0012725', '0000023', '0000028', '0001537', '0100790', '0001249', '0010864']","['Hypertelorism', 'Short nose', 'Long nose', ""Widow's peak"", 'Mild short stature', 'Short stature', 'Moderately short stature', 'Abnormality of the hand', 'Brachydactyly', 'Short finger', 'Curved fingers', 'Clinodactyly of the 5th finger', 'Clinodactyly', 'Finger clinodactyly', 'Syndactyly', 'Finger syndactyly', 'Cutaneous finger syndactyly', 'Cutaneous syndactyly', 'Inguinal hernia', 'Cryptorchidism', 'Umbilical hernia', 'Hernia', 'Intellectual disability', 'Intellectual disability, severe']"
+600501,ABCD syndrome,[],[]
+200100,Abetalipoproteinemia,[],[]
+231550,Achalasia-Addisonianism-Alacrimia syndrome,[],[]
+200500,Acheiropody,[],[]
+200600,Achondrogenesis type 1A,[],[]
+200610,Achondrogenesis-hypochondrogenesis type 2,[],[]
+100800,Achondroplasia,"['0003510', '0008873', '0008905', '0009381', '0009826', '0000252', '0000256', '0000290', '0000309', '0000350', '0000366', '0000411', '0000422', '0000426', '0001155', '0001176', '0001742', '0001863', '0002003', '0002007', '0002719', '0002808', '0003307', '0004060', '0004425', '0004488', '0005280', '0005281', '0006228', '0008443', '0011220', '0011451', '0011800', '0012371', '0030031', '0030866', '0200055', '0410018', '0002104', '0002870', '0002871', '0010535', '0010536', '0000238']","['Severe short stature', 'Disproportionate short-limb short stature', 'Rhizomelia', 'Short finger', 'Limb undergrowth', 'Microcephaly', 'Macrocephaly', 'Abnormality of the forehead', 'Abnormality of the midface', 'Small forehead', 'Abnormality of the nose', 'Protruding ear', 'Abnormality of the nasal bridge', 'Prominent nasal bridge', 'Abnormality of the hand', 'Large hands', 'Nasal obstruction', 'Toe clinodactyly', 'Large forehead', 'Frontal bossing', 'Recurrent infections', 'Kyphosis', 'Hyperlordosis', 'Trident hand', 'Flat forehead', 'Macrocephaly at birth', 'Depressed nasal bridge', 'Hypoplastic nasal bridge', 'Valgus hand deformity', 'Spinal deformities', 'Prominent forehead', 'Congenital microcephaly', 'Midface retrusion', 'Hyperplasia of midface', 'Small toe', 'Large knee', 'Small hand', 'Recurrent ear infections', 'Apnea', 'Obstructive sleep apnea', 'Central apnea', 'Sleep apnea', 'Central sleep apnea', 'Hydrocephalus']"
+200990,Acrocallosal syndrome,"['0000234', '0000256', '0004488', '0000316', '0001249', '0001161', '0000175', '0001263']","['Abnormality of the head', 'Macrocephaly', 'Macrocephaly at birth', 'Hypertelorism', 'Intellectual disability', 'Hand polydactyly', 'Cleft palate', 'Global developmental delay']"
+201100,Acrodermatitis enteropathica,['0002014'],['Diarrhea']
+101900,Acrokeratosis verruciformis,[],[]
+201450,"Acyl-CoA dehydrogenase, medium chain, deficiency of","['0001943', '0001985', '0001410', '0002013', '0011968']","['Hypoglycemia', 'Hypoketotic hypoglycemia', 'Decreased liver function', 'Vomiting', 'Feeding difficulties']"
+201470,"Acyl-CoA dehydrogenase, short chain, deficiency of","['0002013', '0001943', '0001254', '0011968', '0004324', '0001252', '0001290', '0001319', '0001250', '0001263', '0000252', '0011451']","['Vomiting', 'Hypoglycemia', 'Lethargy', 'Feeding difficulties', 'Increased body weight', 'Muscular hypotonia', 'Generalized hypotonia', 'Neonatal hypotonia', 'Seizures', 'Global developmental delay', 'Microcephaly', 'Congenital microcephaly']"
+175100,Adenomatous polyposis coli,[],[]
+103050,Adenylosuccinase deficiency,[],[]
+202300,Adrenal cortical carcinoma,"['0002664', '0003118', '0000859', '0006744', '0030731', '0000826', '0002666', '0002027', '0030157', '0012871', '0004324', '0003202', '0025383', '0500011', '0001030', '0000822', '0002315', '0002900', '0001324', '0001289', '0001962', '0003351']","['Neoplasm', 'Increased circulating cortisol level', 'Hyperaldosteronism', 'Adrenocortical carcinoma', 'Carcinoma', 'Precocious puberty', 'Pheochromocytoma', 'Abdominal pain', 'Flank pain', 'Varicocele', 'Increased body weight', 'Skeletal muscle atrophy', 'Dorsocervical fat pad', 'Moon facies', 'Fragile skin', 'Hypertension', 'Headache', 'Hypokalemia', 'Muscle weakness', 'Confusion', 'Palpitations', 'Decreased circulating renin level']"
+201400,Adrenocorticotropic hormone deficiency,[],[]
+300100,Adrenoleukodystrophy,"['0000846', '0000712', '0000752', '0011096', '0031358', '0003552', '0002385']","['Adrenal insufficiency', 'Emotional lability', 'Hyperactivity', 'Peripheral demyelination', 'Vegetative state', 'Muscle stiffness', 'Paraparesis']"
+202370,"Adrenoleukodystrophy, neonatal","['0000365', '0001730', '0000290', '0000348', '0009891', '0000286', '0011800', '0000239', '0002240', '0100593', '0000478', '0000107', '0001252', '0001290', '0001319', '0001250', '0002104']","['Hearing impairment', 'Progressive hearing impairment', 'Abnormality of the forehead', 'High forehead', 'Underdeveloped supraorbital ridges', 'Epicanthus', 'Midface retrusion', 'Large fontanelles', 'Hepatomegaly', 'Calcification of cartilage', 'Abnormality of the eye', 'Renal cyst', 'Muscular hypotonia', 'Generalized hypotonia', 'Neonatal hypotonia', 'Seizures', 'Apnea']"
+103285,ADULT syndrome,"['0100257', '0001159', '0001480', '0011481', '0002164', '0000668', '0001006', '0000966', '0000431', '0011123', '0000958', '0000968', '0009755']","['Ectrodactyly', 'Syndactyly', 'Freckling', 'Abnormal lacrimal duct morphology', 'Nail dysplasia', 'Hypodontia', 'Hypotrichosis', 'Hypohidrosis', 'Wide nasal bridge', 'Inflammatory abnormality of the skin', 'Dry skin', 'Ectodermal dysplasia', 'Ankyloblepharon']"
+601495,Agammaglobulinemia 1,"['0004313', '0002014', '0032101', '0002028', '0031035', '0002098', '0012735', '0002110', '0031417', '0000246', '0011109', '0002024', '0002570', '0011947', '0012393', '0500093', '0000964', '0000010']","['Decreased antibody level in blood', 'Diarrhea', 'Unusual infection', 'Chronic diarrhea', 'Chronic infection', 'Respiratory distress', 'Cough', 'Bronchiectasis', 'Rhinorrhea', 'Sinusitis', 'Chronic sinusitis', 'Malabsorption', 'Steatorrhea', 'Respiratory tract infection', 'Allergy', 'IgE-mediated food allergy', 'Eczema', 'Recurrent urinary tract infections']"
+613500,Agammaglobulinemia 2,"['0004313', '0002014', '0032101', '0002028', '0031035', '0002098', '0012735', '0002110', '0031417', '0000246', '0011109', '0002024', '0002570', '0011947', '0012393', '0500093', '0000964', '0000010']","['Decreased antibody level in blood', 'Diarrhea', 'Unusual infection', 'Chronic diarrhea', 'Chronic infection', 'Respiratory distress', 'Cough', 'Bronchiectasis', 'Rhinorrhea', 'Sinusitis', 'Chronic sinusitis', 'Malabsorption', 'Steatorrhea', 'Respiratory tract infection', 'Allergy', 'IgE-mediated food allergy', 'Eczema', 'Recurrent urinary tract infections']"
+613502,Agammaglobulinemia 4,"['0004313', '0002014', '0032101', '0002028', '0031035', '0002098', '0012735', '0002110', '0031417', '0000246', '0011109', '0002024', '0002570', '0011947', '0012393', '0500093', '0000964', '0000010']","['Decreased antibody level in blood', 'Diarrhea', 'Unusual infection', 'Chronic diarrhea', 'Chronic infection', 'Respiratory distress', 'Cough', 'Bronchiectasis', 'Rhinorrhea', 'Sinusitis', 'Chronic sinusitis', 'Malabsorption', 'Steatorrhea', 'Respiratory tract infection', 'Allergy', 'IgE-mediated food allergy', 'Eczema', 'Recurrent urinary tract infections']"
+613506,Agammaglobulinemia 5,"['0004313', '0002014', '0032101', '0002028', '0031035', '0002098', '0012735', '0002110', '0031417', '0000246', '0011109', '0002024', '0002570', '0011947', '0012393', '0500093', '0000964', '0000010']","['Decreased antibody level in blood', 'Diarrhea', 'Unusual infection', 'Chronic diarrhea', 'Chronic infection', 'Respiratory distress', 'Cough', 'Bronchiectasis', 'Rhinorrhea', 'Sinusitis', 'Chronic sinusitis', 'Malabsorption', 'Steatorrhea', 'Respiratory tract infection', 'Allergy', 'IgE-mediated food allergy', 'Eczema', 'Recurrent urinary tract infections']"
+307200,Agammaglobulinemia and isolated hormone deficiency,"['0004313', '0002014', '0032101', '0002028', '0031035', '0002098', '0012735', '0002110', '0031417', '0000246', '0011109', '0002024', '0002570', '0011947', '0012393', '0500093', '0000964', '0000010']","['Decreased antibody level in blood', 'Diarrhea', 'Unusual infection', 'Chronic diarrhea', 'Chronic infection', 'Respiratory distress', 'Cough', 'Bronchiectasis', 'Rhinorrhea', 'Sinusitis', 'Chronic sinusitis', 'Malabsorption', 'Steatorrhea', 'Respiratory tract infection', 'Allergy', 'IgE-mediated food allergy', 'Eczema', 'Recurrent urinary tract infections']"
+612718,AGAT deficiency,['0001324'],['Muscle weakness']
+225750,"Aicardi–Goutières syndrome 1, dominant and recessive","['0000252', '0011451', '0001250', '0011968', '0002514', '0002500', '0002059', '0001433', '0009710']","['Microcephaly', 'Congenital microcephaly', 'Seizures', 'Feeding difficulties', 'Cerebral calcification', 'Abnormality of the cerebral white matter', 'Cerebral atrophy', 'Hepatosplenomegaly', 'Chilblains']"
+610181,Aicardi–Goutières syndrome 2,"['0000252', '0011451', '0001250', '0011968', '0002514', '0002500', '0002059', '0001433', '0009710']","['Microcephaly', 'Congenital microcephaly', 'Seizures', 'Feeding difficulties', 'Cerebral calcification', 'Abnormality of the cerebral white matter', 'Cerebral atrophy', 'Hepatosplenomegaly', 'Chilblains']"
+610329,Aicardi–Goutières syndrome 3,"['0000252', '0011451', '0001250', '0011968', '0002514', '0002500', '0002059', '0001433', '0009710']","['Microcephaly', 'Congenital microcephaly', 'Seizures', 'Feeding difficulties', 'Cerebral calcification', 'Abnormality of the cerebral white matter', 'Cerebral atrophy', 'Hepatosplenomegaly', 'Chilblains']"
+610333,Aicardi–Goutières syndrome 4,"['0000252', '0011451', '0001250', '0011968', '0002514', '0002500', '0002059', '0001433', '0009710']","['Microcephaly', 'Congenital microcephaly', 'Seizures', 'Feeding difficulties', 'Cerebral calcification', 'Abnormality of the cerebral white matter', 'Cerebral atrophy', 'Hepatosplenomegaly', 'Chilblains']"
+612952,Aicardi–Goutières syndrome 5,"['0000252', '0011451', '0001250', '0011968', '0002514', '0002500', '0002059', '0001433', '0009710']","['Microcephaly', 'Congenital microcephaly', 'Seizures', 'Feeding difficulties', 'Cerebral calcification', 'Abnormality of the cerebral white matter', 'Cerebral atrophy', 'Hepatosplenomegaly', 'Chilblains']"
+118450,Alagille syndrome,"['0001399', '0001635', '0100626']","['Hepatic failure', 'Congestive heart failure', 'Chronic hepatic failure']"
+203450,Alexander disease,[],[]
+203500,Alkaptonuria,"['0005855', '0100550', '0001638', '0001654', '0001659', '0001635', '0000365', '0000787', '0001081']","['Multiple prenatal fractures', 'Tendon rupture', 'Cardiomyopathy', 'Abnormal heart valve morphology', 'Aortic regurgitation', 'Congestive heart failure', 'Hearing impairment', 'Nephrolithiasis', 'Cholelithiasis']"
+300523,Allan–Herndon–Dudley syndrome,"['0004422', '0001251', '0000464', '0001344', '0002381', '0001252', '0001290', '0001319', '0009004', '0001371', '0002803', '0001257', '0003552', '0001324', '0004305']","['Biparietal narrowing', 'Ataxia', 'Abnormality of the neck', 'Absent speech', 'Aphasia', 'Muscular hypotonia', 'Generalized hypotonia', 'Neonatal hypotonia', 'Hypoplasia of the musculature', 'Flexion contracture', 'Congenital contracture', 'Spasticity', 'Muscle stiffness', 'Muscle weakness', 'Involuntary movements']"
+203655,Alopecia universalis,[],[]
+203700,Alpers syndrome,"['0001250', '0001252', '0001290', '0001319', '0011968', '0000365', '0001249', '0001324', '0012378', '0002015', '0200136', '0002650', '0002808', '0001332', '0100022', '0002072', '0002305', '0002020', '0002094', '0002098', '0002719', '0005957', '0001941', '0001943', '0003128', '0004902', '0001263', '0006887', '0001257', '0002445', '0000726', '0012847', '0001336', '0000648', '0000618', '0007875', '0009830', '0003401']","['Seizures', 'Muscular hypotonia', 'Generalized hypotonia', 'Neonatal hypotonia', 'Feeding difficulties', 'Hearing impairment', 'Intellectual disability', 'Muscle weakness', 'Fatigue', 'Dysphagia', 'Oral-pharyngeal dysphagia', 'Scoliosis', 'Kyphosis', 'Dystonia', 'Abnormality of movement', 'Chorea', 'Athetosis', 'Gastroesophageal reflux', 'Dyspnea', 'Respiratory distress', 'Recurrent infections', 'Breathing dysregulation', 'Acidosis', 'Hypoglycemia', 'Lactic acidosis', 'Congenital lactic acidosis', 'Global developmental delay', 'Intellectual disability, progressive', 'Spasticity', 'Tetraplegia', 'Dementia', 'Epilepsia partialis continua', 'Myoclonus', 'Optic atrophy', 'Blindness', 'Congenital blindness', 'Peripheral neuropathy', 'Paresthesia']"
+203750,Alpha-methylacetoacetic aciduria,"['0002013', '0001944', '0002094', '0002098', '0005957', '0012378']","['Vomiting', 'Dehydration', 'Dyspnea', 'Respiratory distress', 'Breathing dysregulation', 'Fatigue']"
+301040,Alpha-thalassemia mental retardation syndrome,[],[]
+301050,Alport syndrome,[],[]
+203800,Alström syndrome,"['0001635', '0001638', '0001644', '0000510', '0000548', '0008020', '0001513', '0000365', '0000407', '0008527', '0008619', '0005978', '0000842', '0000855', '0001397', '0002155', '0002910', '0001394', '0001399', '0008230', '0040171']","['Congestive heart failure', 'Cardiomyopathy', 'Dilated cardiomyopathy', 'Rod-cone dystrophy', 'Cone/cone-rod dystrophy', 'Cone dystrophy', 'Obesity', 'Hearing impairment', 'Sensorineural hearing impairment', 'Congenital sensorineural hearing impairment', 'Bilateral sensorineural hearing impairment', 'Type II diabetes mellitus', 'Hyperinsulinemia', 'Insulin resistance', 'Hepatic steatosis', 'Hypertriglyceridemia', 'Elevated hepatic transaminase', 'Cirrhosis', 'Hepatic failure', 'Decreased testosterone in males', 'Decreased serum testosterone level']"
+104290,Alternating hemiplegia of childhood,"['0002301', '0001250']","['Hemiplegia', 'Seizures']"
+606243,Alveolar soft part sarcoma,[],[]
+609924,Aminoacylase 1 deficiency,"['0001270', '0001250', '0001249', '0002342', '0010864', '0001344', '0001510', '0001252', '0001290', '0001319']","['Motor delay', 'Seizures', 'Intellectual disability', 'Intellectual disability, moderate', 'Intellectual disability, severe', 'Absent speech', 'Growth delay', 'Muscular hypotonia', 'Generalized hypotonia', 'Neonatal hypotonia']"
+300068,Androgen insensitivity syndrome,[],[]
+105830,Angelman syndrome,[],[]
+106210,Aniridia,[],[]
+107250,Anterior segment mesenchymal dysgenesis,[],[]
+613118,Antithrombin III deficiency,[],[]
+207410,Antley–Bixler syndrome,[],[]
+101200,Apert syndrome,[],[]
+609135,Aplastic anemia,[],[]
+207800,Argininemia,[],[]
+207900,Argininosuccinic aciduria,[],[]
+613546,Aromatase deficiency,"['0000141', '0000786', '0000098', '0000147', '0000939']","['Amenorrhea', 'Primary amenorrhea', 'Tall stature', 'Polycystic ovaries', 'Osteoporosis']"
+139300,Aromatase excess syndrome,"['0010313', '0000826', '0000771', '0040171', '0001620', '0007464', '0008070', '0000135', '0000798', '0008734', '0000054', '0004322', '0400005', '0008236', '0100878', '0000858']","['Breast hypertrophy', 'Precocious puberty', 'Gynecomastia', 'Decreased serum testosterone level', 'High pitched voice', 'Sparse facial hair', 'Sparse hair', 'Hypogonadism', 'Oligospermia', 'Decreased testicular size', 'Micropenis', 'Short stature', 'Short ear', 'Isosexual precocious puberty', 'Enlarged uterus', 'Menstrual irregularities']"
+608643,Aromatic L-amino acid decarboxylase deficiency,"['0001263', '0001290', '0001319', '0010553', '0001332', '0002013', '0100660', '0002014', '0002019', '0000975', '0012446', '0100507']","['Global developmental delay', 'Generalized hypotonia', 'Neonatal hypotonia', 'Oculogyric crisis', 'Dystonia', 'Vomiting', 'Dyskinesia', 'Diarrhea', 'Constipation', 'Hyperhidrosis', 'Low CSF 5-methyltetrahydrofolate', 'Reduced blood folate concentration']"
+208050,Arterial tortuosity syndrome,"['0000563', '0000581', '0000776', '0001166', '0001659', '0100790']","['Keratoconus', 'Blepharophimosis', 'Congenital diaphragmatic hernia', 'Arachnodactyly', 'Aortic regurgitation', 'Hernia']"
+108120,"Arthrogryposis multiplex congenita, distal type 1","['0002804', '0001762', '0001838', '0001263', '0001371', '0002803', '0031936', '0000329', '0001028', '0003634', '0004664', '0002089', '0000028', '0001627', '0030680', '0002575', '0000023', '0100790', '0000175', '0000478']","['Arthrogryposis multiplex congenita', 'Talipes equinovarus', 'Rocker bottom foot', 'Global developmental delay', 'Flexion contracture', 'Congenital contracture', 'Delayed ability to walk', 'Facial hemangioma', 'Hemangioma', 'Amyoplasia', 'Facial midline hemangioma', 'Pulmonary hypoplasia', 'Cryptorchidism', 'Abnormal heart morphology', 'Abnormality of cardiovascular system morphology', 'Tracheoesophageal fistula', 'Inguinal hernia', 'Hernia', 'Cleft palate', 'Abnormality of the eye']"
+601680,"Arthrogryposis multiplex congenita, distal type 2B","['0002804', '0001762', '0001838', '0001263', '0001371', '0002803', '0031936', '0000329', '0001028', '0003634', '0004664', '0002089', '0000028', '0001627', '0030680', '0002575', '0000023', '0100790', '0000175', '0000478']","['Arthrogryposis multiplex congenita', 'Talipes equinovarus', 'Rocker bottom foot', 'Global developmental delay', 'Flexion contracture', 'Congenital contracture', 'Delayed ability to walk', 'Facial hemangioma', 'Hemangioma', 'Amyoplasia', 'Facial midline hemangioma', 'Pulmonary hypoplasia', 'Cryptorchidism', 'Abnormal heart morphology', 'Abnormality of cardiovascular system morphology', 'Tracheoesophageal fistula', 'Inguinal hernia', 'Hernia', 'Cleft palate', 'Abnormality of the eye']"
+301835,Arts syndrome,"['0000365', '0002719', '0001251', '0000648', '0009830', '0001324', '0000407', '0008527', '0000359', '0000364', '0000598', '0001252', '0001290', '0001319', '0002311', '0001263', '0000572', '0006903', '0000510', '0032118']","['Hearing impairment', 'Recurrent infections', 'Ataxia', 'Optic atrophy', 'Peripheral neuropathy', 'Muscle weakness', 'Sensorineural hearing impairment', 'Congenital sensorineural hearing impairment', 'Abnormality of the inner ear', 'Hearing abnormality', 'Abnormality of the ear', 'Muscular hypotonia', 'Generalized hypotonia', 'Neonatal hypotonia', 'Incoordination', 'Global developmental delay', 'Visual loss', 'Congenital peripheral neuropathy', 'Rod-cone dystrophy', 'Retinitis']"
+208400,Aspartylglucosaminuria,"['0002371', '0000256', '0000303', '0004488', '0012802', '0040309', '0000445', '0000750', '0001249', '0001344', '0002167', '0100543', '0001537', '0100790', '0012068', '0001250']","['Loss of speech', 'Macrocephaly', 'Mandibular prognathia', 'Macrocephaly at birth', 'Broad jaw', 'Increased size of the mandible', 'Wide nose', 'Delayed speech and language development', 'Intellectual disability', 'Absent speech', 'Neurological speech impairment', 'Cognitive impairment', 'Umbilical hernia', 'Hernia', 'Aspartylglucosaminuria', 'Seizures']"
+208900,Ataxia–telangiectasia,"['0001009', '0001251', '0000657', '0002186', '0002311', '0004305', '0100585', '0002664', '0100526']","['Telangiectasia', 'Ataxia', 'Oculomotor apraxia', 'Apraxia', 'Incoordination', 'Involuntary movements', 'Telangiectasia of the skin', 'Neoplasm', 'Neoplasm of the lung']"
+147050,Atopy,"['0001047', '0011123', '0012384', '0012393', '0002099', '0001945', '0003193']","['Atopic dermatitis', 'Inflammatory abnormality of the skin', 'Rhinitis', 'Allergy', 'Asthma', 'Fever', 'Allergic rhinitis']"
+209300,Atransferrinemia,"['0001903', '0001369', '0002719']","['Anemia', 'Arthritis', 'Recurrent infections']"
+608583,Atrial fibrillation,"['0001635', '0001297', '0012378', '0002098', '0001627', '0001658', '0002140', '0002326', '0011675', '0000822', '0001945']","['Congestive heart failure', 'Stroke', 'Fatigue', 'Respiratory distress', 'Abnormal heart morphology', 'Myocardial infarction', 'Ischemic stroke', 'Transient ischemic attack', 'Arrhythmia', 'Hypertension', 'Fever']"
+209500,Atrichia with papular lesions,[],[]
+600309,Atrioventricular canal defect,"['0002094', '0002098', '0005957', '0000961', '0000969', '0001635', '0012378', '0030828', '0000975', '0011675']","['Dyspnea', 'Respiratory distress', 'Breathing dysregulation', 'Cyanosis', 'Edema', 'Congestive heart failure', 'Fatigue', 'Wheezing', 'Hyperhidrosis', 'Arrhythmia']"
+270960,Azoospermia due to perturbations of meiosis,[],[]
+415000,Azoospermia,[],[]
+218600,Baller–Gerold syndrome,"['0001363', '0004440', '0000234', '0000248', '0000520', '0011220', '0012165', '0004322', '0001029', '0000953', '0001010', '0004334']","['Craniosynostosis', 'Coronal craniosynostosis', 'Abnormality of the head', 'Brachycephaly', 'Proptosis', 'Prominent forehead', 'Oligodactyly', 'Short stature', 'Poikiloderma', 'Hyperpigmentation of the skin', 'Hypopigmentation of the skin', 'Dermal atrophy']"
+241850,Bamforth–Lazarus syndrome,[],[]
+153480,Bannayan–Riley–Ruvalcaba syndrome,['0001263'],['Global developmental delay']
+209900,Bardet–Biedl syndrome 1,"['0000510', '0000548', '0008020', '0000572', '0000618', '0000662', '0007642', '0007875', '0001162', '0010442', '0100259', '0001513', '0001956', '0003241', '0001156', '0001159', '0000103', '0000458', '0000819', '0000873', '0001251', '0001276', '0001959', '0002070', '0002172', '0002251', '0002370', '0002509', '0006895', '0009806', '0005214', '0001638', '0001644', '0000135', '0001153', '0000013', '0000750', '0001263', '0002167']","['Rod-cone dystrophy', 'Cone/cone-rod dystrophy', 'Cone dystrophy', 'Visual loss', 'Blindness', 'Nyctalopia', 'Congenital stationary night blindness', 'Congenital blindness', 'Postaxial hand polydactyly', 'Polydactyly', 'Postaxial polydactyly', 'Obesity', 'Truncal obesity', 'External genital hypoplasia', 'Brachydactyly', 'Syndactyly', 'Polyuria', 'Anosmia', 'Diabetes mellitus', 'Diabetes insipidus', 'Ataxia', 'Hypertonia', 'Polydipsia', 'Limb ataxia', 'Postural instability', 'Aganglionic megacolon', 'Poor coordination', 'Limb hypertonia', 'Lower limb hypertonia', 'Nephrogenic diabetes insipidus', 'Intestinal obstruction', 'Cardiomyopathy', 'Dilated cardiomyopathy', 'Hypogonadism', 'Septate vagina', 'Hypoplasia of the uterus', 'Delayed speech and language development', 'Global developmental delay', 'Neurological speech impairment']"
+302060,Barth syndrome,[],[]
+149200,Bart–Pumphrey syndrome,[],[]
+109400,Basal cell nevus syndrome,"['0000924', '0000892', '0002751', '0008453', '0005462', '0000316', '0000303', '0002671', '0030731', '0002514', '0003468', '0010614', '0010617', '0010618']","['Abnormality of the skeletal system', 'Bifid ribs', 'Kyphoscoliosis', 'Congenital kyphoscoliosis', 'Calcification of falx cerebri', 'Hypertelorism', 'Mandibular prognathia', 'Basal cell carcinoma', 'Carcinoma', 'Cerebral calcification', 'Abnormal vertebral morphology', 'Fibroma', 'Cardiac fibroma', 'Ovarian fibroma']"
+123790,Beare–Stevenson cutis gyrata syndrome,[],[]
+300376,Becker muscular dystrophy,"['0001324', '0003560', '0003741']","['Muscle weakness', 'Muscular dystrophy', 'Congenital muscular dystrophy']"
+130650,Beckwith–Wiedemann syndrome,[],[]
+158810,Bethlem myopathy,[],[]
+253260,Biotinidase deficiency,"['0001250', '0001290', '0001319', '0001324', '0003690', '0001251', '0000365', '0000648', '0000988', '0001051', '0011123', '0003765', '0001596', '0410145', '0000718', '0001263', '0002721']","['Seizures', 'Generalized hypotonia', 'Neonatal hypotonia', 'Muscle weakness', 'Limb muscle weakness', 'Ataxia', 'Hearing impairment', 'Optic atrophy', 'Skin rash', 'Seborrheic dermatitis', 'Inflammatory abnormality of the skin', 'Psoriasiform dermatitis', 'Alopecia', 'Decreased biotinidase activity', 'Aggressive behavior', 'Global developmental delay', 'Immunodeficiency']"
+135150,Birt–Hogg–Dubé syndrome,[],[]
+262000,Björnstad syndrome,[],[]
+109800,Bladder cancer,"['0002664', '0009725', '0000790', '0001909', '0009726', '0010474', '0000112', '0012210', '0030157']","['Neoplasm', 'Bladder neoplasm', 'Hematuria', 'Leukemia', 'Renal neoplasm', 'Bladder stones', 'Nephropathy', 'Abnormal renal morphology', 'Flank pain']"
+186580,Blau syndrome,[],[]
+210900,Bloom syndrome,[],[]
+303700,Blue cone monochromacy,"['0000613', '0012047', '0000639', '0006934']","['Photophobia', 'Hemeralopia', 'Nystagmus', 'Congenital nystagmus']"
+112310,Boomerang dysplasia,[],[]
+301900,Börjeson–Forssman–Lehmann syndrome,"['0001249', '0001271', '0001252', '0001290', '0001319', '0011968', '0002342', '0010864', '0001263', '0000505', '0000518', '0000519', '0000540', '0000639', '0006934', '0002650', '0002808', '0000135', '0000028', '0000365', '0001250', '0410030', '0001909', '0002488', '0006721', '0005743', '0040075', '0001513', '0001256']","['Intellectual disability', 'Polyneuropathy', 'Muscular hypotonia', 'Generalized hypotonia', 'Neonatal hypotonia', 'Feeding difficulties', 'Intellectual disability, moderate', 'Intellectual disability, severe', 'Global developmental delay', 'Visual impairment', 'Cataract', 'Developmental cataract', 'Hypermetropia', 'Nystagmus', 'Congenital nystagmus', 'Scoliosis', 'Kyphosis', 'Hypogonadism', 'Cryptorchidism', 'Hearing impairment', 'Seizures', 'Cleft lip', 'Leukemia', 'Acute leukemia', 'Acute lymphoblastic leukemia', 'Avascular necrosis of the capital femoral epiphysis', 'Hypopituitarism', 'Obesity', 'Intellectual disability, mild']"
+211180,Bowen–Conradi syndrome,[],[]
+112500,Brachydactyly type A1,[],[]
+112600,Brachydactyly type A2,[],[]
+113100,Brachydactyly type C,[],[]
+113200,Brachydactyly type D,[],[]
+113300,Brachydactyly type E,[],[]
+113650,Branchiootorenal syndrome,"['0000083', '0000089', '0000104', '0000112', '0003774', '0008678', '0012622', '0000356', '0000598', '0000384', '0010609']","['Renal insufficiency', 'Renal hypoplasia', 'Renal agenesis', 'Nephropathy', 'Stage 5 chronic kidney disease', 'Renal hypoplasia/aplasia', 'Chronic kidney disease', 'Abnormality of the outer ear', 'Abnormality of the ear', 'Preauricular skin tag', 'Skin tags']"
+114480,Breast cancer,"['0002664', '0003002', '0100783', '0000964', '0040189', '0003401', '0000989', '0100013', '0001824', '0002829', '0000952']","['Neoplasm', 'Breast carcinoma', 'Breast aplasia', 'Eczema', 'Scaling skin', 'Paresthesia', 'Pruritus', 'Neoplasm of the breast', 'Weight loss', 'Arthralgia', 'Jaundice']"
+601003,Brody myopathy,[],[]
+605041,Brooke–Spiegler syndrome,[],[]
+211530,Brown–Vialetto–Van Laere syndrome,"['0000365', '0003470', '0006824', '0001308', '0002380', '0000407', '0008527', '0002878', '0002203', '0011947', '0002398', '0002503', '0000529', '0000572', '0000648', '0001251', '0000510', '0032118', '0001250', '0012332']","['Hearing impairment', 'Paralysis', 'Cranial nerve paralysis', 'Tongue fasciculations', 'Fasciculations', 'Sensorineural hearing impairment', 'Congenital sensorineural hearing impairment', 'Respiratory failure', 'Respiratory paralysis', 'Respiratory tract infection', 'Degeneration of anterior horn cells', 'Spinocerebellar tract degeneration', 'Progressive visual loss', 'Visual loss', 'Optic atrophy', 'Ataxia', 'Rod-cone dystrophy', 'Retinitis', 'Seizures', 'Abnormal autonomic nervous system physiology']"
+300615,Brunner syndrome,[],[]
+113970,Burkitt's lymphoma,[],[]
+166700,Buschke–Ollendorff syndrome,"['0001650', '0000365', '0000944', '0001062', '0002653', '0003549', '0003764', '0010739', '0100898']","['Aortic valve stenosis', 'Hearing impairment', 'Abnormality of the metaphysis', 'Atypical nevus', 'Bone pain', 'Abnormality of connective tissue', 'Nevus', 'Osteopoikilosis', 'Connective tissue nevi']"
+211750,C syndrome,[],[]
+114000,Caffey disease,[],[]
+114290,Campomelic dysplasia,"['0002979', '0012245', '0003275', '0000175', '0005280', '0000369', '0001762', '0002827', '0000878', '0000464', '0002093', '0002098']","['Bowing of the legs', 'Sex reversal', 'Narrow pelvis bone', 'Cleft palate', 'Depressed nasal bridge', 'Low-set ears', 'Talipes equinovarus', 'Hip dislocation', '11 pairs of ribs', 'Abnormality of the neck', 'Respiratory insufficiency', 'Respiratory distress']"
+208250,Camptodactyly-arthropathy-coxa vara-pericarditis syndrome,[],[]
+131300,Camurati–Engelmann disease,"['0003198', '0002515', '0002653', '0012514', '0012532', '0001324', '0030838', '0001387', '0002136', '0002650', '0000365', '0000572']","['Myopathy', 'Waddling gait', 'Bone pain', 'Lower limb pain', 'Chronic pain', 'Muscle weakness', 'Hip pain', 'Joint stiffness', 'Broad-based gait', 'Scoliosis', 'Hearing impairment', 'Visual loss']"
+271900,Canavan disease,"['0001249', '0011968', '0003808', '0001257', '0001290', '0001319', '0002421', '0000234']","['Intellectual disability', 'Feeding difficulties', 'Abnormal muscle tone', 'Spasticity', 'Generalized hypotonia', 'Neonatal hypotonia', 'Poor head control', 'Abnormality of the head']"
+237300,Carbamoyl phosphate synthetase I deficiency,"['0001254', '0001250', '0100022', '0001263', '0001249']","['Lethargy', 'Seizures', 'Abnormality of movement', 'Global developmental delay', 'Intellectual disability']"
+115150,Cardiofaciocutaneous syndrome,[],[]
+115200,"Cardiomyopathy, dilated","['0001279', '0002098', '0001638', '0001640', '0001644', '0000969', '0100598', '0030848', '0030851', '0005180']","['Syncope', 'Respiratory distress', 'Cardiomyopathy', 'Cardiomegaly', 'Dilated cardiomyopathy', 'Edema', 'Pulmonary edema', 'Elevated jugular venous pressure', 'Low pulse pressure', 'Tricuspid regurgitation']"
+192600,"Cardiomyopathy, familial hypertrophic","['0002098', '0100749', '0001962', '0001627', '0001645', '0001635', '0002094']","['Respiratory distress', 'Chest pain', 'Palpitations', 'Abnormal heart morphology', 'Sudden cardiac death', 'Congestive heart failure', 'Dyspnea']"
+201000,Carpenter syndrome,[],[]
+250250,Cartilage–hair hypoplasia,"['0002213', '0003510', '0008873', '0009826', '0001382', '0005639', '0000925', '0001760', '0001875']","['Fine hair', 'Severe short stature', 'Disproportionate short-limb short stature', 'Limb undergrowth', 'Joint hypermobility', 'Hyperextensible hand joints', 'Abnormality of the vertebral column', 'Abnormality of the foot', 'Neutropenia']"
+116150,Cataract-microcornea syndrome,[],[]
+600145,Caudal regression syndrome,['0003470'],['Paralysis']
+117000,Central core disease,"['0001252', '0001290', '0001319', '0001324', '0030319', '0002650', '0001374', '0002827']","['Muscular hypotonia', 'Generalized hypotonia', 'Neonatal hypotonia', 'Muscle weakness', 'Weakness of facial musculature', 'Scoliosis', 'Congenital hip dislocation', 'Hip dislocation']"
+209880,Central hypoventilation syndrome,"['0002329', '0012378', '0002315']","['Drowsiness', 'Fatigue', 'Headache']"
+604290,Cerebellar ataxia,[],[]
+105150,Cerebral amyloid angiopathy,[],[]
+125310,Cerebral arteriopathy with subcortical infarcts and leukoencephalopathy,"['0001297', '0002140', '0002076', '0002077', '0002326', '0000709']","['Stroke', 'Ischemic stroke', 'Migraine', 'Migraine with aura', 'Transient ischemic attack', 'Psychosis']"
+214150,Cerebrooculofacioskeletal syndrome 1,[],[]
+610756,Cerebrooculofacioskeletal syndrome 2,[],[]
+610758,Cerebrooculofacioskeletal syndrome 4,[],[]
+213700,Cerebrotendinous xanthomatosis,[],[]
+256730,"Ceroid lipofuscinosis, neuronal 1, infantile","['0000572', '0000479', '0000618', '0007875', '0031358', '0000556', '0001250']","['Visual loss', 'Abnormal retinal morphology', 'Blindness', 'Congenital blindness', 'Vegetative state', 'Retinal dystrophy', 'Seizures']"
+204200,"Ceroid lipofuscinosis, neuronal 3, juvenile","['0000572', '0000479', '0000618', '0007875', '0031358', '0000556', '0001250']","['Visual loss', 'Abnormal retinal morphology', 'Blindness', 'Congenital blindness', 'Vegetative state', 'Retinal dystrophy', 'Seizures']"
+275630,Chanarin–Dorfman syndrome,"['0001324', '0003198', '0001397', '0001638', '0001640', '0001733', '0000821', '0000851', '0005978', '0040081', '0003701', '0012548', '0003690', '0003547', '0001881', '0001392', '0007431', '0008064']","['Muscle weakness', 'Myopathy', 'Hepatic steatosis', 'Cardiomyopathy', 'Cardiomegaly', 'Pancreatitis', 'Hypothyroidism', 'Congenital hypothyroidism', 'Type II diabetes mellitus', 'Abnormal levels of creatine kinase in blood', 'Proximal muscle weakness', 'Fatty replacement of skeletal muscle', 'Limb muscle weakness', 'Shoulder girdle muscle weakness', 'Abnormal leukocyte morphology', 'Abnormality of the liver', 'Congenital ichthyosiform erythroderma', 'Ichthyosis']"
+169100,Char syndrome,[],[]
+145900,Charcot–Marie–Tooth disease type 4F,[],[]
+214800,CHARGE syndrome,[],[]
+214500,Chédiak–Higashi syndrome,"['0009830', '0001022', '0000613', '0002719', '0002665']","['Peripheral neuropathy', 'Albinism', 'Photophobia', 'Recurrent infections', 'Lymphoma']"
+118400,Cherubism,"['0006480', '0012062', '0010669']","['Premature loss of teeth', 'Bone cyst', 'Hypoplasia of the zygomatic bone']"
+308050,CHILD syndrome,"['0001019', '0007431', '0008064', '0001596', '0001849']","['Erythroderma', 'Congenital ichthyosiform erythroderma', 'Ichthyosis', 'Alopecia', 'Foot oligodactyly']"
+211600,"Cholestasis, progressive familial intrahepatic 1","['0001396', '0000952', '0001508', '0000989', '0002024', '0002630', '0000938']","['Cholestasis', 'Jaundice', 'Failure to thrive', 'Pruritus', 'Malabsorption', 'Fat malabsorption', 'Osteopenia']"
+601847,"Cholestasis, progressive familial intrahepatic 2","['0001396', '0000952', '0001508', '0000989', '0002024', '0002630', '0000938']","['Cholestasis', 'Jaundice', 'Failure to thrive', 'Pruritus', 'Malabsorption', 'Fat malabsorption', 'Osteopenia']"
+602347,"Cholestasis, progressive familial intrahepatic 3","['0001396', '0000952', '0001508', '0000989', '0002024', '0002630', '0000938']","['Cholestasis', 'Jaundice', 'Failure to thrive', 'Pruritus', 'Malabsorption', 'Fat malabsorption', 'Osteopenia']"
+278000,Cholesteryl ester storage disease,"['0000952', '0002013', '0002014', '0002572', '0011968', '0001824', '0004324', '0001945', '0011134', '0010512', '0001903', '0001399', '0001410', '0004326', '0002027', '0001510', '0002024', '0040319', '0002240', '0001392', '0001297']","['Jaundice', 'Vomiting', 'Diarrhea', 'Episodic vomiting', 'Feeding difficulties', 'Weight loss', 'Increased body weight', 'Fever', 'Low-grade fever', 'Adrenal calcification', 'Anemia', 'Hepatic failure', 'Decreased liver function', 'Cachexia', 'Abdominal pain', 'Growth delay', 'Malabsorption', 'Dark urine', 'Hepatomegaly', 'Abnormality of the liver', 'Stroke']"
+215300,Chondrosarcoma,"['0000969', '0003418', '0011868', '0032171']","['Edema', 'Back pain', 'Sciatica', 'Bladder pain']"
+200150,Choreoacanthocytosis,"['0001927', '0002180', '0100022', '0003236', '0002072', '0001332', '0002067']","['Acanthocytosis', 'Neurodegeneration', 'Abnormality of movement', 'Elevated serum creatine phosphokinase', 'Chorea', 'Dystonia', 'Bradykinesia']"
+260500,Choroid plexus papilloma,"['0002516', '0002664', '0002013', '0001123', '0002315', '0002321']","['Increased intracranial pressure', 'Neoplasm', 'Vomiting', 'Visual field defect', 'Headache', 'Vertigo']"
+303100,Choroideremia,[],[]
+246700,Chylomicron retention disease,"['0004325', '0004395', '0100513', '0001638', '0002098', '0012378', '0001508', '0001510', '0004324', '0001397', '0001824', '0003124', '0010981', '0001265', '0001284', '0003202', '0031826']","['Decreased body weight', 'Malnutrition', 'Vitamin E deficiency', 'Cardiomyopathy', 'Respiratory distress', 'Fatigue', 'Failure to thrive', 'Growth delay', 'Increased body weight', 'Hepatic steatosis', 'Weight loss', 'Hypercholesterolemia', 'Hypolipoproteinemia', 'Hyporeflexia', 'Areflexia', 'Skeletal muscle atrophy', 'Abnormal reflex']"
+215700,Citrullinemia,[],[]
+119600,Cleidocranial dysplasia,"['0011069', '0009803', '0002650', '0002414', '0003396', '0000242', '0012366', '0000356', '0000364', '0000365', '0000598', '0005815', '0002937', '0000912', '0009882', '0000303', '0000327', '0000347', '0006352', '0011220', '0000270', '0000239', '0000316', '0002812', '0005819', '0001500']","['Increased number of teeth', 'Short phalanx of finger', 'Scoliosis', 'Spina bifida', 'Syringomyelia', 'Parietal bossing', 'Basilar invagination', 'Abnormality of the outer ear', 'Hearing abnormality', 'Hearing impairment', 'Abnormality of the ear', 'Supernumerary ribs', 'Hemivertebrae', 'Sprengel anomaly', 'Short distal phalanx of finger', 'Mandibular prognathia', 'Hypoplasia of the maxilla', 'Micrognathia', 'Failure of eruption of permanent teeth', 'Prominent forehead', 'Delayed cranial suture closure', 'Large fontanelles', 'Hypertelorism', 'Coxa vara', 'Short middle phalanx of finger', 'Broad finger']"
+216360,COACH syndrome,"['0000271', '0000508', '0007970', '0010806', '0000316', '0001290', '0001319', '0002883', '0001320', '0001321', '0000750', '0000090']","['Abnormality of the face', 'Ptosis', 'Congenital ptosis', 'U-Shaped upper lip vermilion', 'Hypertelorism', 'Generalized hypotonia', 'Neonatal hypotonia', 'Hyperventilation', 'Cerebellar vermis hypoplasia', 'Cerebellar hypoplasia', 'Delayed speech and language development', 'Nephronophthisis']"
+216400,Cockayne syndrome type A,[],[]
+133540,Cockayne syndrome type B,[],[]
+607426,Coenzyme Q10 deficiency,[],[]
+303600,Coffin–Lowry syndrome,"['0010819', '0000739', '0001250', '0007302', '0000716']","['Atonic seizures', 'Anxiety', 'Seizures', 'Bipolar affective disorder', 'Depressivity']"
+216550,Cohen syndrome,[],[]
+272430,Cold-induced sweating syndrome,[],[]
+120430,Coloboma of optic nerve,"['0000505', '0000541', '0012231']","['Visual impairment', 'Retinal detachment', 'Exudative retinal detachment']"
+120200,"Coloboma, ocular","['0000589', '0000505', '0000568', '0000501', '0000639', '0006934', '0000575', '0000486']","['Coloboma', 'Visual impairment', 'Microphthalmia', 'Glaucoma', 'Nystagmus', 'Congenital nystagmus', 'Scotoma', 'Strabismus']"
+114500,Colorectal cancer,"['0002664', '0002019', '0025085', '0001824', '0002013', '0002017', '0002018']","['Neoplasm', 'Constipation', 'Bloody diarrhea', 'Weight loss', 'Vomiting', 'Nausea and vomiting', 'Nausea']"
+144250,"Combined hyperlipidemia, familial",[],[]
+277180,Congenital bilateral absence of vas deferens,[],[]
+266265,Congenital disorder of glycosylation type IIc,[],[]
+217095,Conotruncal anomaly face syndrome,"['0001627', '0030680', '0002019', '0000220', '0002719', '0005359', '0002901', '0000829', '0100753']","['Abnormal heart morphology', 'Abnormality of cardiovascular system morphology', 'Constipation', 'Velopharyngeal insufficiency', 'Recurrent infections', 'Aplasia of the thymus', 'Hypocalcemia', 'Hypoparathyroidism', 'Schizophrenia']"
+121300,Coproporphyria,[],[]
+604931,Cortisone reductase deficiency,"['0030348', '0000998', '0000876', '0000141', '0000789']","['Increased circulating androgen level', 'Hypertrichosis', 'Oligomenorrhea', 'Amenorrhea', 'Infertility']"
+218040,Costello syndrome,[],[]
+158350,Cowden syndrome,"['0001012', '0002664', '0012032', '0012844', '0012500', '0200034', '0012740', '0003764', '0010816', '0000957', '0002860', '0002890', '0006739', '0030731', '0000853', '0000854', '0005987', '0008251', '0011774', '0025476', '0200008', '0000268', '0000717', '0000729', '0001249']","['Multiple lipomas', 'Neoplasm', 'Lipoma', 'Trichilemmoma', 'Verrucous papule', 'Papule', 'Papilloma', 'Nevus', 'Epidermal nevus', 'Cafe-au-lait spot', 'Squamous cell carcinoma', 'Thyroid carcinoma', 'Squamous cell carcinoma of the skin', 'Carcinoma', 'Goiter', 'Thyroid adenoma', 'Multinodular goiter', 'Congenital goiter', 'Thyroid follicular adenoma', 'Testicular lipomatosis', 'Intestinal polyposis', 'Dolichocephaly', 'Autism', 'Autistic behavior', 'Intellectual disability']"
+255120,"CPT deficiency, hepatic, type IA","['0001943', '0001985', '0002240', '0001324']","['Hypoglycemia', 'Hypoketotic hypoglycemia', 'Hepatomegaly', 'Muscle weakness']"
+218330,Cranioectodermal dysplasia,[],[]
+304110,Craniofrontonasal dysplasia,[],[]
+607812,Cranio-lenticulo-sutural dysplasia,[],[]
+123000,Craniometaphyseal dysplasia,"['0000365', '0003470', '0007209']","['Hearing impairment', 'Paralysis', 'Facial paralysis']"
+303350,CRASH syndrome,[],[]
+123400,Creutzfeldt–Jakob disease,"['0000726', '0002354', '0000751', '0000738', '0001336', '0000739', '0000716', '0011999', '0000709', '0000750', '0001344', '0002167', '0001251', '0004305', '0001265', '0002090', '0012735']","['Dementia', 'Memory impairment', 'Personality changes', 'Hallucinations', 'Myoclonus', 'Anxiety', 'Depressivity', 'Paranoia', 'Psychosis', 'Delayed speech and language development', 'Absent speech', 'Neurological speech impairment', 'Ataxia', 'Involuntary movements', 'Hyporeflexia', 'Pneumonia', 'Cough']"
+218800,Crigler–Najjar syndrome type I,[],[]
+606785,Crigler–Najjar syndrome type II,[],[]
+601378,Crisponi syndrome,[],[]
+612247,Crouzon syndrome with acanthosis nigricans,[],[]
+123500,Crouzon syndrome,"['0001363', '0004439', '0000234', '0000267', '0000262', '0002007', '0000243', '0000248', '0000268', '0001357', '0000263', '0000486', '0001510', '0011800', '0000303', '0000271', '0000929', '0000238', '0000365', '0000407', '0008527', '0000189', '0000218', '0002705', '0000689', '0000668', '0006349', '0009804', '0000327']","['Craniosynostosis', 'Craniofacial dysostosis', 'Abnormality of the head', 'Cranial asymmetry', 'Turricephaly', 'Frontal bossing', 'Trigonocephaly', 'Brachycephaly', 'Dolichocephaly', 'Plagiocephaly', 'Oxycephaly', 'Strabismus', 'Growth delay', 'Midface retrusion', 'Mandibular prognathia', 'Abnormality of the face', 'Abnormality of the skull', 'Hydrocephalus', 'Hearing impairment', 'Sensorineural hearing impairment', 'Congenital sensorineural hearing impairment', 'Narrow palate', 'High palate', 'High, narrow palate', 'Dental malocclusion', 'Hypodontia', 'Agenesis of permanent teeth', 'Reduced number of teeth', 'Hypoplasia of the maxilla']"
+176450,Currarino syndrome,[],[]
+219500,Cystathioninuria,[],[]
+219700,Cystic fibrosis,"['0012873', '0002595', '0004401', '0005214', '0006266', '0011892']","['Absent vas deferens', 'Ileus', 'Meconium ileus', 'Intestinal obstruction', 'Small placenta', 'Vitamin K deficiency']"
+220100,Cystinuria,[],[]
+220110,Cytochrome C oxidase deficiency,[],[]
+600721,D-2-hydroxyglutaric aciduria,[],[]
+220200,Dandy–Walker malformation,[],[]
+124200,Darier disease,"['0000716', '0007302', '0040189', '0001597', '0000160', '0001548', '0031289', '0200034', '0200016', '0001034', '0012733', '0000989', '0001072', '0008410', '0010610', '0001595']","['Depressivity', 'Bipolar affective disorder', 'Scaling skin', 'Abnormality of the nail', 'Narrow mouth', 'Overgrowth', 'White papule', 'Papule', 'Acrokeratosis', 'Hypermelanotic macule', 'Macule', 'Pruritus', 'Thickened skin', 'Subungual hyperkeratotic fragments', 'Palmar pits', 'Abnormality of the hair']"
+261515,D-bifunctional protein deficiency,[],[]
+300009,Dent's disease,[],[]
+194080,Denys–Drash syndrome,"['0000100', '0008677', '0001967', '0004396', '0001824', '0001510', '0000924', '0002652', '0100785', '0002027', '0002019', '0100519']","['Nephrotic syndrome', 'Congenital nephrotic syndrome', 'Diffuse mesangial sclerosis', 'Poor appetite', 'Weight loss', 'Growth delay', 'Abnormality of the skeletal system', 'Skeletal dysplasia', 'Insomnia', 'Abdominal pain', 'Constipation', 'Anuria']"
+125595,Dermatopathia pigmentosa reticularis,[],[]
+602398,Desmosterolosis,[],[]
+125852,"Diabetes mellitus, type 1","['0100651', '0001993', '0002608', '0001953', '0000103', '0001959', '0000217', '0002591', '0012378', '0001824', '0000958', '0002883', '0002329', '0100515', '0002027', '0000716', '0002013', '0000488', '0003074', '0001943']","['Type I diabetes mellitus', 'Ketoacidosis', 'Celiac disease', 'Diabetic ketoacidosis', 'Polyuria', 'Polydipsia', 'Xerostomia', 'Polyphagia', 'Fatigue', 'Weight loss', 'Dry skin', 'Hyperventilation', 'Drowsiness', 'Pollakisuria', 'Abdominal pain', 'Depressivity', 'Vomiting', 'Retinopathy', 'Hyperglycemia', 'Hypoglycemia']"
+125853,"Diabetes mellitus, type 2","['0000103', '0100515', '0001959', '0002591', '0001824', '0000622', '0006903', '0009830', '0002719', '0012378']","['Polyuria', 'Pollakisuria', 'Polydipsia', 'Polyphagia', 'Weight loss', 'Blurred vision', 'Congenital peripheral neuropathy', 'Peripheral neuropathy', 'Recurrent infections', 'Fatigue']"
+610629,Diamond–Blackfan anemia,"['0001876', '0001897', '0001903', '0001972', '0020060', '0001518', '0004325', '0001510', '0001909']","['Pancytopenia', 'Normocytic anemia', 'Anemia', 'Macrocytic anemia', 'Decreased red blood cell count', 'Small for gestational age', 'Decreased body weight', 'Growth delay', 'Leukemia']"
+613217,"Diarrhea 5, with tufting enteropathy, congenital",[],[]
+222600,Diastrophic dysplasia,"['0001762', '0002650', '0008458', '0001234', '0000175', '0000202', '0000377', '0002652']","['Talipes equinovarus', 'Scoliosis', 'Progressive congenital scoliosis', 'Hitchhiker thumb', 'Cleft palate', 'Oral cleft', 'Abnormality of the pinna', 'Skeletal dysplasia']"
+222730,Dicarboxylic aminoaciduria,['0003355'],['Aminoaciduria']
+188400,DiGeorge syndrome,"['0001627', '0030680', '0002019', '0000220', '0002719', '0005359', '0002901', '0000829', '0100753']","['Abnormal heart morphology', 'Abnormality of cardiovascular system morphology', 'Constipation', 'Velopharyngeal insufficiency', 'Recurrent infections', 'Aplasia of the thymus', 'Hypocalcemia', 'Hypoparathyroidism', 'Schizophrenia']"
+274270,Dihydropyrimidine dehydrogenase deficiency,[],[]
+222448,Donnai–Barrow syndrome,[],[]
+223360,Dopamine beta-hydroxylase deficiency,"['0002013', '0002615', '0001943', '0001944', '0001252', '0001290', '0001319', '0002045', '0000508', '0007970', '0001742', '0000975', '0002632', '0012877', '0001649', '0012173', '0012332', '0005135']","['Vomiting', 'Hypotension', 'Hypoglycemia', 'Dehydration', 'Muscular hypotonia', 'Generalized hypotonia', 'Neonatal hypotonia', 'Hypothermia', 'Ptosis', 'Congenital ptosis', 'Nasal obstruction', 'Hyperhidrosis', 'Low-to-normal blood pressure', 'Retrograde ejaculation', 'Tachycardia', 'Orthostatic tachycardia', 'Abnormal autonomic nervous system physiology', 'Abnormal T-wave']"
+179850,Dowling–Degos disease,[],[]
+607208,Dravet syndrome,"['0001250', '0000752', '0007359', '0001263', '0001251', '0100543', '0000708', '0000729', '0031035', '0002133']","['Seizures', 'Hyperactivity', 'Focal-onset seizure', 'Global developmental delay', 'Ataxia', 'Cognitive impairment', 'Behavioral abnormality', 'Autistic behavior', 'Chronic infection', 'Status epilepticus']"
+607323,Duane-radial ray syndrome,['0009921'],['Duane anomaly']
+237500,Dubin–Johnson syndrome,[],[]
+310200,Duchenne muscular dystrophy,"['0001771', '0001638', '0003391', '0001324', '0001371', '0002803', '0002938', '0003307', '0002650', '0012378', '0002359', '0002527', '0001644', '0001635', '0011675', '0002093', '0002098', '0002015', '0200136', '0002090']","['Achilles tendon contracture', 'Cardiomyopathy', 'Gowers sign', 'Muscle weakness', 'Flexion contracture', 'Congenital contracture', 'Lumbar hyperlordosis', 'Hyperlordosis', 'Scoliosis', 'Fatigue', 'Frequent falls', 'Falls', 'Dilated cardiomyopathy', 'Congestive heart failure', 'Arrhythmia', 'Respiratory insufficiency', 'Respiratory distress', 'Dysphagia', 'Oral-pharyngeal dysphagia', 'Pneumonia']"
+223900,"Dysautonomia, familial","['0002013', '0000742', '0007021', '0006480', '0000155', '0002664']","['Vomiting', 'Self-mutilation', 'Pain insensitivity', 'Premature loss of teeth', 'Oral ulcer', 'Neoplasm']"
+127400,Dyschromatosis symmetrica hereditaria,[],[]
+127550,Dyskeratosis congenita,[],[]
+224230,Dyskeratosis congenita,[],[]
+604536,Ectodermal dysplasia-skin fragility syndrome,[],[]
+600002,Eiken syndrome,[],[]
+225500,Ellis–van Creveld syndrome,[],[]
+310300,Emery–Dreifuss muscular dystrophy,"['0040083', '0003306', '0030319', '0008981', '0003560', '0003741']","['Toe walking', 'Spinal rigidity', 'Weakness of facial musculature', 'Calf muscle hypertrophy', 'Muscular dystrophy', 'Congenital muscular dystrophy']"
+608089,Endometrial cancer,"['0002664', '0100878', '0002027', '0100518']","['Neoplasm', 'Enlarged uterus', 'Abdominal pain', 'Dysuria']"
+600791,Enlarged vestibular aqueduct,"['0000365', '0000407', '0000408', '0001730', '0008527', '0002321', '0002172']","['Hearing impairment', 'Sensorineural hearing impairment', 'Progressive sensorineural hearing impairment', 'Progressive hearing impairment', 'Congenital sensorineural hearing impairment', 'Vertigo', 'Postural instability']"
+226400,Epidermodysplasia verruciformis,"['0012733', '0200034', '0550004', '0030731', '0001041', '0031287', '0002664']","['Macule', 'Papule', 'Verruca plana', 'Carcinoma', 'Facial erythema', 'Seborrheic keratosis', 'Neoplasm']"
+131960,Epidermolysis bullosa simplex with mottled pigmentation,[],[]
+113800,Epidermolytic hyperkeratosis,[],[]
+144200,Epidermolytic palmoplantar keratoderma,[],[]
+153650,Epstein syndrome,"['0001892', '0001873', '0040185', '0000365', '0000407', '0008527', '0000123', '0001905', '0000421', '0000979', '0000093', '0000112', '0000518', '0000519']","['Abnormal bleeding', 'Thrombocytopenia', 'Macrothrombocytopenia', 'Hearing impairment', 'Sensorineural hearing impairment', 'Congenital sensorineural hearing impairment', 'Nephritis', 'Congenital thrombocytopenia', 'Epistaxis', 'Purpura', 'Proteinuria', 'Nephropathy', 'Cataract', 'Developmental cataract']"
+265000,Escobar syndrome,[],[]
+133239,Esophageal cancer,"['0002664', '0012735', '0001824', '0002013', '0002015', '0200136', '0002860', '0030731', '0004325', '0004396', '0002020', '0002027', '0030430', '0002018', '0002031', '0002090', '0002835', '0011951', '0002781', '0031041', '0001909', '0003072']","['Neoplasm', 'Cough', 'Weight loss', 'Vomiting', 'Dysphagia', 'Oral-pharyngeal dysphagia', 'Squamous cell carcinoma', 'Carcinoma', 'Decreased body weight', 'Poor appetite', 'Gastroesophageal reflux', 'Abdominal pain', 'Neuroma', 'Nausea', 'Abnormal esophagus morphology', 'Pneumonia', 'Aspiration', 'Aspiration pneumonia', 'Upper airway obstruction', 'Obstruction of the superior vena cava', 'Leukemia', 'Hypercalcemia']"
+602473,Ethylmalonic encephalopathy,"['0001298', '0007239', '0001263', '0001252', '0001290', '0001319', '0001250', '0100022', '0000967', '0000988', '0001063', '0002014', '0002028']","['Encephalopathy', 'Congenital encephalopathy', 'Global developmental delay', 'Muscular hypotonia', 'Generalized hypotonia', 'Neonatal hypotonia', 'Seizures', 'Abnormality of movement', 'Petechiae', 'Skin rash', 'Acrocyanosis', 'Diarrhea', 'Chronic diarrhea']"
+612219,Ewing sarcoma,"['0100242', '0002653', '0012254', '0001945', '0001954', '0001903', '0001974', '0003565', '0002664']","['Sarcoma', 'Bone pain', 'Ewing sarcoma', 'Fever', 'Episodic fever', 'Anemia', 'Leukocytosis', 'Elevated erythrocyte sedimentation rate', 'Neoplasm']"
+133780,Exudative vitreoretinopathy,[],[]
+301500,Fabry disease,[],[]
+227400,Factor V deficiency,[],[]
+234000,Factor XII deficiency,"['0005268', '0003125', '0001929']","['Spontaneous abortion', 'Reduced factor VIII activity', 'Reduced factor XI activity']"
+613225,Factor XIIIA deficiency,[],[]
+613235,Factor XIIIB deficiency,[],[]
+227650,"Fanconi anemia, complementation group A",[],[]
+300514,"Fanconi anemia, complementation group B",[],[]
+609054,"Fanconi anemia, complementation group J",[],[]
+610832,"Fanconi anemia, complementation group N",[],[]
+227810,Fanconi–Bickel syndrome,[],[]
+228000,Farber lipogranulomatosis,[],[]
+153640,Fechtner syndrome,[],[]
+164280,Feingold syndrome,[],[]
+228300,Fertile eunuch syndrome,[],[]
+208150,Fetal akinesia deformation sequence,"['0002804', '0001762', '0001838', '0001263', '0001371', '0002803', '0031936', '0000329', '0001028', '0003634', '0004664', '0002089', '0000028', '0001627', '0030680', '0002575', '0000023', '0100790', '0000175', '0000478']","['Arthrogryposis multiplex congenita', 'Talipes equinovarus', 'Rocker bottom foot', 'Global developmental delay', 'Flexion contracture', 'Congenital contracture', 'Delayed ability to walk', 'Facial hemangioma', 'Hemangioma', 'Amyoplasia', 'Facial midline hemangioma', 'Pulmonary hypoplasia', 'Cryptorchidism', 'Abnormal heart morphology', 'Abnormality of cardiovascular system morphology', 'Tracheoesophageal fistula', 'Inguinal hernia', 'Hernia', 'Cleft palate', 'Abnormality of the eye']"
+135100,Fibrodysplasia ossificans progressiva,"['0002664', '0000194', '0001763']","['Neoplasm', 'Open mouth', 'Pes planus']"
+136120,Fish-eye disease,"['0000505', '0002621', '0002240', '0001744', '0007957', '0001878', '0001903', '0004804', '0000478', '0002716']","['Visual impairment', 'Atherosclerosis', 'Hepatomegaly', 'Splenomegaly', 'Corneal opacity', 'Hemolytic anemia', 'Anemia', 'Congenital hemolytic anemia', 'Abnormality of the eye', 'Lymphadenopathy']"
+305600,Focal dermal hypoplasia,[],[]
+300624,Fragile X syndrome,"['0001249', '0000400', '0000411', '0001763', '0000053', '0008640', '0001290', '0000388', '0000403', '0000246', '0000733', '0100962', '0002354']","['Intellectual disability', 'Macrotia', 'Protruding ear', 'Pes planus', 'Macroorchidism', 'Congenital macroorchidism', 'Generalized hypotonia', 'Otitis media', 'Recurrent otitis media', 'Sinusitis', 'Stereotypy', 'Shyness', 'Memory impairment']"
+249420,Frank–ter Haar syndrome,[],[]
+219000,Fraser syndrome,"['0001126', '0000054', '0000028', '0008665', '0000366', '0001249']","['Cryptophthalmos', 'Micropenis', 'Cryptorchidism', 'Clitoral hypertrophy', 'Abnormality of the nose', 'Intellectual disability']"
+136680,Frasier syndrome,[],[]
+229300,Friedreich's ataxia,"['0001638', '0000639', '0006934', '0001310', '0001251', '0002078', '0001284', '0003487', '0001640', '0001644', '0030148', '0005110', '0001649', '0001639', '0000364', '0000365', '0000504', '0000505', '0000750', '0000925', '0001288', '0001344', '0001350', '0002167', '0002650', '0000819', '0001324', '0002460']","['Cardiomyopathy', 'Nystagmus', 'Congenital nystagmus', 'Dysmetria', 'Ataxia', 'Truncal ataxia', 'Areflexia', 'Babinski sign', 'Cardiomegaly', 'Dilated cardiomyopathy', 'Heart murmur', 'Atrial fibrillation', 'Tachycardia', 'Hypertrophic cardiomyopathy', 'Hearing abnormality', 'Hearing impairment', 'Abnormality of vision', 'Visual impairment', 'Delayed speech and language development', 'Abnormality of the vertebral column', 'Gait disturbance', 'Absent speech', 'Slurred speech', 'Neurological speech impairment', 'Scoliosis', 'Diabetes mellitus', 'Muscle weakness', 'Distal muscle weakness']"
+229600,Fructose intolerance,[],[]
+229700,"Fructose-1,6-bisphosphatase deficiency",[],[]
+230000,Fucosidosis,[],[]
+606812,Fumarase deficiency,[],[]
+136880,Fundus albipunctatus,[],[]
+248200,Fundus flavimaculatus,"['0000529', '0000572', '0000575', '0000505']","['Progressive visual loss', 'Visual loss', 'Scotoma', 'Visual impairment']"
+230350,Galactose epimerase deficiency,"['0012024', '0000365', '0000407', '0000952', '0001290', '0001319', '0001510', '0008527', '0008610', '0008947', '0100543', '0000083', '0001399', '0001744']","['Hypergalactosemia', 'Hearing impairment', 'Sensorineural hearing impairment', 'Jaundice', 'Generalized hypotonia', 'Neonatal hypotonia', 'Growth delay', 'Congenital sensorineural hearing impairment', 'Infantile sensorineural hearing impairment', 'Infantile muscular hypotonia', 'Cognitive impairment', 'Renal insufficiency', 'Hepatic failure', 'Splenomegaly']"
+230400,Galactosemia,[],[]
+256540,Galactosialidosis,[],[]
+612736,GAMT deficiency,"['0001263', '0001250', '0001290', '0001319', '0000750', '0000717', '0100716']","['Global developmental delay', 'Seizures', 'Generalized hypotonia', 'Neonatal hypotonia', 'Delayed speech and language development', 'Autism', 'Self-injurious behavior']"
+604233,Generalized epilepsy with febrile seizures plus,"['0001250', '0002373', '0002069', '0010819']","['Seizures', 'Febrile seizures', 'Generalized tonic-clonic seizures', 'Atonic seizures']"
+273300,Germ cell tumors,[],[]
+231070,Geroderma osteodysplasticum,[],[]
+137440,Gerstmann–Sträussler–Scheinker syndrome,"['0001251', '0000726', '0001260', '0002465', '0002078', '0002354', '0001336', '0000639', '0006934', '0000365', '0000618', '0007875', '0001284', '0003401']","['Ataxia', 'Dementia', 'Dysarthria', 'Poor speech', 'Truncal ataxia', 'Memory impairment', 'Myoclonus', 'Nystagmus', 'Congenital nystagmus', 'Hearing impairment', 'Blindness', 'Congenital blindness', 'Areflexia', 'Paresthesia']"
+206700,Gillespie syndrome,[],[]
+263800,Gitelman syndrome,"['0003113', '0030083', '0001250', '0001281', '0003470', '0001627', '0001657', '0001645', '0001510', '0004308', '0011675']","['Hypochloremia', 'Salt craving', 'Seizures', 'Tetany', 'Paralysis', 'Abnormal heart morphology', 'Prolonged QT interval', 'Sudden cardiac death', 'Growth delay', 'Ventricular arrhythmia', 'Arrhythmia']"
+137750,"Glaucoma 1A, primary open angle, juvenile-onset",[],[]
+102530,Globozoospermia,['0012205'],['Globozoospermia']
+606824,Glucose-galactose malabsorption,[],[]
+266130,Glutathione synthetase deficiency,[],[]
+307030,Glycerol kinase deficiency,"['0002013', '0001254', '0003560', '0003741', '0000835', '0008244', '0000028', '0001289', '0000486']","['Vomiting', 'Lethargy', 'Muscular dystrophy', 'Congenital muscular dystrophy', 'Adrenal hypoplasia', 'Congenital adrenal hypoplasia', 'Cryptorchidism', 'Confusion', 'Strabismus']"
+605899,Glycine encephalopathy,"['0001250', '0001298', '0002123', '0007239', '0005943']","['Seizures', 'Encephalopathy', 'Generalized myoclonic seizures', 'Congenital encephalopathy', 'Respiratory arrest']"
+606664,Glycine N-methyltransferase deficiency,[],[]
+232400,Glycogen storage disease IIIa,"['0001943', '0001508', '0002240', '0001290', '0001319', '0001638']","['Hypoglycemia', 'Failure to thrive', 'Hepatomegaly', 'Generalized hypotonia', 'Neonatal hypotonia', 'Cardiomyopathy']"
+240600,Glycogen storage disease type 0,"['0001250', '0000641', '0001289', '0001392', '0001510', '0001943', '0011145']","['Seizures', 'Dysmetric saccades', 'Confusion', 'Abnormality of the liver', 'Growth delay', 'Hypoglycemia', 'Symptomatic seizures']"
+272750,"GM2-gangliosidosis, AB variant","['0001250', '0000365', '0001249', '0003470']","['Seizures', 'Hearing impairment', 'Intellectual disability', 'Paralysis']"
+609460,Goldberg–Shpritzen megacolon syndrome,[],[]
+603358,GRACILE syndrome,"['0001941', '0001994', '0003128', '0003452', '0004902', '0000365', '0000799', '0001394', '0001396', '0001397', '0001510', '0001511', '0003281', '0012343', '0012463', '0012464', '0012465', '0031987', '0040303', '0001290', '0001319', '0003355', '0003542', '0004925', '0008947', '0012468']","['Acidosis', 'Renal Fanconi syndrome', 'Lactic acidosis', 'Increased serum iron', 'Congenital lactic acidosis', 'Hearing impairment', 'Renal steatosis', 'Cirrhosis', 'Cholestasis', 'Hepatic steatosis', 'Growth delay', 'Intrauterine growth retardation', 'Increased serum ferritin', 'Decreased serum ferritin', 'Elevated transferrin saturation', 'Decreased transferrin saturation', 'Elevated hepatic iron concentration', 'Diminished ability to concentrate', 'Decreased serum iron', 'Generalized hypotonia', 'Neonatal hypotonia', 'Aminoaciduria', 'Increased serum pyruvate', 'Chronic lactic acidosis', 'Infantile muscular hypotonia', 'Chronic acidosis']"
+215140,Greenberg dysplasia,[],[]
+175700,Greig cephalopolysyndactyly syndrome,[],[]
+214450,Griscelli syndrome type 1,[],[]
+607624,Griscelli syndrome type 2,[],[]
+609227,Griscelli syndrome type 3,[],[]
+169600,Hailey–Hailey disease,"['0008066', '0200037']","['Abnormal blistering of the skin', 'Skin vesicle']"
+245010,Haim–Munk syndrome,"['0002797', '0040189', '0000982', '0000670', '0000704', '0001763', '0001166', '0009771', '0001371', '0002803', '0001367', '0003040']","['Osteolysis', 'Scaling skin', 'Palmoplantar keratoderma', 'Carious teeth', 'Periodontitis', 'Pes planus', 'Arachnodactyly', 'Osteolytic defects of the phalanges of the hand', 'Flexion contracture', 'Congenital contracture', 'Abnormal joint morphology', 'Arthropathy']"
+234100,Hallermann–Streiff syndrome,[],[]
+140000,Hand-foot-uterus Syndrome,[],[]
+140350,Hawkinsinuria,[],[]
+106260,Hay–Wells syndrome,[],[]
+140700,Heinz body anemia,"['0001903', '0001635', '0001891', '0001649', '0001714', '0012378', '0031987', '0002098', '0001962', '0004417', '0000980', '0000592', '0000708', '0012452']","['Anemia', 'Congestive heart failure', 'Iron deficiency anemia', 'Tachycardia', 'Ventricular hypertrophy', 'Fatigue', 'Diminished ability to concentrate', 'Respiratory distress', 'Palpitations', 'Intermittent claudication', 'Pallor', 'Blue sclerae', 'Behavioral abnormality', 'Restless legs']"
+141500,"Hemiplegic migraine, familial","['0001297', '0002076', '0002077', '0002301', '0000639', '0000640', '0006934']","['Stroke', 'Migraine', 'Migraine with aura', 'Hemiplegia', 'Nystagmus', 'Gaze-evoked nystagmus', 'Congenital nystagmus']"
+306900,Hemophilia B,"['0000978', '0000790', '0000421', '0005261']","['Bruising susceptibility', 'Hematuria', 'Epistaxis', 'Joint hemorrhage']"
+235510,Hennekam lymphangiectasia-lymphedema syndrome,[],[]
+142330,Hepatic adenoma,"['0012028', '0002615', '0001649', '0000975']","['Hepatocellular adenoma', 'Hypotension', 'Tachycardia', 'Hyperhidrosis']"
+114550,Hepatocellular cancer,"['0001392', '0000952', '0003270', '0000978', '0001824', '0002027', '0002018', '0002013', '0012378']","['Abnormality of the liver', 'Jaundice', 'Abdominal distention', 'Bruising susceptibility', 'Weight loss', 'Abdominal pain', 'Nausea', 'Vomiting', 'Fatigue']"
+300049,"Heterotopia, periventricular",[],[]
+300537,"Heterotopia, periventricular, ED variant",[],[]
+142623,Hirschsprung's disease,"['0002251', '0002014', '0025085', '0002019', '0003270']","['Aganglionic megacolon', 'Diarrhea', 'Bloody diarrhea', 'Constipation', 'Abdominal distention']"
+612160,"Histiocytoma, angiomatoid fibrous, somatic",[],[]
+236000,Hodgkin's lymphoma,"['0012189', '0002665', '0001945', '0002716', '0000989', '0030166', '0001824', '0001744', '0002240', '0001433', '0011134', '0012378']","['Hodgkin lymphoma', 'Lymphoma', 'Fever', 'Lymphadenopathy', 'Pruritus', 'Night sweats', 'Weight loss', 'Splenomegaly', 'Hepatomegaly', 'Hepatosplenomegaly', 'Low-grade fever', 'Fatigue']"
+253270,Holocarboxylase synthetase deficiency,[],[]
+142900,Holt-Oram syndrome,[],[]
+300240,Hoyeraal-Hreidarsson syndrome,[],[]
+143100,Huntington's disease,"['0002354', '0000726', '0000751', '0000711', '0002072', '0002311', '0000514', '0002067', '0002063', '0002533', '0025356', '0000271', '0005346', '0005216', '0001250', '0100543', '0007123', '0000708', '0003202', '0001635', '0000833', '0040270', '0001824', '0000939', '0000029']","['Memory impairment', 'Dementia', 'Personality changes', 'Restlessness', 'Chorea', 'Incoordination', 'Slow saccadic eye movements', 'Bradykinesia', 'Rigidity', 'Abnormal posturing', 'Psychomotor retardation', 'Abnormality of the face', 'Abnormal facial expression', 'Impaired mastication', 'Seizures', 'Cognitive impairment', 'Subcortical dementia', 'Behavioral abnormality', 'Skeletal muscle atrophy', 'Congestive heart failure', 'Glucose intolerance', 'Decreased glucose tolerance', 'Weight loss', 'Osteoporosis', 'Testicular atrophy']"
+176670,Hutchinson–Gilford progeria syndrome,"['0100324', '0001596', '0001508', '0000274', '0000347', '0000418', '0000256', '0004488', '0001015', '0001043', '0002293', '0000520']","['Scleroderma', 'Alopecia', 'Failure to thrive', 'Small face', 'Micrognathia', 'Narrow nasal ridge', 'Macrocephaly', 'Macrocephaly at birth', 'Prominent superficial veins', 'Prominent scalp veins', 'Alopecia of scalp', 'Proptosis']"
+231090,Hydatidiform mole,"['0100879', '0002013', '0000093', '0000790', '0000822']","['Enlarged ovaries', 'Vomiting', 'Proteinuria', 'Hematuria', 'Hypertension']"
+236680,Hydrolethalus syndrome,"['0012443', '0001622', '0000238', '0000707', '0002011', '0001627', '0030680', '0000175', '0000202', '0410030', '0010442', '0000347', '0000478', '0000445']","['Abnormality of brain morphology', 'Premature birth', 'Hydrocephalus', 'Abnormality of the nervous system', 'Morphological abnormality of the central nervous system', 'Abnormal heart morphology', 'Abnormality of cardiovascular system morphology', 'Cleft palate', 'Oral cleft', 'Cleft lip', 'Polydactyly', 'Micrognathia', 'Abnormality of the eye', 'Wide nose']"
+143890,"Hypercholesterolemia, familial",[],[]
+149400,Hyperekplexia,"['0002267', '0001336', '0002104']","['Exaggerated startle response', 'Myoclonus', 'Apnea']"
+600886,Hyperferritinemia-cataract syndrome,[],[]
+260920,Hyper-IgD syndrome,[],[]
+606762,Hyperinsulinism-hyperammonemia syndrome,[],[]
+207750,"Hyperlipoproteinemia, type Ib",[],[]
+238700,Hyperlysinemia,[],[]
+238970,Hyperornithinemia-hyperammonemia-homocitrullinemia syndrome,[],[]
+604091,Hypoalphalipoproteinemia,[],[]
+146000,Hypochondroplasia,"['0000924', '0001156', '0002652', '0002983', '0003097', '0004322']","['Abnormality of the skeletal system', 'Brachydactyly', 'Skeletal dysplasia', 'Micromelia', 'Short femur', 'Short stature']"
+146110,Hypogonadotropic hypogonadism,[],[]
+170400,Hypokalemic periodic paralysis type 1,[],[]
+602014,Hypomagnesemia with secondary hypocalcemia,[],[]
+300554,Hypophosphatemic rickets,['0002758'],['Osteoarthritis']
+241550,Hypoplastic left heart syndrome,"['0000961', '0001643', '0001961', '0004383', '0002098', '0030149', '0031273', '0001518', '0004325', '0001622', '0001631', '0001941', '0001667', '0001714', '0001640']","['Cyanosis', 'Patent ductus arteriosus', 'Hypoplastic heart', 'Hypoplastic left heart', 'Respiratory distress', 'Cardiogenic shock', 'Shock', 'Small for gestational age', 'Decreased body weight', 'Premature birth', 'Atrial septal defect', 'Acidosis', 'Right ventricular hypertrophy', 'Ventricular hypertrophy', 'Cardiomegaly']"
+607823,Hypotrichosis-lymphedema-telangiectasia syndrome,[],[]
+146800,Ichthyosis bullosa of Siemens,"['0000962', '0007431', '0007475', '0008064', '0010783', '0040189', '0001030', '0000975']","['Hyperkeratosis', 'Congenital ichthyosiform erythroderma', 'Congenital bullous ichthyosiform erythroderma', 'Ichthyosis', 'Erythema', 'Scaling skin', 'Fragile skin', 'Hyperhidrosis']"
+608649,Ichthyosis prematurity syndrome,[],[]
+146700,Ichthyosis vulgaris,[],[]
+609165,Ichthyosis with confetti,[],[]
+308100,"Ichthyosis, x-linked",['0040189'],['Scaling skin']
+242860,Immunodeficiency–centromeric instability–facial anomalies syndrome,[],[]
+600072,"Insomnia, fatal familial","['0025269', '0100785', '0011999', '0000738', '0001824', '0000726', '0000975', '0000802', '0025258', '0000822', '0002019']","['Panic attack', 'Insomnia', 'Paranoia', 'Hallucinations', 'Weight loss', 'Dementia', 'Hyperhidrosis', 'Impotence', 'Stiff neck', 'Hypertension', 'Constipation']"
+611283,Isobutyryl-coenzyme A dehydrogenase deficiency,[],[]
+243500,Isovaleric acidemia,"['0001941', '0011968', '0002013', '0001250']","['Acidosis', 'Feeding difficulties', 'Vomiting', 'Seizures']"
+123150,Jackson–Weiss syndrome,"['0000520', '0002007', '0008368']","['Proptosis', 'Frontal bossing', 'Tarsal synostosis']"
+217080,Jalili syndrome,[],[]
+220400,Jervell and Lange-Nielsen syndrome,"['0011675', '0001657']","['Arrhythmia', 'Prolonged QT interval']"
+243800,Johanson–Blizzard syndrome,[],[]
+609242,Kanzaki disease,[],[]
+610217,Karak syndrome,[],[]
+148190,Keratitis,[],[]
+148210,Keratitis–ichthyosis–deafness syndrome,[],[]
+148300,Keratoconus,"['0000563', '0000505', '0000483', '0031792', '0007663', '0000662', '0000613', '0031590', '0000989', '0100699', '0025309']","['Keratoconus', 'Visual impairment', 'Astigmatism', 'Irregular astigmatism', 'Reduced visual acuity', 'Nyctalopia', 'Photophobia', 'Asthenopia', 'Pruritus', 'Scarring', 'Abnormal pupil shape']"
+308800,Keratosis follicularis spinulosa decalvans,[],[]
+245150,Keutel syndrome,"['0000271', '0000290', '0000340', '0000327', '0000716', '0000154', '0000689', '0000278', '0100593', '0001642', '0004950', '0004969', '0100545', '0000365', '0001999', '0001249']","['Abnormality of the face', 'Abnormality of the forehead', 'Sloping forehead', 'Hypoplasia of the maxilla', 'Depressivity', 'Wide mouth', 'Dental malocclusion', 'Retrognathia', 'Calcification of cartilage', 'Pulmonic stenosis', 'Peripheral arterial stenosis', 'Peripheral pulmonary artery stenosis', 'Arterial stenosis', 'Hearing impairment', 'Abnormal facial shape', 'Intellectual disability']"
+173650,Kindler syndrome,['0200037'],['Skin vesicle']
+610253,Kleefstra syndrome,"['0000078', '0000717', '0000718', '0001270', '0001290', '0001319', '0001627', '0011947', '0030680']","['Abnormality of the genital system', 'Autism', 'Aggressive behavior', 'Motor delay', 'Generalized hypotonia', 'Neonatal hypotonia', 'Abnormal heart morphology', 'Respiratory tract infection', 'Abnormality of cardiovascular system morphology']"
+156550,Kniest dysplasia,[],[]
+262650,Kowarski syndrome,[],[]
+245200,Krabbe disease,"['0000737', '0001945', '0001250', '0011968', '0002013', '0100021', '0001324', '0001257', '0000365', '0000648', '0000618', '0007875', '0003470', '0002015', '0200136', '0001824']","['Irritability', 'Fever', 'Seizures', 'Feeding difficulties', 'Vomiting', 'Cerebral palsy', 'Muscle weakness', 'Spasticity', 'Hearing impairment', 'Optic atrophy', 'Blindness', 'Congenital blindness', 'Paralysis', 'Dysphagia', 'Oral-pharyngeal dysphagia', 'Weight loss']"
+236792,L-2-hydroxyglutaric aciduria,[],[]
+249700,Langer mesomelic dysplasia,"['0003026', '0009826', '0200083', '0003022', '0003982', '0006495', '0000347']","['Short long bone', 'Limb undergrowth', 'Severe limb shortening', 'Hypoplasia of the ulna', 'Aplasia of the ulna', 'Aplasia/Hypoplasia of the ulna', 'Micrognathia']"
+262500,Laron dwarfism,[],[]
+150250,Larsen syndrome,[],[]
+245660,Laryngoonychocutaneous syndrome,[],[]
+607330,Lathosterolosis,[],[]
+609016,LCHAD deficiency,"['0011968', '0001254', '0001943', '0001290', '0001319', '0000479', '0003326', '0000707', '0002817', '0006903', '0009830']","['Feeding difficulties', 'Lethargy', 'Hypoglycemia', 'Generalized hypotonia', 'Neonatal hypotonia', 'Abnormal retinal morphology', 'Myalgia', 'Abnormality of the nervous system', 'Abnormality of the upper limb', 'Congenital peripheral neuropathy', 'Peripheral neuropathy']"
+611431,Legius syndrome,"['0001067', '0009737', '0009733', '0009734', '0002664', '0030430', '0100697', '0000256', '0001012', '0001263', '0004488', '0012032']","['Neurofibromas', 'Lisch nodules', 'Glioma', 'Optic nerve glioma', 'Neoplasm', 'Neuroma', 'Neurofibrosarcoma', 'Macrocephaly', 'Multiple lipomas', 'Global developmental delay', 'Macrocephaly at birth', 'Lipoma']"
+256000,Leigh syndrome,"['0002376', '0000737', '0001250', '0001252', '0001290', '0001319', '0001332', '0001251', '0000597', '0003470', '0000639', '0004305', '0006934', '0000514', '0002088']","['Developmental regression', 'Irritability', 'Seizures', 'Muscular hypotonia', 'Generalized hypotonia', 'Neonatal hypotonia', 'Dystonia', 'Ataxia', 'Ophthalmoparesis', 'Paralysis', 'Nystagmus', 'Involuntary movements', 'Congenital nystagmus', 'Slow saccadic eye movements', 'Abnormal lung morphology']"
+151100,Leopard syndrome,"['0001480', '0001010', '0011710', '0000316', '0000271', '0000431', '0000303', '0001642', '0001627', '0001650', '0001634', '0000028', '0030868', '0001510', '0012733', '0001045', '0000997', '0000639', '0000974', '0001249', '0001256', '0004305', '0006934', '0001250', '0004409', '0002617', '0001909', '0002488', '0004808']","['Freckling', 'Hypopigmentation of the skin', 'Bundle branch block', 'Hypertelorism', 'Abnormality of the face', 'Wide nasal bridge', 'Mandibular prognathia', 'Pulmonic stenosis', 'Abnormal heart morphology', 'Aortic valve stenosis', 'Mitral valve prolapse', 'Cryptorchidism', 'Monorchism', 'Growth delay', 'Macule', 'Vitiligo', 'Axillary freckling', 'Nystagmus', 'Hyperextensible skin', 'Intellectual disability', 'Intellectual disability, mild', 'Involuntary movements', 'Congenital nystagmus', 'Seizures', 'Hyposmia', 'Dilatation', 'Leukemia', 'Acute leukemia', 'Acute myeloid leukemia']"
+246200,Leprechaunism,"['0000369', '0000154', '0012471', '0000316', '0003758', '0040063', '0003202', '0000998', '0001007', '0002164', '0000956', '0025092', '0008665', '0000138', '0000040', '0000855']","['Low-set ears', 'Wide mouth', 'Thick vermilion border', 'Hypertelorism', 'Reduced subcutaneous adipose tissue', 'Decreased adipose tissue', 'Skeletal muscle atrophy', 'Hypertrichosis', 'Hirsutism', 'Nail dysplasia', 'Acanthosis nigricans', 'Epidermal acanthosis', 'Clitoral hypertrophy', 'Ovarian cyst', 'Long penis', 'Insulin resistance']"
+127300,Léri–Weill dyschondrosteosis,[],[]
+300322,Lesch–Nyhan syndrome,"['0000708', '0000742', '0002149', '0001903', '0001972', '0001510', '0000029', '0001369', '0001997']","['Behavioral abnormality', 'Self-mutilation', 'Hyperuricemia', 'Anemia', 'Macrocytic anemia', 'Growth delay', 'Testicular atrophy', 'Arthritis', 'Gout']"
+253310,Lethal congenital contracture syndrome 1,[],[]
+116920,Leukocyte adhesion deficiency,[],[]
+603896,Leukoencephalopathy with vanishing white matter,"['0001251', '0001257', '0000648', '0001250', '0000737', '0002013', '0001945']","['Ataxia', 'Spasticity', 'Optic atrophy', 'Seizures', 'Irritability', 'Vomiting', 'Fever']"
+177200,Liddle syndrome,"['0000822', '0012378', '0001324', '0001962', '0002098', '0002019', '0003270', '0003546']","['Hypertension', 'Fatigue', 'Muscle weakness', 'Palpitations', 'Respiratory distress', 'Constipation', 'Abdominal distention', 'Exercise intolerance']"
+151623,Li–Fraumeni syndrome,[],[]
+609265,Li–Fraumeni syndrome,[],[]
+606593,LIG4 syndrome,[],[]
+603543,Limb-mammary syndrome,[],[]
+201710,Lipoid congenital adrenal hyperplasia,[],[]
+247100,Lipoid proteinosis,[],[]
+238600,Lipoprotein lipase deficiency,"['0001733', '0001735', '0001738', '0001508', '0002027', '0410019', '0001013', '0001114', '0000660', '0001433']","['Pancreatitis', 'Acute pancreatitis', 'Exocrine pancreatic insufficiency', 'Failure to thrive', 'Abdominal pain', 'Epigastric pain', 'Eruptive xanthomas', 'Xanthelasma', 'Lipemia retinalis', 'Hepatosplenomegaly']"
+309000,Lowe syndrome,"['0000077', '0000518', '0000519', '0000124']","['Abnormality of the kidney', 'Cataract', 'Developmental cataract', 'Renal tubular dysfunction']"
+309520,Lujan–Fryns syndrome,"['0001249', '0001256', '0002342', '0001274']","['Intellectual disability', 'Intellectual disability, mild', 'Intellectual disability, moderate', 'Agenesis of corpus callosum']"
+211980,Lung cancer,"['0002664', '0100526', '0012735', '0002098', '0001824', '0002653', '0002105', '0030828', '0001945', '0001217', '0100749', '0031041', '0002094', '0005957', '0003072', '0031218', '0001324', '0003473', '0002315', '0003690']","['Neoplasm', 'Neoplasm of the lung', 'Cough', 'Respiratory distress', 'Weight loss', 'Bone pain', 'Hemoptysis', 'Wheezing', 'Fever', 'Clubbing', 'Chest pain', 'Obstruction of the superior vena cava', 'Dyspnea', 'Breathing dysregulation', 'Hypercalcemia', 'Inappropriate antidiuretic hormone secretion', 'Muscle weakness', 'Fatigable weakness', 'Headache', 'Limb muscle weakness']"
+606690,Lymphangioleiomyomatosis,"['0002107', '0002094', '0002098', '0002875', '0002088', '0002108', '0002099', '0006510', '0002105', '0001541', '0012281', '0002664', '0006772', '0001004', '0012378', '0012735', '0100749', '0010310', '0011852', '0000799', '0002615', '0100764', '0002665', '0100615', '0002202']","['Pneumothorax', 'Dyspnea', 'Respiratory distress', 'Exertional dyspnea', 'Abnormal lung morphology', 'Spontaneous pneumothorax', 'Asthma', 'Chronic obstructive pulmonary disease', 'Hemoptysis', 'Ascites', 'Chylous ascites', 'Neoplasm', 'Renal angiomyolipoma', 'Lymphedema', 'Fatigue', 'Cough', 'Chest pain', 'Chylothorax', 'Chylopericardium', 'Renal steatosis', 'Hypotension', 'Lymphangioma', 'Lymphoma', 'Ovarian neoplasm', 'Pleural effusion']"
+153400,Lymphedema–distichiasis syndrome,[],[]
+222700,Lysinuric protein intolerance,"['0031987', '0002013', '0002014', '0001508', '0004396', '0001510', '0002240', '0000939', '0000938', '0002750', '0003217']","['Diminished ability to concentrate', 'Vomiting', 'Diarrhea', 'Failure to thrive', 'Poor appetite', 'Growth delay', 'Hepatomegaly', 'Osteoporosis', 'Osteopenia', 'Delayed skeletal maturation', 'Hyperglutaminemia']"
+109150,Machado–Joseph disease,"['0002354', '0001257', '0000750', '0001344', '0002167', '0002312', '0100515', '0004305', '0003470']","['Memory impairment', 'Spasticity', 'Delayed speech and language development', 'Absent speech', 'Neurological speech impairment', 'Clumsiness', 'Pollakisuria', 'Involuntary movements', 'Paralysis']"
+217800,Macular corneal dystrophy,"['0000505', '0001141', '0012155', '0000613', '0001131', '0007754', '0008005']","['Visual impairment', 'Severely reduced visual acuity', 'Decreased corneal sensation', 'Photophobia', 'Corneal dystrophy', 'Macular dystrophy', 'Congenital corneal dystrophy']"
+608161,"Macular dystrophy, vitelliform",[],[]
+609628,Majeed syndrome,[],[]
+248360,Malonyl-CoA decarboxylase deficiency,"['0001638', '0001263', '0001252', '0001290', '0001319', '0001250', '0002014', '0002013', '0001943', '0001941', '0001942']","['Cardiomyopathy', 'Global developmental delay', 'Muscular hypotonia', 'Generalized hypotonia', 'Neonatal hypotonia', 'Seizures', 'Diarrhea', 'Vomiting', 'Hypoglycemia', 'Acidosis', 'Metabolic acidosis']"
+248370,Mandibuloacral dysplasia,[],[]
+154700,Marfan syndrome,[],[]
+248800,Marinesco–Sjögren syndrome,[],[]
+253200,"Maroteaux–Lamy syndrome, several forms","['0000365', '0000023', '0001537', '0100790']","['Hearing impairment', 'Inguinal hernia', 'Umbilical hernia', 'Hernia']"
+154780,Marshall syndrome,[],[]
+604308,MASS syndrome,[],[]
+155100,May–Hegglin anomaly,[],[]
+232600,McArdle disease,"['0002913', '0003201', '0003326', '0003546', '0003738', '0012378', '0001371', '0002803', '0001919', '0008942']","['Myoglobinuria', 'Rhabdomyolysis', 'Myalgia', 'Exercise intolerance', 'Exercise-induced myalgia', 'Fatigue', 'Flexion contracture', 'Congenital contracture', 'Acute kidney injury', 'Acute rhabdomyolysis']"
+174800,McCune–Albright syndrome,"['0000826', '0000836', '0000845', '0003118']","['Precocious puberty', 'Hyperthyroidism', 'Growth hormone excess', 'Increased circulating cortisol level']"
+236700,McKusick–Kaufman syndrome,[],[]
+155240,Medullary thyroid carcinoma,"['0002865', '0002890', '0030731', '0002014', '0031284', '0100570', '0025388']","['Medullary thyroid carcinoma', 'Thyroid carcinoma', 'Carcinoma', 'Diarrhea', 'Flushing', 'Carcinoid tumor', 'Thyroid nodule']"
+155255,Medulloblastoma,"['0002516', '0002664', '0002013', '0002315', '0002076', '0011024', '0001251', '0002078', '0002359', '0002527', '0000651', '0001085', '0006824', '0011349', '0002321', '0000639', '0006934', '0030319']","['Increased intracranial pressure', 'Neoplasm', 'Vomiting', 'Headache', 'Migraine', 'Abnormality of the gastrointestinal tract', 'Ataxia', 'Truncal ataxia', 'Frequent falls', 'Falls', 'Diplopia', 'Papilledema', 'Cranial nerve paralysis', 'Abducens palsy', 'Vertigo', 'Nystagmus', 'Congenital nystagmus', 'Weakness of facial musculature']"
+122100,Meesmann corneal dystrophy,[],[]
+604004,Megalencephalic leukoencephalopathy with subcortical cysts,[],[]
+609048,Melanoma,"['0002861', '0012058']","['Melanoma', 'Nodular melanoma']"
+248300,Meleda disease,"['0000975', '0001072']","['Hyperhidrosis', 'Thickened skin']"
+309350,Melnick–Needles syndrome,[],[]
+607174,Meningioma,"['0001250', '0002858', '0007359', '0007340', '0002664', '0002516', '0009733']","['Seizures', 'Meningioma', 'Focal-onset seizure', 'Lower limb muscle weakness', 'Neoplasm', 'Increased intracranial pressure', 'Glioma']"
+309400,Menkes disease,"['0001252', '0001290', '0001319', '0001508', '0002045', '0001250', '0003016', '0002180', '0000939', '0005855', '0000973', '0002208']","['Muscular hypotonia', 'Generalized hypotonia', 'Neonatal hypotonia', 'Failure to thrive', 'Hypothermia', 'Seizures', 'Metaphyseal widening', 'Neurodegeneration', 'Osteoporosis', 'Multiple prenatal fractures', 'Cutis laxa', 'Coarse hair']"
+300749,Mental retardation and microcephaly with pontine and cerebellar hypoplasia,[],[]
+156250,Metachondromatosis,[],[]
+250100,Metachromatic leukodystrophy,"['0000726', '0002355', '0003202', '0002063', '0001263', '0000529', '0000572', '0000618', '0007875', '0002015', '0200136', '0003470', '0001268']","['Dementia', 'Difficulty walking', 'Skeletal muscle atrophy', 'Rigidity', 'Global developmental delay', 'Progressive visual loss', 'Visual loss', 'Blindness', 'Congenital blindness', 'Dysphagia', 'Oral-pharyngeal dysphagia', 'Paralysis', 'Mental deterioration']"
+156400,"Metaphyseal chondrodysplasia, Murk Jansen type",[],[]
+610377,Mevalonic aciduria,[],[]
+210720,Microcephalic osteodysplastic primordial dwarfism type II,[],[]
+251850,Microvillus inclusion disease,[],[]
+264750,Miller syndrome,[],[]
+276300,Mismatch repair cancer syndrome,[],[]
+252011,Mitochondrial complex II deficiency,"['0003487', '0001324', '0003202', '0003693', '0002376', '0012378']","['Babinski sign', 'Muscle weakness', 'Skeletal muscle atrophy', 'Distal amyotrophy', 'Developmental regression', 'Fatigue']"
+254130,Miyoshi myopathy,[],[]
+304700,Mohr–Tranebjærg syndrome,[],[]
+158000,Monilethrix,[],[]
+235730,Mowat–Wilson syndrome,[],[]
+191900,Muckle–Wells syndrome,"['0000365', '0000407', '0001025', '0001945', '0002829', '0008527', '0025143']","['Hearing impairment', 'Sensorineural hearing impairment', 'Urticaria', 'Fever', 'Arthralgia', 'Congenital sensorineural hearing impairment', 'Chills']"
+252650,Mucolipidosis IV,"['0025356', '0001263', '0007957', '0000546', '0001274', '0500167']","['Psychomotor retardation', 'Global developmental delay', 'Corneal opacity', 'Retinal degeneration', 'Agenesis of corpus callosum', 'Hypergastrinemia']"
+607014,Mucopolysaccharidosis Ih,"['0000271', '0000256', '0004488', '0005280', '0031417', '0000924', '0012185', '0001387', '0001537', '0100790', '0000546', '0000618', '0007875', '0002240', '0002014', '0003319', '0003468', '0002205', '0002719', '0002783', '0011947', '0001263']","['Abnormality of the face', 'Macrocephaly', 'Macrocephaly at birth', 'Depressed nasal bridge', 'Rhinorrhea', 'Abnormality of the skeletal system', 'Constrictive median neuropathy', 'Joint stiffness', 'Umbilical hernia', 'Hernia', 'Retinal degeneration', 'Blindness', 'Congenital blindness', 'Hepatomegaly', 'Diarrhea', 'Abnormality of the cervical spine', 'Abnormal vertebral morphology', 'Recurrent respiratory infections', 'Recurrent infections', 'Recurrent lower respiratory tract infections', 'Respiratory tract infection', 'Global developmental delay']"
+607016,Mucopolysaccharidosis Is,"['0012185', '0001387', '0002104', '0010535']","['Constrictive median neuropathy', 'Joint stiffness', 'Apnea', 'Sleep apnea']"
+601492,Mucopolysaccharidosis type IX,[],[]
+253220,Mucopolysaccharidosis VII,"['0000969', '0001789', '0005099', '0000280', '0002240', '0100790', '0002104', '0010535', '0002719', '0007759']","['Edema', 'Hydrops fetalis', 'Severe hydrops fetalis', 'Coarse facial features', 'Hepatomegaly', 'Hernia', 'Apnea', 'Sleep apnea', 'Recurrent infections', 'Opacification of the corneal stroma']"
+602849,Muenke syndrome,"['0001263', '0001363']","['Global developmental delay', 'Craniosynostosis']"
+158320,Muir–Torre syndrome,"['0002664', '0009720', '0030731']","['Neoplasm', 'Adenoma sebaceum', 'Carcinoma']"
+253250,Mulibrey nanism,[],[]
+272200,Multiple sulfatase deficiency,"['0000365', '0007431', '0008064', '0002240', '0001433']","['Hearing impairment', 'Congenital ichthyosiform erythroderma', 'Ichthyosis', 'Hepatomegaly', 'Hepatosplenomegaly']"
+254450,"Myelofibrosis, idiopathic","['0011974', '0012378', '0001744', '0002653', '0004326', '0011889', '0001824', '0002719', '0000980', '0002090', '0001903', '0002098', '0001482']","['Myelofibrosis', 'Fatigue', 'Splenomegaly', 'Bone pain', 'Cachexia', 'Bleeding with minor or no trauma', 'Weight loss', 'Recurrent infections', 'Pallor', 'Pneumonia', 'Anemia', 'Respiratory distress', 'Subcutaneous nodule']"
+254600,Myeloperoxidase deficiency,[],[]
+160900,Myotonic dystrophy,"['0000518', '0000519', '0100786', '0002486', '0100019', '0000523', '0007787']","['Cataract', 'Developmental cataract', 'Hypersomnia', 'Myotonia', 'Cortical cataract', 'Subcapsular cataract', 'Posterior subcapsular cataract']"
+613488,Myxoid liposarcoma,[],[]
+237310,N-Acetylglutamate synthase deficiency,[],[]
+161000,Naegeli–Franceschetti–Jadassohn syndrome,[],[]
+161200,Nail–patella syndrome,"['0000093', '0006443', '0003048', '0009780', '0100777', '0002650', '0000882', '0000891', '0003110', '0000123']","['Proteinuria', 'Patellar aplasia', 'Radial head subluxation', 'Iliac horns', 'Exostoses', 'Scoliosis', 'Hypoplastic scapulae', 'Cervical ribs', 'Abnormality of urine homeostasis', 'Nephritis']"
+302350,Nance–Horan syndrome,[],[]
+607107,Nasopharyngeal carcinoma,"['0002664', '0000365', '0002315', '0000622', '0000651', '0040263', '0000211', '0000388', '0011469', '0003470', '0006824', '0001742', '0002653', '0001367', '0003040']","['Neoplasm', 'Hearing impairment', 'Headache', 'Blurred vision', 'Diplopia', 'Jaw ankylosis', 'Trismus', 'Otitis media', 'Nasal regurgitation', 'Paralysis', 'Cranial nerve paralysis', 'Nasal obstruction', 'Bone pain', 'Abnormal joint morphology', 'Arthropathy']"
+601214,Naxos disease,[],[]
+609285,Nemaline myopathy,"['0002795', '0002167', '0002650', '0003198', '0003750', '0012378', '0001627']","['Functional respiratory abnormality', 'Neurological speech impairment', 'Scoliosis', 'Myopathy', 'Increased muscle fatiguability', 'Fatigue', 'Abnormal heart morphology']"
+605355,"Nemaline myopathy, Amish type","['0002795', '0002167', '0002650', '0003198', '0003750', '0012378', '0001627']","['Functional respiratory abnormality', 'Neurological speech impairment', 'Scoliosis', 'Myopathy', 'Increased muscle fatiguability', 'Fatigue', 'Abnormal heart morphology']"
+256500,Netherton syndrome,"['0011123', '0000989', '0001944', '0002721', '0007431', '0008064', '0032169']","['Inflammatory abnormality of the skin', 'Pruritus', 'Dehydration', 'Immunodeficiency', 'Congenital ichthyosiform erythroderma', 'Ichthyosis', 'Severe infection']"
+182940,Neural tube defect,[],[]
+256700,Neuroblastoma,"['0003006', '0006742', '0002664', '0012378', '0001945', '0002829']","['Neuroblastoma', 'Congenital neuroblastoma', 'Neoplasm', 'Fatigue', 'Fever', 'Arthralgia']"
+234200,Neurodegeneration with brain iron accumulation 1,[],[]
+162200,Neurofibromatosis type 1,"['0009737', '0000716', '0000739', '0001067', '0002664']","['Lisch nodules', 'Depressivity', 'Anxiety', 'Neurofibromas', 'Neoplasm']"
+101000,Neurofibromatosis type 2,[],[]
+601321,Neurofibromatosis-Noonan syndrome,[],[]
+608203,Neutrophil immunodeficiency syndrome,[],[]
+601451,Nevo syndrome,['0001548'],['Overgrowth']
+251260,Nijmegen breakage syndrome,[],[]
+605820,Nonaka myopathy,"['0002355', '0009046', '0003805', '0002511', '0011034', '0100256']","['Difficulty walking', 'Difficulty running', 'Rimmed vacuoles', 'Alzheimer disease', 'Amyloidosis', 'Senile plaques']"
+310600,Norrie disease,[],[]
+245900,Norum disease,"['0000505', '0002621', '0002240', '0001744', '0007957', '0001878', '0001903', '0004804', '0000478', '0002716']","['Visual impairment', 'Atherosclerosis', 'Hepatomegaly', 'Splenomegaly', 'Corneal opacity', 'Hemolytic anemia', 'Anemia', 'Congenital hemolytic anemia', 'Abnormality of the eye', 'Lymphadenopathy']"
+304150,Occipital horn syndrome,"['0001363', '0100777', '0003083', '0003272']","['Craniosynostosis', 'Exostoses', 'Dislocated radial head', 'Abnormality of the hip bone']"
+612109,Oculoauricular syndrome,[],[]
+164200,Oculodentodigital dysplasia,"['0000670', '0000691', '0006297', '0000460', '0001159', '0001089', '0000501', '0002213', '0000365', '0000405', '0008591', '0001251', '0001258', '0010550']","['Carious teeth', 'Microdontia', 'Hypoplasia of dental enamel', 'Narrow nose', 'Syndactyly', 'Iris atrophy', 'Glaucoma', 'Fine hair', 'Hearing impairment', 'Conductive hearing impairment', 'Congenital conductive hearing impairment', 'Ataxia', 'Spastic paraplegia', 'Paraplegia']"
+164300,Oculopharyngeal muscular dystrophy,"['0003560', '0003741', '0002090']","['Muscular dystrophy', 'Congenital muscular dystrophy', 'Pneumonia']"
+300855,Ogden syndrome,"['0001649', '0001263', '0001510', '0008897', '0011218', '0000520', '0000494', '0001090', '0200006', '0030820', '0000400', '0000430', '0002000', '0010803', '0000308', '0001837', '0010055', '0000973', '0003717', '0025104', '0002213', '0001627', '0001664', '0004755', '0004756', '0000023', '0100790', '0000028', '0012741', '0001276', '0001290', '0001319', '0002059']","['Tachycardia', 'Global developmental delay', 'Growth delay', 'Postnatal growth retardation', 'Abnormal shape of the frontal region', 'Proptosis', 'Downslanted palpebral fissures', 'Abnormally large globe', 'Slanting of the palpebral fissure', 'Hooded eyelid', 'Macrotia', 'Underdeveloped nasal alae', 'Short columella', 'Everted upper lip vermilion', 'Microretrognathia', 'Broad toe', 'Broad hallux', 'Cutis laxa', 'Minimal subcutaneous fat', 'Capillary malformation', 'Fine hair', 'Abnormal heart morphology', 'Torsade de pointes', 'Supraventricular tachycardia', 'Ventricular tachycardia', 'Inguinal hernia', 'Hernia', 'Cryptorchidism', 'Unilateral cryptorchidism', 'Hypertonia', 'Generalized hypotonia', 'Neonatal hypotonia', 'Cerebral atrophy']"
+603554,Omenn syndrome,"['0002843', '0011123', '0001019']","['Abnormal T cell morphology', 'Inflammatory abnormality of the skin', 'Erythroderma']"
+305450,Opitz–Kaveggia syndrome,[],[]
+165500,Optic atrophy 1,[],[]
+165550,Optic nerve hypoplasia,"['0000707', '0002011']","['Abnormality of the nervous system', 'Morphological abnormality of the central nervous system']"
+311250,Ornithine transcarbamylase deficiency,"['0001250', '0000737', '0001254', '0002315', '0002018', '0002013', '0031258', '0001987']","['Seizures', 'Irritability', 'Lethargy', 'Headache', 'Nausea', 'Vomiting', 'Delirium', 'Hyperammonemia']"
+604715,Orthostatic intolerance,[],[]
+259500,Osteosarcoma,['0002664'],['Neoplasm']
+144750,Osteosclerosis,[],[]
+215150,Otospondylomegaepiphyseal dysplasia,[],[]
+167000,Ovarian cancer,[],[]
+608115,Ovarian hyperstimulation syndrome,"['0003270', '0002014', '0004324', '0011458', '0002018', '0002013', '0011037', '0000958', '0011359', '0002098', '0002202', '0100749', '0002027']","['Abdominal distention', 'Diarrhea', 'Increased body weight', 'Abdominal symptom', 'Nausea', 'Vomiting', 'Decreased urine output', 'Dry skin', 'Dry hair', 'Respiratory distress', 'Pleural effusion', 'Chest pain', 'Abdominal pain']"
+167210,Pachyonychia congenita Jackson Lawler type,"['0002745', '0000695', '0000962', '0000975', '0007502', '0008066', '0012035', '0200037', '0001609', '0030766']","['Oral leukoplakia', 'Natal tooth', 'Hyperkeratosis', 'Hyperhidrosis', 'Follicular hyperkeratosis', 'Abnormal blistering of the skin', 'Steatocystoma multiplex', 'Skin vesicle', 'Hoarse voice', 'Ear pain']"
+602080,Paget disease of bone,"['0002653', '0001369', '0000365', '0000572']","['Bone pain', 'Arthritis', 'Hearing impairment', 'Visual loss']"
+146510,Pallister–Hall syndrome,[],[]
+260350,Pancreatic cancer,"['0006725', '0002664', '0002894', '0003418', '0000952', '0030153', '0001824', '0002019']","['Pancreatic adenocarcinoma', 'Neoplasm', 'Neoplasm of the pancreas', 'Back pain', 'Jaundice', 'Cholangiocarcinoma', 'Weight loss', 'Constipation']"
+613347,Pancreatic cancer,"['0006725', '0002664', '0002894', '0003418', '0000952', '0030153', '0001824', '0002019']","['Pancreatic adenocarcinoma', 'Neoplasm', 'Neoplasm of the pancreas', 'Back pain', 'Jaundice', 'Cholangiocarcinoma', 'Weight loss', 'Constipation']"
+167800,"Pancreatitis, hereditary",[],[]
+245000,Papillon–Lefèvre syndrome,[],[]
+168300,Paramyotonia congenita,"['0003552', '0002486', '0001324']","['Muscle stiffness', 'Myotonia', 'Muscle weakness']"
+608266,Parathyroid carcinoma,['0003072'],['Hypercalcemia']
+608355,Parkes Weber syndrome,"['0001009', '0025104', '0001052', '0004947', '0001892', '0001635', '0003764', '0100784', '0100585', '0002619', '0000957', '0011276', '0100774', '0000118', '0010496', '0010484', '0000501', '0002315', '0002624']","['Telangiectasia', 'Capillary malformation', 'Nevus flammeus', 'Arteriovenous fistula', 'Abnormal bleeding', 'Congestive heart failure', 'Nevus', 'Peripheral arteriovenous fistula', 'Telangiectasia of the skin', 'Varicose veins', 'Cafe-au-lait spot', 'Vascular skin abnormality', 'Hyperostosis', 'Phenotypic abnormality', 'Hypertrophy of the lower limb', 'Hypertrophy of the upper limb', 'Glaucoma', 'Headache', 'Abnormal venous morphology']"
+167400,Paroxysmal extreme pain disorder,"['0032148', '0031284', '0003781', '0007340', '0001250', '0002104', '0000980', '0002019']","['Episodic pain', 'Flushing', 'Excessive salivation', 'Lower limb muscle weakness', 'Seizures', 'Apnea', 'Pallor', 'Constipation']"
+118800,Paroxysmal nonkinesigenic dyskinesia,"['0001332', '0002072', '0002305', '0100248']","['Dystonia', 'Chorea', 'Athetosis', 'Hemiballismus']"
+169400,Pelger–Huët anomaly,[],[]
+312080,Pelizaeus–Merzbacher disease,"['0000639', '0006934', '0001290', '0001337', '0002311', '0004305', '0002317', '0001257', '0001371', '0002803', '0002650', '0003011']","['Nystagmus', 'Congenital nystagmus', 'Generalized hypotonia', 'Tremor', 'Incoordination', 'Involuntary movements', 'Unsteady gait', 'Spasticity', 'Flexion contracture', 'Congenital contracture', 'Scoliosis', 'Abnormality of the musculature']"
+274600,Pendred syndrome,"['0000365', '0011387', '0002321', '0000853']","['Hearing impairment', 'Enlarged vestibular aqueduct', 'Vertigo', 'Goiter']"
+260800,Pentosuria,[],[]
+604229,Peters anomaly,[],[]
+261540,Peters-plus syndrome,"['0000659', '0007957', '0000594', '0007833', '0011483', '0000316', '0000481', '0000347', '0000311', '0000475', '0410030', '0001511', '0001518', '0001510']","['Peters anomaly', 'Corneal opacity', 'Shallow anterior chamber', 'Anterior chamber synechiae', 'Anterior synechiae of the anterior chamber', 'Hypertelorism', 'Abnormal cornea morphology', 'Micrognathia', 'Round face', 'Broad neck', 'Cleft lip', 'Intrauterine growth retardation', 'Small for gestational age', 'Growth delay']"
+175200,Peutz–Jeghers syndrome,"['0004390', '0030731', '0002576']","['Hamartomatous polyposis', 'Carcinoma', 'Intussusception']"
+101600,Pfeiffer syndrome,"['0001363', '0000327', '0000365', '0000164', '0001837', '0010055', '0008080', '0009381', '0001156', '0001159']","['Craniosynostosis', 'Hypoplasia of the maxilla', 'Hearing impairment', 'Abnormality of the dentition', 'Broad toe', 'Broad hallux', 'Hallux varus', 'Short finger', 'Brachydactyly', 'Syndactyly']"
+261600,Phenylketonuria,"['0001250', '0001249', '0410021', '0000708', '0001010', '0002286', '0005599', '0000252', '0011451', '0000752', '0002353', '0000964']","['Seizures', 'Intellectual disability', 'Musty odor', 'Behavioral abnormality', 'Hypopigmentation of the skin', 'Fair hair', 'Hypopigmentation of hair', 'Microcephaly', 'Congenital microcephaly', 'Hyperactivity', 'EEG abnormality', 'Eczema']"
+171300,Pheochromocytoma,"['0002666', '0000822', '0002664', '0000752', '0000975', '0002315', '0001649', '0030157', '0000739', '0000980', '0001278', '0001824', '0002615', '0003074', '0004421', '0005117', '0025269']","['Pheochromocytoma', 'Hypertension', 'Neoplasm', 'Hyperactivity', 'Hyperhidrosis', 'Headache', 'Tachycardia', 'Flank pain', 'Anxiety', 'Pallor', 'Orthostatic hypotension', 'Weight loss', 'Hypotension', 'Hyperglycemia', 'Elevated systolic blood pressure', 'Elevated diastolic blood pressure', 'Panic attack']"
+172700,Pick disease,"['0000751', '0002511']","['Personality changes', 'Alzheimer disease']"
+172800,Piebaldism,[],[]
+132600,Pilomatricoma,[],[]
+610954,Pitt–Hopkins syndrome,"['0002883', '0001250', '0000154', '0000179', '0000215', '0000232', '0000316', '0000426', '0000431', '0000486', '0000490', '0000520', '0000545', '0000687', '0001090', '0001572', '0002263', '0010803', '0010804', '0000396', '0000750', '0001344', '0002167', '0001263', '0004879', '0000733', '0001290', '0001319', '0002317', '0000954', '0001238', '0001763', '0000028', '0002104', '0000961', '0002019', '0000252', '0011451', '0001010', '0012733']","['Hyperventilation', 'Seizures', 'Wide mouth', 'Thick lower lip vermilion', 'Thick upper lip vermilion', 'Everted lower lip vermilion', 'Hypertelorism', 'Prominent nasal bridge', 'Wide nasal bridge', 'Strabismus', 'Deeply set eye', 'Proptosis', 'Myopia', 'Widely spaced teeth', 'Abnormally large globe', 'Macrodontia', ""Exaggerated cupid's bow"", 'Everted upper lip vermilion', 'Tented upper lip vermilion', 'Overfolded helix', 'Delayed speech and language development', 'Absent speech', 'Neurological speech impairment', 'Global developmental delay', 'Intermittent hyperventilation', 'Stereotypy', 'Generalized hypotonia', 'Neonatal hypotonia', 'Unsteady gait', 'Single transverse palmar crease', 'Slender finger', 'Pes planus', 'Cryptorchidism', 'Apnea', 'Cyanosis', 'Constipation', 'Microcephaly', 'Congenital microcephaly', 'Hypopigmentation of the skin', 'Macule']"
+601200,Pleuropulmonary blastoma,"['0012735', '0011947', '0002098', '0100749', '0002664', '0002107']","['Cough', 'Respiratory tract infection', 'Respiratory distress', 'Chest pain', 'Neoplasm', 'Pneumothorax']"
+613095,Polycystic kidney disease 2,[],[]
+174050,Polycystic liver disease,[],[]
+184700,Polycystic ovary syndrome,"['0000855', '0000789', '0001007', '0000132', '0001596', '0001513', '0012743', '0000822']","['Insulin resistance', 'Infertility', 'Hirsutism', 'Menorrhagia', 'Alopecia', 'Obesity', 'Abdominal obesity', 'Hypertension']"
+263300,Polycythemia vera,"['0001901', '0000989', '0004398', '0001894', '0032147', '0001369', '0001997', '0002719', '0025238', '0001907', '0001658', '0001297', '0002625', '0004936', '0002315', '0002639', '0031987', '0012378']","['Polycythemia', 'Pruritus', 'Peptic ulcer', 'Thrombocytosis', 'Erythromelalgia', 'Arthritis', 'Gout', 'Recurrent infections', 'Foot pain', 'Thromboembolism', 'Myocardial infarction', 'Stroke', 'Deep venous thrombosis', 'Venous thrombosis', 'Headache', 'Budd-Chiari syndrome', 'Diminished ability to concentrate', 'Fatigue']"
+606854,"Polymicrogyria, bilateral frontoparietal",[],[]
+119500,Popliteal pterygium syndrome,"['0001770', '0000059', '0000028']","['Toe syndactyly', 'Hypoplastic labia majora', 'Cryptorchidism']"
+201750,POR deficiency,[],[]
+175780,Porencephaly,[],[]
+176100,Porphyria cutanea tarda,"['0100699', '0001806', '0008066', '0200037', '0000953', '0000998', '0001395', '0002612', '0001394', '0001392', '0031987', '0040318']","['Scarring', 'Onycholysis', 'Abnormal blistering of the skin', 'Skin vesicle', 'Hyperpigmentation of the skin', 'Hypertrichosis', 'Hepatic fibrosis', 'Congenital hepatic fibrosis', 'Cirrhosis', 'Abnormality of the liver', 'Diminished ability to concentrate', 'Red urine']"
+176200,Porphyria variegata,[],[]
+176000,"Porphyria, acute intermittent",[],[]
+263700,"Porphyria, congenital erythropoietic","['0030756', '0002027', '0002013', '0002019']","['Erythrodontia', 'Abdominal pain', 'Vomiting', 'Constipation']"
+176270,Prader–Willi syndrome,"['0000708', '0001612', '0000219', '0001290', '0001319', '0000135', '0001263', '0002591', '0001513', '0004322']","['Behavioral abnormality', 'Weak cry', 'Thin upper lip vermilion', 'Generalized hypotonia', 'Neonatal hypotonia', 'Hypogonadism', 'Global developmental delay', 'Polyphagia', 'Obesity', 'Short stature']"
+300511,Premature ovarian failure,"['0000789', '0000939', '0000821', '0000851', '0000872', '0100646', '0008207', '0002960', '0008209']","['Infertility', 'Osteoporosis', 'Hypothyroidism', 'Congenital hypothyroidism', 'Hashimoto thyroiditis', 'Thyroiditis', 'Primary adrenal insufficiency', 'Autoimmunity', 'Premature ovarian insufficiency']"
+170100,Prolidase deficiency,"['0000347', '0002088', '0001744', '0001433', '0002240', '0000271', '0000316', '0000348', '0011120', '0001249']","['Micrognathia', 'Abnormal lung morphology', 'Splenomegaly', 'Hepatosplenomegaly', 'Hepatomegaly', 'Abnormality of the face', 'Hypertelorism', 'High forehead', 'Concave nasal ridge', 'Intellectual disability']"
+176807,Prostate cancer,"['0002664', '0100515', '0000017', '0000790', '0100518', '0002653', '0012125', '0003401', '0007340', '0002607']","['Neoplasm', 'Pollakisuria', 'Nocturia', 'Hematuria', 'Dysuria', 'Bone pain', 'Prostate cancer', 'Paresthesia', 'Lower limb muscle weakness', 'Bowel incontinence']"
+177170,Pseudoachondroplasia,"['0003498', '0004322', '0009381', '0001388', '0001288', '0001510', '0005792', '0008873', '0009826', '0008905', '0002857', '0002970', '0001156', '0002938', '0003307', '0001838']","['Disproportionate short stature', 'Short stature', 'Short finger', 'Joint laxity', 'Gait disturbance', 'Growth delay', 'Short humerus', 'Disproportionate short-limb short stature', 'Limb undergrowth', 'Rhizomelia', 'Genu valgum', 'Genu varum', 'Brachydactyly', 'Lumbar hyperlordosis', 'Hyperlordosis', 'Rocker bottom foot']"
+264600,Pseudovaginal perineoscrotal hypospadias,"['0000054', '0000060']","['Micropenis', 'Clitoral hypoplasia']"
+264800,Pseudoxanthoma elasticum,"['0000973', '0000572', '0025533', '0001102', '0000573', '0000504', '0002239', '0004417', '0012514', '0001677', '0001658', '0002637', '0002617', '0004944', '0001342']","['Cutis laxa', 'Visual loss', ""Peau d'orange"", 'Angioid streaks of the fundus', 'Retinal hemorrhage', 'Abnormality of vision', 'Gastrointestinal hemorrhage', 'Intermittent claudication', 'Lower limb pain', 'Coronary artery atherosclerosis', 'Myocardial infarction', 'Cerebral ischemia', 'Dilatation', 'Dilatation of the cerebral artery', 'Cerebral hemorrhage']"
+265100,Pulmonary alveolar microlithiasis,"['0002094', '0002105', '0012735', '0025406', '0031246', '0100749']","['Dyspnea', 'Hemoptysis', 'Cough', 'Asthenia', 'Nonproductive cough', 'Chest pain']"
+300770,Pulmonary alveolar proteinosis,"['0002098', '0012735', '0001945', '0011134', '0001824']","['Respiratory distress', 'Cough', 'Fever', 'Low-grade fever', 'Weight loss']"
+265450,Pulmonary veno occlusive disease,[],[]
+265800,Pycnodysostosis,"['0000448', '0009381', '0009803', '0009882', '0005855', '0000234', '0000269', '0000270', '0002645', '0000347', '0000189', '0040079', '0000668', '0006349', '0100678', '0000256', '0004488', '0002650', '0000164']","['Prominent nose', 'Short finger', 'Short phalanx of finger', 'Short distal phalanx of finger', 'Multiple prenatal fractures', 'Abnormality of the head', 'Prominent occiput', 'Delayed cranial suture closure', 'Wormian bones', 'Micrognathia', 'Narrow palate', 'Irregular dentition', 'Hypodontia', 'Agenesis of permanent teeth', 'Premature skin wrinkling', 'Macrocephaly', 'Macrocephaly at birth', 'Scoliosis', 'Abnormality of the dentition']"
+266140,Pyropoikilocytosis,[],[]
+266150,Pyruvate carboxylase deficiency,[],[]
+312170,Pyruvate dehydrogenase deficiency,"['0001941', '0001942', '0003128', '0004902', '0011968', '0001254', '0001290', '0001319', '0012443', '0001250', '0000238', '0004900']","['Acidosis', 'Metabolic acidosis', 'Lactic acidosis', 'Congenital lactic acidosis', 'Feeding difficulties', 'Lethargy', 'Generalized hypotonia', 'Neonatal hypotonia', 'Abnormality of brain morphology', 'Seizures', 'Hydrocephalus', 'Severe lactic acidosis']"
+266200,Pyruvate kinase deficiency,"['0001903', '0000952', '0001649', '0001744', '0001878', '0004804', '0012378']","['Anemia', 'Jaundice', 'Tachycardia', 'Splenomegaly', 'Hemolytic anemia', 'Congenital hemolytic anemia', 'Fatigue']"
+262190,Rabson–Mendenhall syndrome,"['0000164', '0000280', '0000303', '0005328', '0007495', '0000951', '0000956', '0025092', '0000962', '0000977', '0000826', '0040063']","['Abnormality of the dentition', 'Coarse facial features', 'Mandibular prognathia', 'Progeroid facial appearance', 'Prematurely aged appearance', 'Abnormality of the skin', 'Acanthosis nigricans', 'Epidermal acanthosis', 'Hyperkeratosis', 'Soft skin', 'Precocious puberty', 'Decreased adipose tissue']"
+259775,Raine syndrome,[],[]
+266280,RAPADILINO syndrome,[],[]
+129400,Rapp–Hodgkin syndrome,[],[]
+266500,Refsum disease,[],[]
+266510,"Refsum disease, infantile form",[],[]
+191830,Renal agenesis,[],[]
+144700,Renal cell carcinoma,"['0031500', '0012378', '0003072', '0000790', '0030157', '0030838', '0003270', '0005584', '0030731', '0001824', '0000716', '0001903', '0001901', '0012871', '0000822', '0002664', '0002360', '0030166', '0001945', '0012432']","['Abdominal mass', 'Fatigue', 'Hypercalcemia', 'Hematuria', 'Flank pain', 'Hip pain', 'Abdominal distention', 'Renal cell carcinoma', 'Carcinoma', 'Weight loss', 'Depressivity', 'Anemia', 'Polycythemia', 'Varicocele', 'Hypertension', 'Neoplasm', 'Sleep disturbance', 'Night sweats', 'Fever', 'Chronic fatigue']"
+137920,Renal cysts and diabetes syndrome,[],[]
+233100,Renal glucosuria,[],[]
+208540,Renal-hepatic-pancreatic dysplasia,[],[]
+309500,Renpenning syndrome,[],[]
+267500,Reticular dysgenesis,[],[]
+312750,Rett syndrome,[],[]
+268130,Revesz syndrome,[],[]
+613471,Reynolds syndrome,[],[]
+268210,Rhabdomyosarcoma,"['0002664', '0000790', '0030430', '0000246', '0002315', '0000520']","['Neoplasm', 'Hematuria', 'Neuroma', 'Sinusitis', 'Headache', 'Proptosis']"
+268220,"Rhabdomyosarcoma, alveolar",[],[]
+215100,Rhizomelic chondrodysplasia punctata type 1,"['0008905', '0000518', '0000519', '0001249', '0001250', '0001510', '0002093', '0002098', '0002795', '0011947', '0100543']","['Rhizomelia', 'Cataract', 'Developmental cataract', 'Intellectual disability', 'Seizures', 'Growth delay', 'Respiratory insufficiency', 'Respiratory distress', 'Functional respiratory abnormality', 'Respiratory tract infection', 'Cognitive impairment']"
+600121,Rhizomelic chondrodysplasia punctata type 3,"['0008905', '0000518', '0000519', '0001249', '0001250', '0001510', '0002093', '0002098', '0002795', '0011947', '0100543']","['Rhizomelia', 'Cataract', 'Developmental cataract', 'Intellectual disability', 'Seizures', 'Growth delay', 'Respiratory insufficiency', 'Respiratory distress', 'Functional respiratory abnormality', 'Respiratory tract infection', 'Cognitive impairment']"
+608611,Ribose-5-phosphate isomerase deficiency,[],[]
+611943,RIDDLE syndrome,[],[]
+268300,Roberts syndrome,"['0000204', '0001371', '0002803', '0002987', '0004209', '0005879', '0006380', '0012785', '0030084', '0031057', '0031250', '0040019', '0410030']","['Cleft upper lip', 'Flexion contracture', 'Congenital contracture', 'Elbow flexion contracture', 'Clinodactyly of the 5th finger', 'Congenital finger flexion contractures', 'Knee flexion contracture', 'Flexion contracture of finger', 'Clinodactyly', 'Skin fissure', 'Lip fissure', 'Finger clinodactyly', 'Cleft lip']"
+268400,Rothmund–Thomson syndrome,['0001029'],['Poikiloderma']
+180800,Roussy–Lévy syndrome,"['0003202', '0001337', '0001760', '0001284', '0002936', '0001324', '0002460', '0003323', '0003690', '0003693', '0009063', '0001251', '0002066', '0001761', '0002174', '0200085', '0002751', '0008453', '0031936', '0009027']","['Skeletal muscle atrophy', 'Tremor', 'Abnormality of the foot', 'Areflexia', 'Distal sensory impairment', 'Muscle weakness', 'Distal muscle weakness', 'Progressive muscle weakness', 'Limb muscle weakness', 'Distal amyotrophy', 'Progressive distal muscle weakness', 'Ataxia', 'Gait ataxia', 'Pes cavus', 'Postural tremor', 'Limb tremor', 'Kyphoscoliosis', 'Congenital kyphoscoliosis', 'Delayed ability to walk', 'Foot dorsiflexor weakness']"
+180849,Rubenstein-Taybi syndrome,[],[]
+268700,Saccharopinuria,[],[]
+101400,Saethre–Chotzen syndrome,"['0001510', '0003502', '0004322']","['Growth delay', 'Mild short stature', 'Short stature']"
+604369,Salla disease,[],[]
+269000,SC phocomelia syndrome,"['0000204', '0001371', '0002803', '0002987', '0004209', '0005879', '0006380', '0012785', '0030084', '0031057', '0031250', '0040019', '0410030']","['Cleft upper lip', 'Flexion contracture', 'Congenital contracture', 'Elbow flexion contracture', 'Clinodactyly of the 5th finger', 'Congenital finger flexion contractures', 'Knee flexion contracture', 'Flexion contracture of finger', 'Clinodactyly', 'Skin fissure', 'Lip fissure', 'Finger clinodactyly', 'Cleft lip']"
+269160,Schizencephaly,[],[]
+181500,Schizophrenia,"['0100753', '0000709']","['Schizophrenia', 'Psychosis']"
+224750,Schöpf–Schulz–Passarge syndrome,[],[]
+162091,Schwannomatosis,[],[]
+269500,Sclerosteosis,[],[]
+183900,SED congenita,[],[]
+607459,"Sensory ataxic neuropathy, dysarthria, and ophthalmoparesis",[],[]
+182230,Septo-optic dysplasia,['0012443'],['Abnormality of brain morphology']
+400042,Sertoli cell-only syndrome,[],[]
+604271,Short stature,[],[]
+182212,Shprintzen–Goldberg syndrome,[],[]
+260400,Shwachman–Bodian–Diamond syndrome,"['0001875', '0000924', '0001510', '0002719', '0032169', '0001876', '0001903', '0020060', '0001873', '0001905', '0001909', '0002488', '0004808', '0001738', '0004322', '0005899', '0000772', '0001547', '0000920']","['Neutropenia', 'Abnormality of the skeletal system', 'Growth delay', 'Recurrent infections', 'Severe infection', 'Pancytopenia', 'Anemia', 'Decreased red blood cell count', 'Thrombocytopenia', 'Congenital thrombocytopenia', 'Leukemia', 'Acute leukemia', 'Acute myeloid leukemia', 'Exocrine pancreatic insufficiency', 'Short stature', 'Metaphyseal dysostosis', 'Abnormality of the ribs', 'Abnormality of the rib cage', 'Enlargement of the costochondral junction']"
+269921,Sialuria,[],[]
+603903,Sickle cell anemia,[],[]
+180860,Silver–Russell syndrome,"['0001511', '0011968', '0001943', '0001518', '0000966', '0000970', '0000975', '0000980', '0000274', '0000325', '0000347', '0000307']","['Intrauterine growth retardation', 'Feeding difficulties', 'Hypoglycemia', 'Small for gestational age', 'Hypohidrosis', 'Anhidrosis', 'Hyperhidrosis', 'Pallor', 'Small face', 'Triangular face', 'Micrognathia', 'Pointed chin']"
+210250,Sitosterolemia,"['0001114', '0003124', '0010874', '0002621', '0004416', '0001084', '0001369', '0001744', '0001410', '0001394']","['Xanthelasma', 'Hypercholesterolemia', 'Tendon xanthomatosis', 'Atherosclerosis', 'Precocious atherosclerosis', 'Corneal arcus', 'Arthritis', 'Splenomegaly', 'Decreased liver function', 'Cirrhosis']"
+270200,Sjögren–Larsson syndrome,"['0007431', '0008064', '0040189']","['Congenital ichthyosiform erythroderma', 'Ichthyosis', 'Scaling skin']"
+184250,"SMED, Strudwick type",[],[]
+270400,Smith–Lemli–Opitz syndrome,['0000078'],['Abnormality of the genital system']
+182290,Smith–Magenis syndrome,"['0000490', '0000708', '0000321', '0000293', '0000303', '0000457', '0005280', '0000574', '0000179', '0012471', '0000154', '0000248', '0002329', '0025161', '0000718', '0000739', '0007018', '0100716', '0012168', '0012166', '0004322', '0000925', '0002650', '0001609', '0000364', '0000365', '0000598']","['Deeply set eye', 'Behavioral abnormality', 'Square face', 'Full cheeks', 'Mandibular prognathia', 'Depressed nasal ridge', 'Depressed nasal bridge', 'Thick eyebrow', 'Thick lower lip vermilion', 'Thick vermilion border', 'Wide mouth', 'Brachycephaly', 'Drowsiness', 'Frequent temper tantrums', 'Aggressive behavior', 'Anxiety', 'Attention deficit hyperactivity disorder', 'Self-injurious behavior', 'Head-banging', 'Skin-picking', 'Short stature', 'Abnormality of the vertebral column', 'Scoliosis', 'Hoarse voice', 'Hearing abnormality', 'Hearing impairment', 'Abnormality of the ear']"
+117550,Sotos syndrome,"['0002664', '0001548', '0005616', '0000752', '0007018', '0000722', '0100710', '0001252', '0001290', '0001319', '0008947', '0002650', '0001250', '0001627', '0030680', '0000365', '0000952', '0011968']","['Neoplasm', 'Overgrowth', 'Accelerated skeletal maturation', 'Hyperactivity', 'Attention deficit hyperactivity disorder', 'Obsessive-compulsive behavior', 'Impulsivity', 'Muscular hypotonia', 'Generalized hypotonia', 'Neonatal hypotonia', 'Infantile muscular hypotonia', 'Scoliosis', 'Seizures', 'Abnormal heart morphology', 'Abnormality of cardiovascular system morphology', 'Hearing impairment', 'Jaundice', 'Feeding difficulties']"
+270700,Spastic paraplegia 15,"['0001257', '0009830', '0002061', '0001251', '0001249', '0001288', '0006903', '0003202', '0007431', '0008064', '0001250', '0001138', '0000726', '0000365', '0002062', '0002191', '0002493', '0001348', '0003487', '0001324', '0002355', '0002495', '0003401', '0002172', '0002064', '0001276', '0002415']","['Spasticity', 'Peripheral neuropathy', 'Lower limb spasticity', 'Ataxia', 'Intellectual disability', 'Gait disturbance', 'Congenital peripheral neuropathy', 'Skeletal muscle atrophy', 'Congenital ichthyosiform erythroderma', 'Ichthyosis', 'Seizures', 'Optic neuropathy', 'Dementia', 'Hearing impairment', 'Morphological abnormality of the pyramidal tract', 'Progressive spasticity', 'Upper motor neuron dysfunction', 'Brisk reflexes', 'Babinski sign', 'Muscle weakness', 'Difficulty walking', 'Impaired vibratory sensation', 'Paresthesia', 'Postural instability', 'Spastic gait', 'Hypertonia', 'Leukodystrophy']"
+245480,Specific granule deficiency,"['0032101', '0031292', '0002090', '0002088', '0006528', '0100806', '0000265', '0000388', '0002716', '0001879', '0011447']","['Unusual infection', 'Cutaneous abscess', 'Pneumonia', 'Abnormal lung morphology', 'Chronic lung disease', 'Sepsis', 'Mastoiditis', 'Otitis media', 'Lymphadenopathy', 'Abnormal eosinophil morphology', 'Hyposegmentation of neutrophil nuclei']"
+608728,Spondyloepimetaphyseal dysplasia,[],[]
+271700,Spondyloperipheral dysplasia,[],[]
+300707,STAR syndrome,[],[]
+184500,Steatocystoma multiplex,[],[]
+184900,Stiff skin syndrome,[],[]
+137215,Stomach cancer,"['0002664', '0410281', '0002027', '0002015', '0002592']","['Neoplasm', 'Dyspepsia', 'Abdominal pain', 'Dysphagia', 'Gastric ulcer']"
+271980,Succinic semialdehyde dehydrogenase deficiency,"['0001250', '0001263', '0001251', '0001265', '0000657', '0002186', '0001290', '0001319', '0001249', '0001254', '0002093', '0002098', '0001943', '0000486', '0000639', '0006934', '0032118', '0000543', '0000980', '0002133', '0000750', '0001270', '0002194', '0010862', '0000708', '0000252', '0000256', '0000496', '0000709', '0001266', '0001347', '0002353', '0003198', '0004488', '0011451']","['Seizures', 'Global developmental delay', 'Ataxia', 'Hyporeflexia', 'Oculomotor apraxia', 'Apraxia', 'Generalized hypotonia', 'Neonatal hypotonia', 'Intellectual disability', 'Lethargy', 'Respiratory insufficiency', 'Respiratory distress', 'Hypoglycemia', 'Strabismus', 'Nystagmus', 'Congenital nystagmus', 'Retinitis', 'Optic disc pallor', 'Pallor', 'Status epilepticus', 'Delayed speech and language development', 'Motor delay', 'Delayed gross motor development', 'Delayed fine motor development', 'Behavioral abnormality', 'Microcephaly', 'Macrocephaly', 'Abnormality of eye movement', 'Psychosis', 'Choreoathetosis', 'Hyperreflexia', 'EEG abnormality', 'Myopathy', 'Macrocephaly at birth', 'Congenital microcephaly']"
+245050,Succinyl-CoA:3-oxoacid CoA transferase deficiency,[],[]
+272300,Sulfite oxidase deficiency,[],[]
+601104,"Supranuclear palsy, progressive","['0002527', '0000726', '0025402', '0000751', '0000741', '0000734', '0000739', '0002015', '0200136', '0001371', '0002803', '0000020', '0002019', '0000597', '0025330', '0025331', '0000639', '0006934', '0000619', '0000651', '0000602', '0000623', '0001300', '0001332', '0001491', '0007024', '0002172', '0100543', '0002355', '0002359']","['Falls', 'Dementia', 'Square-wave jerks', 'Personality changes', 'Apathy', 'Disinhibition', 'Anxiety', 'Dysphagia', 'Oral-pharyngeal dysphagia', 'Flexion contracture', 'Congenital contracture', 'Urinary incontinence', 'Constipation', 'Ophthalmoparesis', 'Downgaze palsy', 'Upgaze palsy', 'Nystagmus', 'Congenital nystagmus', 'Impaired convergence', 'Diplopia', 'Ophthalmoplegia', 'Supranuclear ophthalmoplegia', 'Parkinsonism', 'Dystonia', 'Congenital fibrosis of extraocular muscles', 'Pseudobulbar paralysis', 'Postural instability', 'Cognitive impairment', 'Difficulty walking', 'Frequent falls']"
+185500,Supravalvar aortic stenosis,[],[]
+205400,Tangier disease,"['0030812', '0001433', '0002240', '0009830', '0001626']","['Enlarged tonsils', 'Hepatosplenomegaly', 'Hepatomegaly', 'Peripheral neuropathy', 'Abnormality of the cardiovascular system']"
+272800,Tay–Sachs disease,"['0001276', '0003552']","['Hypertonia', 'Muscle stiffness']"
+610441,Testicular microlithiasis,[],[]
+187500,Tetralogy of Fallot,"['0001636', '0001629', '0001694', '0012382', '0030148', '0011968', '0004324', '0001510', '0002094', '0001217', '0100759', '0001901']","['Tetralogy of Fallot', 'Ventricular septal defect', 'Right-to-left shunt', 'Left-to-right shunt', 'Heart murmur', 'Feeding difficulties', 'Increased body weight', 'Growth delay', 'Dyspnea', 'Clubbing', 'Clubbing of fingers', 'Polycythemia']"
+187950,"Thrombocythemia, essential",[],[]
+188030,"Thrombocytopenic purpura, autoimmune","['0011029', '0000979', '0000967', '0000225', '0000132', '0007420', '0003010', '0001342', '0002138', '0002239']","['Internal hemorrhage', 'Purpura', 'Petechiae', 'Gingival bleeding', 'Menorrhagia', 'Spontaneous hematomas', 'Prolonged bleeding time', 'Cerebral hemorrhage', 'Subarachnoid hemorrhage', 'Gastrointestinal hemorrhage']"
+188470,"Thyroid carcinoma, follicular",[],[]
+188570,Thyroid hormone resistance,[],[]
+188550,Thyroid papillary carcinoma,[],[]
+103500,Tietz albinism-deafness syndrome,[],[]
+601005,Timothy syndrome,"['0001159', '0001657', '0011675', '0000717', '0000729', '0000691', '0000670', '0005692', '0005110', '0000271', '0011220']","['Syndactyly', 'Prolonged QT interval', 'Arrhythmia', 'Autism', 'Autistic behavior', 'Microdontia', 'Carious teeth', 'Joint hyperflexibility', 'Atrial fibrillation', 'Abnormality of the face', 'Prominent forehead']"
+137580,Tourette syndrome,[],[]
+107480,Townes–Brocks syndrome,"['0000365', '0000356', '0000400', '0000598', '0008551', '0000407', '0008527', '0000405', '0008591', '0000377', '0000394', '0000384', '0004467', '0002023', '0000143', '0002025', '0000077', '0000089', '0000003', '0000110', '0001627', '0001636', '0001760', '0009778', '0001159', '0001770', '0006101', '0010554', '0005048', '0001845']","['Hearing impairment', 'Abnormality of the outer ear', 'Macrotia', 'Abnormality of the ear', 'Microtia', 'Sensorineural hearing impairment', 'Congenital sensorineural hearing impairment', 'Conductive hearing impairment', 'Congenital conductive hearing impairment', 'Abnormality of the pinna', 'Lop ear', 'Preauricular skin tag', 'Preauricular pit', 'Anal atresia', 'Rectovaginal fistula', 'Anal stenosis', 'Abnormality of the kidney', 'Renal hypoplasia', 'Multicystic kidney dysplasia', 'Renal dysplasia', 'Abnormal heart morphology', 'Tetralogy of Fallot', 'Abnormality of the foot', 'Short thumb', 'Syndactyly', 'Toe syndactyly', 'Finger syndactyly', 'Cutaneous finger syndactyly', 'Synostosis of carpal bones', 'Overlapping toe']"
+606003,Transaldolase deficiency,"['0003256', '0001873', '0001905', '0001433', '0001395', '0002612', '0000369', '0000973']","['Abnormality of the coagulation cascade', 'Thrombocytopenia', 'Congenital thrombocytopenia', 'Hepatosplenomegaly', 'Hepatic fibrosis', 'Congenital hepatic fibrosis', 'Low-set ears', 'Cutis laxa']"
+190320,Trichodentoosseous syndrome,[],[]
+601675,Trichothiodystrophy,[],[]
+613229,Trichotillomania,"['0012167', '0001596', '0001595']","['Hair-pulling', 'Alopecia', 'Abnormality of the hair']"
+609015,Trifunctional protein deficiency,"['0001943', '0002094', '0002098', '0005957', '0000488', '0000580', '0001290', '0001319', '0008947', '0003326', '0006903', '0009830']","['Hypoglycemia', 'Dyspnea', 'Respiratory distress', 'Breathing dysregulation', 'Retinopathy', 'Pigmentary retinopathy', 'Generalized hypotonia', 'Neonatal hypotonia', 'Infantile muscular hypotonia', 'Myalgia', 'Congenital peripheral neuropathy', 'Peripheral neuropathy']"
+190440,Trigonocephaly,[],[]
+602079,Trimethylaminuria,"['0003614', '0410020', '0500001']","['Trimethylaminuria', 'Fish odor', 'Body odor']"
+275900,Troyer syndrome,"['0001257', '0009830', '0002061', '0001251', '0001249', '0001288', '0006903', '0003202', '0007431', '0008064', '0001250', '0001138', '0000726', '0000365', '0002062', '0002191', '0002493', '0001348', '0003487', '0001324', '0002355', '0002495', '0003401', '0002172', '0002064', '0001276', '0002415']","['Spasticity', 'Peripheral neuropathy', 'Lower limb spasticity', 'Ataxia', 'Intellectual disability', 'Gait disturbance', 'Congenital peripheral neuropathy', 'Skeletal muscle atrophy', 'Congenital ichthyosiform erythroderma', 'Ichthyosis', 'Seizures', 'Optic neuropathy', 'Dementia', 'Hearing impairment', 'Morphological abnormality of the pyramidal tract', 'Progressive spasticity', 'Upper motor neuron dysfunction', 'Brisk reflexes', 'Babinski sign', 'Muscle weakness', 'Difficulty walking', 'Impaired vibratory sensation', 'Paresthesia', 'Postural instability', 'Spastic gait', 'Hypertonia', 'Leukodystrophy']"
+277660,Tyrosinemia type II,[],[]
+276710,Tyrosinemia type III,[],[]
+254090,Ullrich congenital muscular dystrophy,[],[]
+181450,Ulnar–mammary syndrome,[],[]
+276880,Urocanase deficiency,"['0012072', '0012237']","['Aciduria', 'Urocanic aciduria']"
+236730,Urofacial syndrome,[],[]
+276904,"Usher syndrome, type 1C","['0000365', '0000505', '0000572', '0000510', '0032118', '0000546', '0000618', '0000662', '0007642', '0007875', '0007994', '0007663']","['Hearing impairment', 'Visual impairment', 'Visual loss', 'Rod-cone dystrophy', 'Retinitis', 'Retinal degeneration', 'Blindness', 'Nyctalopia', 'Congenital stationary night blindness', 'Congenital blindness', 'Peripheral visual field loss', 'Reduced visual acuity']"
+601067,"Usher syndrome, type 1D","['0000365', '0000505', '0000572', '0000510', '0032118', '0000546', '0000618', '0000662', '0007642', '0007875', '0007994', '0007663']","['Hearing impairment', 'Visual impairment', 'Visual loss', 'Rod-cone dystrophy', 'Retinitis', 'Retinal degeneration', 'Blindness', 'Nyctalopia', 'Congenital stationary night blindness', 'Congenital blindness', 'Peripheral visual field loss', 'Reduced visual acuity']"
+276901,"Usher syndrome, type 2A","['0000365', '0000505', '0000572', '0000510', '0032118', '0000546', '0000618', '0000662', '0007642', '0007875', '0007994', '0007663']","['Hearing impairment', 'Visual impairment', 'Visual loss', 'Rod-cone dystrophy', 'Retinitis', 'Retinal degeneration', 'Blindness', 'Nyctalopia', 'Congenital stationary night blindness', 'Congenital blindness', 'Peripheral visual field loss', 'Reduced visual acuity']"
+276902,"Usher syndrome, type 3","['0000365', '0000505', '0000572', '0000510', '0032118', '0000546', '0000618', '0000662', '0007642', '0007875', '0007994', '0007663']","['Hearing impairment', 'Visual impairment', 'Visual loss', 'Rod-cone dystrophy', 'Retinitis', 'Retinal degeneration', 'Blindness', 'Nyctalopia', 'Congenital stationary night blindness', 'Congenital blindness', 'Peripheral visual field loss', 'Reduced visual acuity']"
+600630,UV-sensitive syndrome,[],[]
+192350,VACTERL association,[],[]
+239100,Van Buchem disease,[],[]
+119300,van der Woude syndrome,[],[]
+192430,Velocardiofacial syndrome,"['0001627', '0030680', '0002019', '0000220', '0002719', '0005359', '0002901', '0000829', '0100753']","['Abnormal heart morphology', 'Abnormality of cardiovascular system morphology', 'Constipation', 'Velopharyngeal insufficiency', 'Recurrent infections', 'Aplasia of the thymus', 'Hypocalcemia', 'Hypoparathyroidism', 'Schizophrenia']"
+201475,VLCAD deficiency,"['0001254', '0001638', '0001698', '0001943', '0001985', '0002013', '0002240', '0003201', '0003326', '0011675', '0030766']","['Lethargy', 'Cardiomyopathy', 'Pericardial effusion', 'Hypoglycemia', 'Hypoketotic hypoglycemia', 'Vomiting', 'Hepatomegaly', 'Rhabdomyolysis', 'Myalgia', 'Arrhythmia', 'Ear pain']"
+124500,Vohwinkel syndrome,[],[]
+193300,von Hippel–Lindau syndrome,"['0010797', '0002664', '0000572', '0001297', '0001658', '0001626', '0009713']","['Hemangioblastoma', 'Neoplasm', 'Visual loss', 'Stroke', 'Myocardial infarction', 'Abnormality of the cardiovascular system', 'Spinal hemangioblastoma']"
+193500,Waardenburg syndrome type 1,[],[]
+608890,Waardenburg syndrome type 2D,[],[]
+148820,Waardenburg syndrome type 3,"['0000365', '0000407', '0008527']","['Hearing impairment', 'Sensorineural hearing impairment', 'Congenital sensorineural hearing impairment']"
+277580,Waardenburg syndrome type 4A,"['0000365', '0000407', '0008527']","['Hearing impairment', 'Sensorineural hearing impairment', 'Congenital sensorineural hearing impairment']"
+613265,Waardenburg syndrome type 4B,"['0000365', '0000407', '0008527']","['Hearing impairment', 'Sensorineural hearing impairment', 'Congenital sensorineural hearing impairment']"
+613266,Waardenburg syndrome type 4C,"['0000365', '0000407', '0008527']","['Hearing impairment', 'Sensorineural hearing impairment', 'Congenital sensorineural hearing impairment']"
+193510,Waardenburg syndrome type IIA,"['0000365', '0000407', '0008527']","['Hearing impairment', 'Sensorineural hearing impairment', 'Congenital sensorineural hearing impairment']"
+122700,Warfarin resistance,[],[]
+613398,Warsaw breakage syndrome,[],[]
+193520,Watson syndrome,[],[]
+277590,Weaver syndrome,"['0001249', '0001263', '0001270', '0002194', '0001256', '0002370', '0000707', '0000750', '0001250', '0001276', '0001290', '0001319', '0000708']","['Intellectual disability', 'Global developmental delay', 'Motor delay', 'Delayed gross motor development', 'Intellectual disability, mild', 'Poor coordination', 'Abnormality of the nervous system', 'Delayed speech and language development', 'Seizures', 'Hypertonia', 'Generalized hypotonia', 'Neonatal hypotonia', 'Behavioral abnormality']"
+608328,"Weill–Marchesani syndrome, dominant",[],[]
+277610,Weissenbacher–Zweymüller syndrome,[],[]
+277700,Werner syndrome,[],[]
+193670,WHIM syndrome,[],[]
+193900,White sponge nevus,[],[]
+194070,Wilms' tumor,"['0002664', '0002667', '0001945', '0002018', '0002027', '0031500', '0000790', '0000822', '0002013', '0012871']","['Neoplasm', 'Nephroblastoma', 'Fever', 'Nausea', 'Abdominal pain', 'Abdominal mass', 'Hematuria', 'Hypertension', 'Vomiting', 'Varicocele']"
+277900,Wilson's disease,"['0025321', '0001392']","['Copper accumulation in liver', 'Abnormality of the liver']"
+301000,Wiskott–Aldrich syndrome,"['0001873', '0001905', '0000967', '0002014', '0025085', '0000964', '0002718', '0002719', '0002960', '0002664', '0002665', '0001909', '0005537', '0001880']","['Thrombocytopenia', 'Congenital thrombocytopenia', 'Petechiae', 'Diarrhea', 'Bloody diarrhea', 'Eczema', 'Recurrent bacterial infections', 'Recurrent infections', 'Autoimmunity', 'Neoplasm', 'Lymphoma', 'Leukemia', 'Decreased mean platelet volume', 'Eosinophilia']"
+189500,Witkop syndrome,[],[]
+226980,Wolcott–Rallison syndrome,[],[]
+194200,Wolff–Parkinson–White syndrome,[],[]
+604928,Wolfram syndrome 2,[],[]
+222300,Wolfram syndrome,[],[]
+241080,Woodhouse–Sakati syndrome,[],[]
+278250,Wrinkly skin syndrome,"['0100678', '0000973', '0000270', '0001263', '0025167']","['Premature skin wrinkling', 'Cutis laxa', 'Delayed cranial suture closure', 'Global developmental delay', 'Fragmented elastic fibers in the dermis']"
+278700,Xeroderma pigmentosum group A,"['0025127', '0002664', '0008069', '0001009', '0001480', '0000495', '0000958', '0012804', '0040189']","['Actinic keratosis', 'Neoplasm', 'Neoplasm of the skin', 'Telangiectasia', 'Freckling', 'Recurrent corneal erosions', 'Dry skin', 'Corneal ulceration', 'Scaling skin']"
+610651,Xeroderma pigmentosum group B,"['0025127', '0002664', '0008069', '0001009', '0001480', '0000495', '0000958', '0012804', '0040189']","['Actinic keratosis', 'Neoplasm', 'Neoplasm of the skin', 'Telangiectasia', 'Freckling', 'Recurrent corneal erosions', 'Dry skin', 'Corneal ulceration', 'Scaling skin']"
+278720,Xeroderma pigmentosum group C,"['0025127', '0002664', '0008069', '0001009', '0001480', '0000495', '0000958', '0012804', '0040189']","['Actinic keratosis', 'Neoplasm', 'Neoplasm of the skin', 'Telangiectasia', 'Freckling', 'Recurrent corneal erosions', 'Dry skin', 'Corneal ulceration', 'Scaling skin']"
+278730,Xeroderma pigmentosum group D,"['0025127', '0002664', '0008069', '0001009', '0001480', '0000495', '0000958', '0012804', '0040189']","['Actinic keratosis', 'Neoplasm', 'Neoplasm of the skin', 'Telangiectasia', 'Freckling', 'Recurrent corneal erosions', 'Dry skin', 'Corneal ulceration', 'Scaling skin']"
+278760,Xeroderma pigmentosum group F,"['0025127', '0002664', '0008069', '0001009', '0001480', '0000495', '0000958', '0012804', '0040189']","['Actinic keratosis', 'Neoplasm', 'Neoplasm of the skin', 'Telangiectasia', 'Freckling', 'Recurrent corneal erosions', 'Dry skin', 'Corneal ulceration', 'Scaling skin']"
+278780,Xeroderma pigmentosum group G,"['0025127', '0002664', '0008069', '0001009', '0001480', '0000495', '0000958', '0012804', '0040189']","['Actinic keratosis', 'Neoplasm', 'Neoplasm of the skin', 'Telangiectasia', 'Freckling', 'Recurrent corneal erosions', 'Dry skin', 'Corneal ulceration', 'Scaling skin']"
+278750,"Xeroderma pigmentosum, variant type","['0025127', '0002664', '0008069', '0001009', '0001480', '0000495', '0000958', '0012804', '0040189']","['Actinic keratosis', 'Neoplasm', 'Neoplasm of the skin', 'Telangiectasia', 'Freckling', 'Recurrent corneal erosions', 'Dry skin', 'Corneal ulceration', 'Scaling skin']"
+214100,Zellweger syndrome,"['0000365', '0001730', '0000290', '0000348', '0009891', '0000286', '0011800', '0000239', '0002240', '0100593', '0000478', '0000107', '0001252', '0001290', '0001319', '0001250', '0002104']","['Hearing impairment', 'Progressive hearing impairment', 'Abnormality of the forehead', 'High forehead', 'Underdeveloped supraorbital ridges', 'Epicanthus', 'Midface retrusion', 'Large fontanelles', 'Hepatomegaly', 'Calcification of cartilage', 'Abnormality of the eye', 'Renal cyst', 'Muscular hypotonia', 'Generalized hypotonia', 'Neonatal hypotonia', 'Seizures', 'Apnea']"

@@ -1,0 +1,9 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0002664	Neoplasm	5	7	 151 157 hp 0002664 tumors
+HP:0001067	Neurofibromas	4	1	 213 226 hp 0001067 neurofibromas
+HP:0004375	Neoplasm of the nervous system	1	8	 151 179 hp 0004375 tumors of the nervous system
+HP:0002858	Meningioma	1	9	 191 202 hp 0002858 meningiomas
+HP:0009733	Glioma	1	10	 204 211 hp 0009733 gliomas
+HP:0002888	Ependymoma	1	12	 228 239 hp 0002888 ependymomas
+HP:0009588	Vestibular Schwannoma	1	13	 258 275 hp 0009588 acoustic neuromas
+HP:0030430	Neuroma	1	13	 258 275 hp 0009588 acoustic neuromas

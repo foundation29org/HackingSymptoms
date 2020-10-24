@@ -1,0 +1,5 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001250	Seizures	2	0	 260 268 hp 0001250 seizures 328 345 hp 0002353 eeg abnormalities 376 412 hp 0010846 persistent rhythmic 4 6 s activities 463 473 hp 0002329 drowsiness 881 890 hp 0003593 young age 881 886 hp 0003593 young 1174 1183 hp 0003593 early age
+HP:0002329	Drowsiness	2	0	 260 268 hp 0001250 seizures 328 345 hp 0002353 eeg abnormalities 376 412 hp 0010846 persistent rhythmic 4 6 s activities 463 473 hp 0002329 drowsiness 881 890 hp 0003593 young age 881 886 hp 0003593 young 1174 1183 hp 0003593 early age
+HP:0002353	EEG abnormality	2	0	 260 268 hp 0001250 seizures 328 345 hp 0002353 eeg abnormalities 376 412 hp 0010846 persistent rhythmic 4 6 s activities 463 473 hp 0002329 drowsiness 881 890 hp 0003593 young age 881 886 hp 0003593 young 1174 1183 hp 0003593 early age
+HP:0000598	Abnormality of the ear	1	0	 260 268 hp 0001250 seizures 328 345 hp 0002353 eeg abnormalities 376 412 hp 0010846 persistent rhythmic 4 6 s activities 463 473 hp 0002329 drowsiness 881 890 hp 0003593 young age 881 886 hp 0003593 young 1174 1183 hp 0003593 early age

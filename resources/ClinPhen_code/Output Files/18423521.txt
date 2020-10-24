@@ -1,0 +1,5 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001595	Abnormality of the hair	2	19	 358 406 hp 0000077 renal and ectodermal dental and hair anomalies
+HP:0000175	Cleft palate	1	6	 67 79 hp 0000175 cleft palate
+HP:0000356	Abnormality of the outer ear	1	14	 306 322 hp 0000356 malformed pinnae
+HP:0000202	Oral cleft	1	15	 324 335 hp 0000202 oral clefts

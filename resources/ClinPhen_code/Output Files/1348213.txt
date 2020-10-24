@@ -1,0 +1,7 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0002671	Basal cell carcinoma	5	4	 70 91 hp 0002671 basal cell carcinomas
+HP:0030731	Carcinoma	5	4	 70 91 hp 0002671 basal cell carcinomas
+HP:0002664	Neoplasm	5	8	 195 201 hp 0002664 cancer
+HP:0010614	Fibroma	2	6	 105 121 hp 0010618 ovarian fibromas
+HP:0010618	Ovarian fibroma	2	6	 105 121 hp 0010618 ovarian fibromas
+HP:0002885	Medulloblastoma	1	7	 127 143 hp 0002885 medulloblastomas

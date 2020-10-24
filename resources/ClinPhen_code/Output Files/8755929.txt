@@ -1,0 +1,12 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0002664	Neoplasm	4	12	 1283 1292 hp 0002664 neoplasms
+HP:0000365	Hearing impairment	2	16	 991 1014 hp 0000405 conductive hearing loss
+HP:0002671	Basal cell carcinoma	1	4	 76 97 hp 0002671 basal cell carcinomas
+HP:0030731	Carcinoma	1	4	 76 97 hp 0002671 basal cell carcinomas
+HP:0002885	Medulloblastoma	1	5	 99 115 hp 0002885 medulloblastomas
+HP:0010614	Fibroma	1	6	 117 133 hp 0010618 ovarian fibromas
+HP:0010618	Ovarian fibroma	1	6	 117 133 hp 0010618 ovarian fibromas
+HP:0001249	Intellectual disability	1	14	 971 989 hp 0001249 mental retardation
+HP:0000405	Conductive hearing impairment	1	16	 991 1014 hp 0000405 conductive hearing loss
+HP:0008591	Congenital conductive hearing impairment	1	16	 991 1014 hp 0000405 conductive hearing loss
+HP:0001508	Failure to thrive	1	18	 1020 1037 hp 0001508 failure to thrive

@@ -1,0 +1,8 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001762	Talipes equinovarus	2	1	 0 9 hp 0001762 club foot
+HP:0002804	Arthrogryposis multiplex congenita	2	2	 68 89 hp 0005684 distal arthrogryposis
+HP:0001371	Flexion contracture	2	8	 624 646 hp 0002803 congenital contracture
+HP:0002803	Congenital contracture	2	8	 624 646 hp 0002803 congenital contracture
+HP:0001760	Abnormality of the foot	2	10	 665 692 hp 0005656 positional foot deformities
+HP:0005684	Distal arthrogryposis	1	2	 68 89 hp 0005684 distal arthrogryposis
+HP:0005656	Positional foot deformity	1	10	 665 692 hp 0005656 positional foot deformities

@@ -1,0 +1,6 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001510	Growth delay	4	5	 261 279 hp 0001510 growth retardation
+HP:0008897	Postnatal growth retardation	2	5	 51 96 hp 0001511 intrauterine and postnatal growth retardation
+HP:0100272	Branchial sinus	1	2	 22 49 hp 0009794 bilateral branchial sinuses
+HP:0000271	Abnormality of the face	1	9	 98 123 hp 0002004 unusual facial appearance
+HP:0001999	Abnormal facial shape	1	9	 98 123 hp 0002004 unusual facial appearance

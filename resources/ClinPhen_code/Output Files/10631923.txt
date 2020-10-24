@@ -1,0 +1,13 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000365	Hearing impairment	2	7	 866 874 hp 0000404 deafness
+HP:0002027	Abdominal pain	2	13	 421 447 hp 0002574 episodes of abdominal pain
+HP:0002023	Anal atresia	1	4	 136 152 hp 0002023 imperforate anus
+HP:0001199	Triphalangeal thumb	1	5	 154 173 hp 0001199 triphalangeal thumb
+HP:0000356	Abnormality of the outer ear	1	6	 178 191 hp 0000598 ear anomalies
+HP:0000598	Abnormality of the ear	1	6	 178 191 hp 0000598 ear anomalies
+HP:0000969	Edema	1	16	 500 505 hp 0000969 edema
+HP:0004322	Short stature	1	20	 746 759 hp 0004322 short stature
+HP:0001545	Anteriorly placed anus	1	21	 778 797 hp 0001545 antepositioned anus
+HP:0009944	Partial duplication of thumb phalanx	1	22	 799 816 hp 0009944 bifid right thumb
+HP:0000369	Low-set ears	1	24	 830 842 hp 0000369 low set ears
+HP:0000308	Microretrognathia	1	25	 844 861 hp 0000308 microretrognathia

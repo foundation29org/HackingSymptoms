@@ -1,0 +1,9 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000365	Hearing impairment	2	2	 186 212 hp 0000407 sensorineural hearing loss
+HP:0001251	Ataxia	2	5	 237 248 hp 0001251 mild ataxia
+HP:0000248	Brachycephaly	1	1	 171 184 hp 0000248 brachycephaly
+HP:0000407	Sensorineural hearing impairment	1	2	 186 212 hp 0000407 sensorineural hearing loss
+HP:0008527	Congenital sensorineural hearing impairment	1	2	 186 212 hp 0000407 sensorineural hearing loss
+HP:0002167	Neurological speech impairment	1	4	 214 231 hp 0002167 speech impediment
+HP:0002700	Large foramen magnum	1	7	 275 298 hp 0002700 enlarged foramen magnum
+HP:0002363	Abnormality of brainstem morphology	1	8	 373 394 hp 0002363 brainstem abnormality

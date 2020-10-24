@@ -1,0 +1,5 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0002664	Neoplasm	4	11	 639 645 hp 0002664 tumors
+HP:0002671	Basal cell carcinoma	2	2	 11 31 hp 0002671 basal cell carcinoma
+HP:0030731	Carcinoma	2	2	 11 31 hp 0002671 basal cell carcinoma
+HP:0010603	Odontogenic keratocysts of the jaw	1	10	 168 183 hp 0010603 jaw keratocysts

@@ -1,0 +1,4 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0010239	Aplasia of the middle phalanx of the hand	2	3	 63 108 hp 0005819 shortening or missing of the middle phalanges
+HP:0001156	Brachydactyly	1	1	 0 22 hp 0009371 brachydactyly type a 1
+HP:0009370	Type A brachydactyly	1	1	 0 22 hp 0009371 brachydactyly type a 1

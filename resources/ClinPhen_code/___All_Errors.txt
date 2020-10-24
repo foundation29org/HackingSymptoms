@@ -1,0 +1,6 @@
+CorrelationId: 5923a8fe-17db-40bc-acb6-68d98837c194
+UTC DateTime: 8/12/2020 4:02:00 AM
+
+The following files/folders have not been downloaded
+1. Datasets/ClinPhen/Input Files
+2. Datasets/ClinPhen/Output Files

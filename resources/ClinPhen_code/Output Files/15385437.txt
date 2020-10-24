@@ -1,0 +1,2 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001249	Intellectual disability	2	0	 531 548 hp 0001442 somatic mosaicism 1162 1180 hp 0001249 mental retardation 1169 1180 hp 0001249 retardation

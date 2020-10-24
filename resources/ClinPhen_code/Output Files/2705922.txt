@@ -1,0 +1,6 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000518	Cataract	6	2	 133 160 hp 0100020 posterior capsular cataract
+HP:0000519	Developmental cataract	3	2	 133 160 hp 0100020 posterior capsular cataract
+HP:0100017	Capsular cataract	2	2	 133 160 hp 0100020 posterior capsular cataract
+HP:0001067	Neurofibromas	1	1	 48 65 hp 0006746 neurofibromatosis
+HP:0100020	Posterior capsular cataract	1	2	 133 160 hp 0100020 posterior capsular cataract

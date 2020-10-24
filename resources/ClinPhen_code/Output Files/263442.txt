@@ -1,0 +1,8 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000365	Hearing impairment	6	6	 1212 1220 hp 0000404 deafness
+HP:0000110	Renal dysplasia	2	4	 27 42 hp 0000110 renal dysplasia
+HP:0004467	Preauricular pit	2	10	 442 459 hp 0004467 preauricular pits
+HP:0009795	Branchial fistula	2	14	 500 518 hp 0009795 branchial fistulas
+HP:0000077	Abnormality of the kidney	2	21	 1229 1244 hp 0000077 renal anomalies
+HP:0009796	Branchial cyst	1	14	 500 527 hp 0009796 branchial fistulas or cysts
+HP:0012210	Abnormal renal morphology	1	31	 1100 1118 hp 0000792 renal malformation

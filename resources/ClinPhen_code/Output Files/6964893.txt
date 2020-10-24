@@ -1,0 +1,12 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000365	Hearing impairment	8	5	 916 928 hp 0000365 hearing loss
+HP:0000410	Mixed hearing impairment	3	12	 534 581 hp 0000407 sensorineural conductive or mixed hearing loss
+HP:0000405	Conductive hearing impairment	2	12	 534 581 hp 0000407 sensorineural conductive or mixed hearing loss
+HP:0008591	Congenital conductive hearing impairment	2	12	 534 581 hp 0000407 sensorineural conductive or mixed hearing loss
+HP:0009795	Branchial fistula	2	23	 681 708 hp 0009796 branchial fistulas or cysts
+HP:0004467	Preauricular pit	1	16	 583 600 hp 0004467 preauricular pits
+HP:0007678	Lacrimal duct stenosis	1	21	 657 679 hp 0007925 lacrimal duct stenosis
+HP:0009796	Branchial cyst	1	24	 681 708 hp 0009796 branchial fistulas or cysts
+HP:0000077	Abnormality of the kidney	1	27	 743 758 hp 0000077 renal anomalies
+HP:0012210	Abnormal renal morphology	1	33	 972 990 hp 0000792 renal malformation
+HP:0000110	Renal dysplasia	1	34	 1232 1247 hp 0000110 renal dysplasia

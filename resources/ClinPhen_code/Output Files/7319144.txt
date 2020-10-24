@@ -1,0 +1,2 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001250	Seizures	1	4	 355 362 hp 0001250 seizure

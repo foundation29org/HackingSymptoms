@@ -1,0 +1,16 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000159	Abnormal lip morphology	1	4	 46 64 hp 0000177 abnormal upper lip
+HP:0000177	Abnormality of upper lip	1	4	 46 64 hp 0000177 abnormal upper lip
+HP:0410030	Cleft lip	1	5	 100 109 hp 0100333 cleft lip
+HP:0000579	Nasolacrimal duct obstruction	1	9	 163 188 hp 0000579 lacrimal duct obstruction
+HP:0000377	Abnormality of the pinna	1	10	 190 204 hp 0000377 malformed ears
+HP:0100272	Branchial sinus	1	12	 210 233 hp 0009794 branchial cleft sinuses
+HP:0000589	Coloboma	1	17	 498 506 hp 0000589 coloboma
+HP:0000568	Microphthalmia	1	18	 508 522 hp 0000568 microphthalmia
+HP:0030025	Auricular pit	1	19	 524 538 hp 0004467 auricular pits
+HP:0100267	Lip pit	1	21	 540 548 hp 0000196 lip pits
+HP:0000164	Abnormality of the dentition	1	24	 571 587 hp 0000164 dental anomalies
+HP:0002216	Premature graying of hair	1	27	 626 651 hp 0002216 premature graying of hair
+HP:0001510	Growth delay	1	28	 685 703 hp 0001510 growth retardation
+HP:0001263	Global developmental delay	1	30	 705 724 hp 0001263 developmental delay
+HP:0001155	Abnormality of the hand	1	31	 730 744 hp 0001155 hand anomalies

@@ -1,0 +1,5 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000951	Abnormality of the skin	1	32	 506 529 hp 0000951 abnormal overlying skin
+HP:0012210	Abnormal renal morphology	1	35	 560 579 hp 0000792 renal malformations
+HP:0001290	Generalized hypotonia	1	40	 727 736 hp 0001252 hypotonia
+HP:0001319	Neonatal hypotonia	1	40	 727 736 hp 0001252 hypotonia

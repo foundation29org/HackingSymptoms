@@ -1,0 +1,6 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0002664	Neoplasm	2	0	 37 64 hp 0001627 enlarged cardiac silhouette 256 280 hp 0010617 left ventricular fibroma 286 291 hp 0002664 tumor 331 353 hp 0004308 ventricular arrhythmia
+HP:0004308	Ventricular arrhythmia	2	0	 37 64 hp 0001627 enlarged cardiac silhouette 256 280 hp 0010617 left ventricular fibroma 286 291 hp 0002664 tumor 331 353 hp 0004308 ventricular arrhythmia
+HP:0010614	Fibroma	2	0	 37 64 hp 0001627 enlarged cardiac silhouette 256 280 hp 0010617 left ventricular fibroma 286 291 hp 0002664 tumor 331 353 hp 0004308 ventricular arrhythmia
+HP:0011675	Arrhythmia	2	0	 37 64 hp 0001627 enlarged cardiac silhouette 256 280 hp 0010617 left ventricular fibroma 286 291 hp 0002664 tumor 331 353 hp 0004308 ventricular arrhythmia
+HP:0010617	Cardiac fibroma	1	0	 37 64 hp 0001627 enlarged cardiac silhouette 256 280 hp 0010617 left ventricular fibroma 286 291 hp 0002664 tumor 331 353 hp 0004308 ventricular arrhythmia

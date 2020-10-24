@@ -1,0 +1,2 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0400005	Short ear	3	0	 750 759 hp 0400005 short ear 910 919 hp 0400005 short ear

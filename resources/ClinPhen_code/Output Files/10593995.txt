@@ -1,0 +1,10 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0410030	Cleft lip	4	9	 583 592 hp 0100333 cleft lip
+HP:0100267	Lip pit	4	13	 625 639 hp 0000196 lower lip pits
+HP:0000175	Cleft palate	3	10	 208 231 hp 0000202 cleft lip cleft palate
+HP:0001059	Pterygium	2	3	 0 19 hp 0009756 popliteal pterygium
+HP:0000196	Lower lip pit	2	13	 625 639 hp 0000196 lower lip pits
+HP:0001597	Abnormality of the nail	2	18	 265 291 hp 0000078 genital and nail anomalies
+HP:0009756	Popliteal pterygium	1	3	 0 19 hp 0009756 popliteal pterygium
+HP:0001159	Syndactyly	1	16	 249 259 hp 0001159 syndactyly
+HP:0000202	Oral cleft	1	23	 583 599 hp 0000202 cleft lip palate

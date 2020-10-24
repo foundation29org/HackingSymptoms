@@ -1,0 +1,4 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000303	Mandibular prognathia	3	0	 55 75 hp 0002671 basal cell carcinoma 107 158 hp 0000277 bilateral mandibular coronoid processes hyperplasia 214 272 hp 0000277 bilateral hyperplasia of the mandibular coronoid processes
+HP:0002671	Basal cell carcinoma	2	0	 55 75 hp 0002671 basal cell carcinoma 107 158 hp 0000277 bilateral mandibular coronoid processes hyperplasia 214 272 hp 0000277 bilateral hyperplasia of the mandibular coronoid processes
+HP:0030731	Carcinoma	2	0	 55 75 hp 0002671 basal cell carcinoma 107 158 hp 0000277 bilateral mandibular coronoid processes hyperplasia 214 272 hp 0000277 bilateral hyperplasia of the mandibular coronoid processes

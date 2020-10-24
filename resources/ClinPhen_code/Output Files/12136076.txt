@@ -1,0 +1,4 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0100001	Malignant mesothelioma	3	0	 17 34 hp 0006746 neurofibromatosis 43 48 hp 0002664 tumor 121 143 hp 0100001 malignant mesothelioma 250 272 hp 0100001 malignant mesothelioma 310 322 hp 0100001 mesothelioma 562 589 hp 0006741 susceptible to mesothelioma 577 589 hp 0100001 mesothelioma
+HP:0001067	Neurofibromas	2	0	 17 34 hp 0006746 neurofibromatosis 43 48 hp 0002664 tumor 121 143 hp 0100001 malignant mesothelioma 250 272 hp 0100001 malignant mesothelioma 310 322 hp 0100001 mesothelioma 562 589 hp 0006741 susceptible to mesothelioma 577 589 hp 0100001 mesothelioma
+HP:0002664	Neoplasm	2	0	 17 34 hp 0006746 neurofibromatosis 43 48 hp 0002664 tumor 121 143 hp 0100001 malignant mesothelioma 250 272 hp 0100001 malignant mesothelioma 310 322 hp 0100001 mesothelioma 562 589 hp 0006741 susceptible to mesothelioma 577 589 hp 0100001 mesothelioma

@@ -1,0 +1,125 @@
+{
+	"info": {
+		"_postman_id": "1502e9bf-c729-4134-93ef-4f704eb36eb1",
+		"name": "hacksymptoms",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://hacksymptoms-appservice.azurewebsites.net:5000/text/analytics/v3.0-preview.1/domains/health",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"documents\": [\r\n    {\r\n      \"language\": \"en\",\r\n      \"id\": \"1\",\r\n      \"text\": \"Patient reported itchy sores after swimming in the lake.\"\r\n    },\r\n    {\r\n      \"language\": \"en\",\r\n      \"id\": \"2\",\r\n      \"text\": \"Prescribed 50mg benadryl, taken twice daily.\"\r\n    }\r\n  ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://hacksymptoms-appservice.azurewebsites.net:5000/text/analytics/v3.0-preview.1/domains/health",
+					"protocol": "https",
+					"host": [
+						"hacksymptoms-appservice",
+						"azurewebsites",
+						"net"
+					],
+					"port": "5000",
+					"path": [
+						"text",
+						"analytics",
+						"v3.0-preview.1",
+						"domains",
+						"health"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://f29bio-dev.northeurope.cloudapp.azure.com/api/BioEntity/diseases/{lang}/all",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://f29bio-dev.northeurope.cloudapp.azure.com/api/BioEntity/diseases/{lang}/all",
+					"protocol": "https",
+					"host": [
+						"f29bio-dev",
+						"northeurope",
+						"cloudapp",
+						"azure",
+						"com"
+					],
+					"path": [
+						"api",
+						"BioEntity",
+						"diseases",
+						"{lang}",
+						"all"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://ta4h-app-service.azurewebsites.net/text/analytics/v3.0-preview.1/domains/health",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"documents\": [\r\n    {\r\n      \"language\": \"en\",\r\n      \"id\": \"1\",\r\n      \"text\": \"Patient reported itchy sores after swimming in the lake.\"\r\n    },\r\n    {\r\n      \"language\": \"en\",\r\n      \"id\": \"2\",\r\n      \"text\": \"Prescribed 50mg benadryl, taken twice daily.\"\r\n    }\r\n  ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://ta4h-app-service.azurewebsites.net/text/analytics/v3.0-preview.1/domains/health",
+					"protocol": "https",
+					"host": [
+						"ta4h-app-service",
+						"azurewebsites",
+						"net"
+					],
+					"path": [
+						"text",
+						"analytics",
+						"v3.0-preview.1",
+						"domains",
+						"health"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

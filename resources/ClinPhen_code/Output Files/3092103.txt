@@ -1,0 +1,7 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0002664	Neoplasm	7	1	 248 255 hp 0002664 tumours
+HP:0009588	Vestibular Schwannoma	4	6	 1467 1484 hp 0009588 acoustic neuromas
+HP:0030430	Neuroma	4	6	 1467 1484 hp 0009588 acoustic neuromas
+HP:0001067	Neurofibromas	4	10	 1553 1589 hp 0009589 bilateral acoustic neurofibromatosis
+HP:0002858	Meningioma	3	17	 1524 1535 hp 0002858 meningiomas
+HP:0009589	Bilateral vestibular Schwannoma	1	15	 1457 1484 hp 0009589 bilateral acoustic neuromas

@@ -1,0 +1,5 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001067	Neurofibromas	6	1	 51 68 hp 0006746 neurofibromatosis
+HP:0002664	Neoplasm	4	9	 227 243 hp 0008069 cutaneous tumors
+HP:0009735	Spinal neurofibromas	2	2	 96 116 hp 0009735 spinal neurofibromas
+HP:0009737	Lisch nodules	1	11	 245 258 hp 0009737 lisch nodules

@@ -1,0 +1,2 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000238	Hydrocephalus	3	4	 346 359 hp 0000238 hydrocephalus

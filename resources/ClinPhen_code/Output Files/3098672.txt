@@ -1,0 +1,3 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001067	Neurofibromas	4	0	 36 49 hp 0001067 neurofibromas 83 91 hp 0003745 sporadic 103 120 hp 0006746 neurofibromatosis 604 615 hp 0002858 meningiomas 620 633 hp 0001067 neurofibromas
+HP:0002858	Meningioma	2	0	 36 49 hp 0001067 neurofibromas 83 91 hp 0003745 sporadic 103 120 hp 0006746 neurofibromatosis 604 615 hp 0002858 meningiomas 620 633 hp 0001067 neurofibromas

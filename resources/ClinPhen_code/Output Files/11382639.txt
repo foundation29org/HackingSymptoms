@@ -1,0 +1,7 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0002671	Basal cell carcinoma	14	1	 100 120 hp 0002671 basal cell carcinoma
+HP:0030731	Carcinoma	14	1	 100 120 hp 0002671 basal cell carcinoma
+HP:0002007	Frontal bossing	1	6	 1022 1037 hp 0002007 frontal bossing
+HP:0010610	Palmar pits	1	8	 1100 1111 hp 0010610 palmar pits
+HP:0010766	Ectopic calcification	1	11	 1168 1189 hp 0010766 ectopic calcification
+HP:0002664	Neoplasm	1	20	 1993 1999 hp 0002664 cancer

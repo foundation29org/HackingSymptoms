@@ -1,0 +1,5 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0002671	Basal cell carcinoma	4	1	 20 40 hp 0002671 basal cell carcinoma
+HP:0030731	Carcinoma	4	1	 20 40 hp 0002671 basal cell carcinoma
+HP:0000924	Abnormality of the skeletal system	1	7	 177 195 hp 0000924 skeletal anomalies
+HP:0002514	Cerebral calcification	1	8	 197 223 hp 0002514 intracranial calcification

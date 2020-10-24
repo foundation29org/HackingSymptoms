@@ -1,0 +1,10 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000356	Abnormality of the outer ear	2	6	 139 161 hp 0000356 external ear anomalies
+HP:0000598	Abnormality of the ear	2	6	 139 161 hp 0000356 external ear anomalies
+HP:0010442	Polydactyly	2	9	 177 197 hp 0001177 preaxial polydactyly
+HP:0000365	Hearing impairment	1	8	 163 175 hp 0000365 hearing loss
+HP:0100258	Preaxial polydactyly	1	9	 177 197 hp 0001177 preaxial polydactyly
+HP:0001199	Triphalangeal thumb	1	11	 202 222 hp 0001199 triphalangeal thumbs
+HP:0002023	Anal atresia	1	12	 224 240 hp 0002023 imperforate anus
+HP:0012210	Abnormal renal morphology	1	13	 246 265 hp 0000792 renal malformations
+HP:0001249	Intellectual disability	1	14	 344 362 hp 0001249 mental retardation
