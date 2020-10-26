@@ -22,7 +22,7 @@ Data: GSC
    - modified package with similarity metrics - patient_similarity
 
 ### Results (average over the metrics), the higher the better, blue marks the maximum
-<img src="../resources/GSC_results.png" alt="Initial results" width="600"/>
+<img src="resources/GSC_results.png" alt="Initial results" width="600"/>
 
 ## Other results
 Resource for below similarities: [Notebook 2](https://github.com/foundation29org/HackingSymptoms/blob/master/code/PerformanceComparison/BenchmarkPerformance.ipynb)
